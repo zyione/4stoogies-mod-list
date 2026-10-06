@@ -1,0 +1,3543 @@
+{
+  "Schema": 1,
+  "Version": "1.1",
+  "Minecraft": "1.20.1",
+  "Fabric": "0.19.5",
+  "Repositories": [
+    {
+      "Category": "mods",
+      "Url": "https://github.com/zyione/4stoogies-mod-list.git",
+      "Branch": "main",
+      "Commit": "b84952b5a745b4f80bf77c6497b3f6301c9b98c0"
+    },
+    {
+      "Category": "resourcepacks",
+      "Url": "https://github.com/zyione/4stoogies-resourcepack-list.git",
+      "Branch": "main",
+      "Commit": "f29b357be5b13b6f0e102b298e0ad517d518957c"
+    },
+    {
+      "Category": "shaderpacks",
+      "Url": "https://github.com/zyione/4stoogies-shaderpack-list.git",
+      "Branch": "main",
+      "Commit": "7dc97cb8f1dc578ed524930fdceea32d9390bd4a"
+    }
+  ],
+  "Files": [
+    {
+      "Category": "mods",
+      "Path": "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
+      "RepositoryPath": "mods/AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
+      "Size": 53432488,
+      "Sha256": "afd5969be057999fb96833763c3313965ac7a1770f83a921130989547f0af7ed",
+      "FabricId": "ambientsounds"
+    },
+    {
+      "Category": "mods",
+      "Path": "AttributeFix-Fabric-1.20.1-21.0.4.jar",
+      "RepositoryPath": "mods/AttributeFix-Fabric-1.20.1-21.0.4.jar",
+      "Size": 17975,
+      "Sha256": "40583a0336c3106cae0624045fee09f1e271fc5840f4e6b21cec7867de176059",
+      "FabricId": "attributefix"
+    },
+    {
+      "Category": "mods",
+      "Path": "BCGUtil-mc1.20.1-v1.0.5-fabric.jar",
+      "RepositoryPath": "mods/BCGUtil-mc1.20.1-v1.0.5-fabric.jar",
+      "Size": 778378,
+      "Sha256": "c5eea8fd4a611caa762a2e52b22d2e3cc92202d58f07ef96ae3d3bf8fe4adaff",
+      "FabricId": "bcgutil"
+    },
+    {
+      "Category": "mods",
+      "Path": "BHMenu-Fabric-1.20.1-2.4.1.jar",
+      "RepositoryPath": "mods/BHMenu-Fabric-1.20.1-2.4.1.jar",
+      "Size": 201007,
+      "Sha256": "e50d622d71b57f9b6a137aa9590e190cd13e44571d5bd6af1577afe72b5587e8",
+      "FabricId": null
+    },
+    {
+      "Category": "mods",
+      "Path": "BadOptimizations-2.4.1-1.20.1.jar",
+      "RepositoryPath": "mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "Size": 460234,
+      "Sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
+      "FabricId": "badoptimizations"
+    },
+    {
+      "Category": "mods",
+      "Path": "BarteringStation-v8.0.0-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/BarteringStation-v8.0.0-1.20.1-Fabric.jar",
+      "Size": 189576,
+      "Sha256": "55b6e257c9f7adca049fd9e948d221227051c72e6c3bb1f8387dfda6040e6599",
+      "FabricId": "barteringstation"
+    },
+    {
+      "Category": "mods",
+      "Path": "BedBenefits-Fabric-1.20.1-13.0.3.jar",
+      "RepositoryPath": "mods/BedBenefits-Fabric-1.20.1-13.0.3.jar",
+      "Size": 11735,
+      "Sha256": "3109e6132b8d7768a1957fe109258776970293faf02034ed10b6da4328bc47a7",
+      "FabricId": "bedbenefits"
+    },
+    {
+      "Category": "mods",
+      "Path": "BetterFullscreen-v2.3.0_01-mc1.20.1.jar",
+      "RepositoryPath": "mods/BetterFullscreen-v2.3.0_01-mc1.20.1.jar",
+      "Size": 208645,
+      "Sha256": "1db09104106f55e69e3e71a9fd3edb156345291005a248bf68779dfda0b01129",
+      "FabricId": "fullscreenfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "BoatBreakFix-Universal-1.0.2.jar",
+      "RepositoryPath": "mods/BoatBreakFix-Universal-1.0.2.jar",
+      "Size": 6866,
+      "Sha256": "c3085a8ab45025ff581dbdeba334514611b68d41995cb8685264a595029de969",
+      "FabricId": "boatbreakfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "Bookshelf-Fabric-1.20.1-20.2.13.jar",
+      "RepositoryPath": "mods/Bookshelf-Fabric-1.20.1-20.2.13.jar",
+      "Size": 322180,
+      "Sha256": "4da44061c9daf2c8b44531609f381b9b92bb207d9709753ead3b6ef1f6adcd7a",
+      "FabricId": "bookshelf"
+    },
+    {
+      "Category": "mods",
+      "Path": "BuildingWands-mc1.20.1-2.6.9-release.jar",
+      "RepositoryPath": "mods/BuildingWands-mc1.20.1-2.6.9-release.jar",
+      "Size": 369647,
+      "Sha256": "404baa308b7a25efbadd21c4bb13104d8cb2da48659d97b3446985d274364288",
+      "FabricId": "wands"
+    },
+    {
+      "Category": "mods",
+      "Path": "Camerapture-1.10.12\u002Bmc1.20.1-fabric.jar",
+      "RepositoryPath": "mods/Camerapture-1.10.12\u002Bmc1.20.1-fabric.jar",
+      "Size": 1974800,
+      "Sha256": "7f7894302a51ce9d6bef370d5e9bd4e5dfbeb6c0d275ac43d712927429545593",
+      "FabricId": "camerapture"
+    },
+    {
+      "Category": "mods",
+      "Path": "Chimes-v2.0.1-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/Chimes-v2.0.1-1.20.1-Fabric.jar",
+      "Size": 11844738,
+      "Sha256": "3faf03d1999768fc2568c33fa87eb815557b74a2fc14b6a120f40312a805249b",
+      "FabricId": "chimes"
+    },
+    {
+      "Category": "mods",
+      "Path": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+      "RepositoryPath": "mods/Clumps-fabric-1.20.1-12.0.0.4.jar",
+      "Size": 21987,
+      "Sha256": "a0d0ce5923745b852de93cd831336992512f884e26872287e0a4af13e4acc67b",
+      "FabricId": "clumps"
+    },
+    {
+      "Category": "mods",
+      "Path": "Cluttered-2.1.0-1.20.1[Fabric].jar",
+      "RepositoryPath": "mods/Cluttered-2.1.0-1.20.1[Fabric].jar",
+      "Size": 5363792,
+      "Sha256": "452842ccd91866fb6b8051239673c9907d7c38a576c0506d0018e75b0ed5d888",
+      "FabricId": "luphieclutteredmod"
+    },
+    {
+      "Category": "mods",
+      "Path": "Controlling-fabric-1.20.1-12.0.2.jar",
+      "RepositoryPath": "mods/Controlling-fabric-1.20.1-12.0.2.jar",
+      "Size": 122777,
+      "Sha256": "bc7eced182b73adf773be705f21081bf24854fb5162c0426c6bb6d55e9b88d38",
+      "FabricId": "controlling"
+    },
+    {
+      "Category": "mods",
+      "Path": "CosmeticArmor-1.20-1.6.0.jar",
+      "RepositoryPath": "mods/CosmeticArmor-1.20-1.6.0.jar",
+      "Size": 20221,
+      "Sha256": "72fd672fd7c25f9a8db49cf6c625c1b6af2acf4971a048d76e0db2557b898859",
+      "FabricId": "cosmetic-armor"
+    },
+    {
+      "Category": "mods",
+      "Path": "CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar",
+      "RepositoryPath": "mods/CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar",
+      "Size": 1197255,
+      "Sha256": "c6780ecc0487e40b132dc2ed41692b14f4cdb37d95758cda86a8d55f9138a61f",
+      "FabricId": "creativecore"
+    },
+    {
+      "Category": "mods",
+      "Path": "Cull Less Leaves-1.4.2\u002B1.21-fabric.jar",
+      "RepositoryPath": "mods/Cull Less Leaves-1.4.2\u002B1.21-fabric.jar",
+      "Size": 27086,
+      "Sha256": "e603214d2ef7b988958751bd9a359fb81f29c26ac4d00863f0f37190d08ff363",
+      "FabricId": "cull-less-leaves"
+    },
+    {
+      "Category": "mods",
+      "Path": "CustomCursor-comm-1.2.0-fabric.jar",
+      "RepositoryPath": "mods/CustomCursor-comm-1.2.0-fabric.jar",
+      "Size": 71179,
+      "Sha256": "d4c02285ef83939692efd6cfea298c2dfcf1cb2301d9595fc29b840764a6c007",
+      "FabricId": "customcursorcomm"
+    },
+    {
+      "Category": "mods",
+      "Path": "DEUF_Refabricated-MC1.20.1-1.1.0.jar",
+      "RepositoryPath": "mods/DEUF_Refabricated-MC1.20.1-1.1.0.jar",
+      "Size": 8239,
+      "Sha256": "a1a331b431c2bc2a9fe9edf0011e0a672d5fc77defa2d4baed32ec556136caa1",
+      "FabricId": "deuf_refabricated"
+    },
+    {
+      "Category": "mods",
+      "Path": "DailyShop-mc1.20.1-v1.0.10-fabric (1).jar",
+      "RepositoryPath": "mods/DailyShop-mc1.20.1-v1.0.10-fabric (1).jar",
+      "Size": 1192891,
+      "Sha256": "186f1bc70d2ff0ab7e93400774fb17bc03253d4da61288ce605dc15785210e30",
+      "FabricId": "dailyshop"
+    },
+    {
+      "Category": "mods",
+      "Path": "DarkUtilities-Fabric-1.20.1-17.0.5.jar",
+      "RepositoryPath": "mods/DarkUtilities-Fabric-1.20.1-17.0.5.jar",
+      "Size": 180860,
+      "Sha256": "ac0a1852f8ce9e28e18fbd9c6c4e8a94a885d63a2abd9e3c502915d8b519e077",
+      "FabricId": "darkutils"
+    },
+    {
+      "Category": "mods",
+      "Path": "Debugify-1.20.1\u002B2.0.jar",
+      "RepositoryPath": "mods/Debugify-1.20.1\u002B2.0.jar",
+      "Size": 337545,
+      "Sha256": "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d",
+      "FabricId": "debugify"
+    },
+    {
+      "Category": "mods",
+      "Path": "DiagonalFences-v8.1.5-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/DiagonalFences-v8.1.5-1.20.1-Fabric.jar",
+      "Size": 167185,
+      "Sha256": "93a3776f38c760db0f74098580ce984e0f8f8e78a4df61b69f67c01e1eee5a61",
+      "FabricId": "diagonalfences"
+    },
+    {
+      "Category": "mods",
+      "Path": "DiagonalWalls-v8.0.3-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/DiagonalWalls-v8.0.3-1.20.1-Fabric.jar",
+      "Size": 156141,
+      "Sha256": "898986e152da000e5653e743233032aa03997ff2567450bbfb23c7b0f159aef0",
+      "FabricId": "diagonalwalls"
+    },
+    {
+      "Category": "mods",
+      "Path": "DiagonalWindows-v8.1.4-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/DiagonalWindows-v8.1.4-1.20.1-Fabric.jar",
+      "Size": 165451,
+      "Sha256": "26254ffd989dbc9e30c65c99cee7aad6b969160aaa1be1cba3402b815dba2104",
+      "FabricId": "diagonalwindows"
+    },
+    {
+      "Category": "mods",
+      "Path": "EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+      "Size": 129625,
+      "Sha256": "5e0099de319e8490353c9e0207150e08d2d7d3d78e78ab85b06d818de1f4f1ed",
+      "FabricId": "easyanvils"
+    },
+    {
+      "Category": "mods",
+      "Path": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+      "Size": 104693,
+      "Sha256": "c36c2cd0e53647d76581c85db967a18a88b53ffd42f8a2e1b6da5482b58cde1b",
+      "FabricId": "easymagic"
+    },
+    {
+      "Category": "mods",
+      "Path": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+      "RepositoryPath": "mods/ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+      "Size": 168187,
+      "Sha256": "dd2240ede33f8d664d1893318a7a1c37985ee459008a128327608f28a0e4c453",
+      "FabricId": "explorerscompass"
+    },
+    {
+      "Category": "mods",
+      "Path": "FarmersDelight-1.20.1-2.2.0\u002Brefabricated.jar",
+      "RepositoryPath": "mods/FarmersDelight-1.20.1-2.2.0\u002Brefabricated.jar",
+      "Size": 6193396,
+      "Sha256": "c43e0fb9c87c46f918fd39cfdc3693bdfd1c95fde30e4b8012bcde4472e0cb91",
+      "FabricId": "farmersdelight"
+    },
+    {
+      "Category": "mods",
+      "Path": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "Size": 396628,
+      "Sha256": "337a8f6c5ba48ef3b3da828f4f6a75d0552ba33f48ce97d3195befdb570e427a",
+      "FabricId": "forgeconfigapiport"
+    },
+    {
+      "Category": "mods",
+      "Path": "Galosphere-1.20.1-1.5.2-Fabric.jar",
+      "RepositoryPath": "mods/Galosphere-1.20.1-1.5.2-Fabric.jar",
+      "Size": 35715508,
+      "Sha256": "13ed98797d57d0c28b23b495322df54e1936070d82a0748b23e92615cedb6480",
+      "FabricId": "galosphere"
+    },
+    {
+      "Category": "mods",
+      "Path": "HorseExpert-v8.1.1-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/HorseExpert-v8.1.1-1.20.1-Fabric.jar",
+      "Size": 82355,
+      "Sha256": "b89512be28cea141093d58f946bdaee25fd93e5159128189a26c9a95968f9f78",
+      "FabricId": "horseexpert"
+    },
+    {
+      "Category": "mods",
+      "Path": "Icarus-Fabric-2.10.0.jar",
+      "RepositoryPath": "mods/Icarus-Fabric-2.10.0.jar",
+      "Size": 188411,
+      "Sha256": "46a9282ae0016a393128a08ccd5fbb1e72ae72357c39180ae5fd3ba9773ec8e3",
+      "FabricId": "icarus"
+    },
+    {
+      "Category": "mods",
+      "Path": "IllagerInvasion-v8.0.6-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/IllagerInvasion-v8.0.6-1.20.1-Fabric.jar",
+      "Size": 2312169,
+      "Sha256": "680df2b4493a7ecd9176ee5fdb10f306cddfef01b7e6e04c32ebaa3836b0247f",
+      "FabricId": "illagerinvasion"
+    },
+    {
+      "Category": "mods",
+      "Path": "ImmediatelyFast-Fabric-1.5.5\u002B1.20.4.jar",
+      "RepositoryPath": "mods/ImmediatelyFast-Fabric-1.5.5\u002B1.20.4.jar",
+      "Size": 348818,
+      "Sha256": "5eea426af467564618e017e8f3a62f1c5c4224ab32a0a1726313de130a2d783d",
+      "FabricId": "immediatelyfast"
+    },
+    {
+      "Category": "mods",
+      "Path": "Incendium_1.20.x_v5.3.5.jar",
+      "RepositoryPath": "mods/Incendium_1.20.x_v5.3.5.jar",
+      "Size": 4638945,
+      "Sha256": "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75",
+      "FabricId": "incendium"
+    },
+    {
+      "Category": "mods",
+      "Path": "InventoryProfilesNext-fabric-1.20-1.10.11.jar",
+      "RepositoryPath": "mods/InventoryProfilesNext-fabric-1.20-1.10.11.jar",
+      "Size": 1449792,
+      "Sha256": "ad920d2f96113dc0ac389830a03c513f0b376335d4a1f70de7008891e0dc447e",
+      "FabricId": "inventoryprofilesnext"
+    },
+    {
+      "Category": "mods",
+      "Path": "Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+      "RepositoryPath": "mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+      "Size": 28620,
+      "Sha256": "64bf81726963996f1c3e1404e9058c352daf6bcdf96f931f75da66a2869cb9c2",
+      "FabricId": "item_obliterator"
+    },
+    {
+      "Category": "mods",
+      "Path": "Jade-1.20-fabric-11.11.0.jar",
+      "RepositoryPath": "mods/Jade-1.20-fabric-11.11.0.jar",
+      "Size": 570166,
+      "Sha256": "20b1a7e55e4fd62978554dea2b9734db21b04384eb9073bdc8da68a70eb81942",
+      "FabricId": "jade"
+    },
+    {
+      "Category": "mods",
+      "Path": "Jewelry-1.3.7\u002B1.20.1.jar",
+      "RepositoryPath": "mods/Jewelry-1.3.7\u002B1.20.1.jar",
+      "Size": 641972,
+      "Sha256": "1314c5b514fc0ed47c877d2d13e80c119519b868311615ffbe9191e0bb77f8bc",
+      "FabricId": "jewelry"
+    },
+    {
+      "Category": "mods",
+      "Path": "LeaveMyBarsAlone-v8.0.0-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/LeaveMyBarsAlone-v8.0.0-1.20.1-Fabric.jar",
+      "Size": 48112,
+      "Sha256": "aee6c16bed017bdad541112e6864acaab2d3d6d4175d5f42d46fc654158e78af",
+      "FabricId": "leavemybarsalone"
+    },
+    {
+      "Category": "mods",
+      "Path": "LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+      "Size": 46694,
+      "Sha256": "e4cb58de102a4c9893fec5bf157e0ce3086a1f9ff182ddb40b0262eb7ead8c78",
+      "FabricId": "leavesbegone"
+    },
+    {
+      "Category": "mods",
+      "Path": "Log-Begone-Fabric-1.20.1-1.0.8.jar",
+      "RepositoryPath": "mods/Log-Begone-Fabric-1.20.1-1.0.8.jar",
+      "Size": 126944,
+      "Sha256": "3c19307940567406c816cc4e531032c49eca57a8a3c8af3469778cdc5f34c4c9",
+      "FabricId": "logbegone"
+    },
+    {
+      "Category": "mods",
+      "Path": "MRU-1.0.4\u002B1.20.1\u002Bfabric(1).jar",
+      "RepositoryPath": "mods/MRU-1.0.4\u002B1.20.1\u002Bfabric(1).jar",
+      "Size": 104277,
+      "Sha256": "ed68200290b0c4a1eb176fad0469787cc67166a5a4cded9b97802c24ada892cb",
+      "FabricId": "mru"
+    },
+    {
+      "Category": "mods",
+      "Path": "MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "Size": 81084,
+      "Sha256": "ae2ba8323a90aabdad85bd136912a83ca5005253af27366d3357f04bf6f04fe1",
+      "FabricId": "magnumtorch"
+    },
+    {
+      "Category": "mods",
+      "Path": "MouseTweaks-fabric-mc1.20-2.26.jar",
+      "RepositoryPath": "mods/MouseTweaks-fabric-mc1.20-2.26.jar",
+      "Size": 77943,
+      "Sha256": "1eb9f0c7878598a3a7dfb52cd0e8159ebf8b33b04e6df232534fed2fbb6616e4",
+      "FabricId": "mousetweaks"
+    },
+    {
+      "Category": "mods",
+      "Path": "NETS_0.3.5.5.jar",
+      "RepositoryPath": "mods/NETS_0.3.5.5.jar",
+      "Size": 12243,
+      "Sha256": "cac028e4deed660b7cc79f7b3c04ee700c82b226999a5d76c6f7e66427ff6696",
+      "FabricId": "nets"
+    },
+    {
+      "Category": "mods",
+      "Path": "NaturesCompass-1.20.1-2.2.3-fabric.jar",
+      "RepositoryPath": "mods/NaturesCompass-1.20.1-2.2.3-fabric.jar",
+      "Size": 230344,
+      "Sha256": "1869e52d9a306d40063c69f53261e991ecd76dea613216098a196520cebb4aa7",
+      "FabricId": "naturescompass"
+    },
+    {
+      "Category": "mods",
+      "Path": "Necronomicon-Fabric-1.6.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/Necronomicon-Fabric-1.6.0\u002B1.20.1.jar",
+      "Size": 37533,
+      "Sha256": "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60",
+      "FabricId": "necronomicon"
+    },
+    {
+      "Category": "mods",
+      "Path": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+      "RepositoryPath": "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+      "Size": 619812,
+      "Sha256": "8ff70525b0fbc5fa7592424872aa8092db1f7646d53817590bd9f9b88c75babc",
+      "FabricId": "nochatreports"
+    },
+    {
+      "Category": "mods",
+      "Path": "Origins-1.10.2\u002Bmc.1.20.x.jar",
+      "RepositoryPath": "mods/Origins-1.10.2\u002Bmc.1.20.x.jar",
+      "Size": 2779019,
+      "Sha256": "ac663bf651482475050d3edf11fa8078e384f5b35e779fb787753ef3ce48ee9e",
+      "FabricId": "origins"
+    },
+    {
+      "Category": "mods",
+      "Path": "Origins-Classes-1.20-1.7.0.jar",
+      "RepositoryPath": "mods/Origins-Classes-1.20-1.7.0.jar",
+      "Size": 166904,
+      "Sha256": "c2d9f12e347ff3e37badcbdd096ad143eae2858fe141905f2fd3104a858aac8b",
+      "FabricId": "origins-classes"
+    },
+    {
+      "Category": "mods",
+      "Path": "OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+      "Size": 73821,
+      "Sha256": "7be2d39a702b02e8eb85a68390e4e0f9e3383f794956edc3147b4a830dd2e21e",
+      "FabricId": "overflowingbars"
+    },
+    {
+      "Category": "mods",
+      "Path": "Patchouli-1.20.1-84-FABRIC.jar",
+      "RepositoryPath": "mods/Patchouli-1.20.1-84-FABRIC.jar",
+      "Size": 856882,
+      "Sha256": "96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0",
+      "FabricId": "patchouli"
+    },
+    {
+      "Category": "mods",
+      "Path": "Pehkui-3.8.3\u002B1.14.4-1.21.jar",
+      "RepositoryPath": "mods/Pehkui-3.8.3\u002B1.14.4-1.21.jar",
+      "Size": 555041,
+      "Sha256": "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b",
+      "FabricId": "pehkui"
+    },
+    {
+      "Category": "mods",
+      "Path": "PermanentSponges-v8.1.2-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/PermanentSponges-v8.1.2-1.20.1-Fabric.jar",
+      "Size": 85157,
+      "Sha256": "8f34da8344d01c4c1a055e8db888f04ea50e1e3f2dac1af7dc7b40d2ab02e57f",
+      "FabricId": "permanentsponges"
+    },
+    {
+      "Category": "mods",
+      "Path": "PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+      "Size": 96114,
+      "Sha256": "ea8b8a4d2fc8a516cc4a3700912ceebbe73b175b38cf8349bb1ba1bdd5ef0a76",
+      "FabricId": "pickupnotifier"
+    },
+    {
+      "Category": "mods",
+      "Path": "PigPen-Fabric-1.20.1-15.0.2.jar",
+      "RepositoryPath": "mods/PigPen-Fabric-1.20.1-15.0.2.jar",
+      "Size": 5652,
+      "Sha256": "cb2e98057c985c9142b7fe413a30879761d0fe3cc11bf9ba48f6390df917ff22",
+      "FabricId": "pigpen"
+    },
+    {
+      "Category": "mods",
+      "Path": "Ping-Wheel-1.10.0-fabric-1.20.1.jar",
+      "RepositoryPath": "mods/Ping-Wheel-1.10.0-fabric-1.20.1.jar",
+      "Size": 111867,
+      "Sha256": "a990feee8b05955845b301f7f06454a931f558ca48298e3e48e2ecd75573e40a",
+      "FabricId": "ping-wheel"
+    },
+    {
+      "Category": "mods",
+      "Path": "PuzzlesLib-v8.1.24-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/PuzzlesLib-v8.1.24-1.20.1-Fabric.jar",
+      "Size": 980233,
+      "Sha256": "8619603fad92d384e957410d1fd8955ba0db5ba9abb67918e56d1c8bd3edccbd",
+      "FabricId": "puzzleslib"
+    },
+    {
+      "Category": "mods",
+      "Path": "ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+      "Size": 77659,
+      "Sha256": "b713ec9bb9d5abee1982bc5d180754eaee98ed4bc7ddc72094dc89fee265ed7e",
+      "FabricId": "resourcepackoverrides"
+    },
+    {
+      "Category": "mods",
+      "Path": "Ribbits-1.20.1-Fabric-3.0.0.jar",
+      "RepositoryPath": "mods/Ribbits-1.20.1-Fabric-3.0.0.jar",
+      "Size": 2193713,
+      "Sha256": "f59c605784119096ceab92ee7338a5c552086573630001c78279d225b9eaf32c",
+      "FabricId": "ribbits"
+    },
+    {
+      "Category": "mods",
+      "Path": "Runelic-Fabric-1.20.1-18.0.2.jar",
+      "RepositoryPath": "mods/Runelic-Fabric-1.20.1-18.0.2.jar",
+      "Size": 54564,
+      "Sha256": "e769764f40c5024b83c75d50cd71dc31c1c7cc6640d78b8516e28ca32d2627e4",
+      "FabricId": "runelic"
+    },
+    {
+      "Category": "mods",
+      "Path": "Searchables-fabric-1.20.1-1.0.3.jar",
+      "RepositoryPath": "mods/Searchables-fabric-1.20.1-1.0.3.jar",
+      "Size": 80283,
+      "Sha256": "d377ecc4e4217705d162164ea8834f71f8f91881016edb941f6d455f77adde09",
+      "FabricId": "searchables"
+    },
+    {
+      "Category": "mods",
+      "Path": "SellingBin-mc1.20.1-v1.0.9-fabric.jar",
+      "RepositoryPath": "mods/SellingBin-mc1.20.1-v1.0.9-fabric.jar",
+      "Size": 1134455,
+      "Sha256": "527d5057707b1c0289b4506f231399851ebbdb0377781b27f78820a490d9c7bb",
+      "FabricId": "sellingbin"
+    },
+    {
+      "Category": "mods",
+      "Path": "ServerRedirect-FabricMC20-1.4.5.jar",
+      "RepositoryPath": "mods/ServerRedirect-FabricMC20-1.4.5.jar",
+      "Size": 20426,
+      "Sha256": "0bdda8f9438958ed68c30ff8dac46201ac13bdc9cf9b7ca08dff16d72667526e",
+      "FabricId": "serverredirect"
+    },
+    {
+      "Category": "mods",
+      "Path": "ShieldAPI-1.0.1\u002B1.20.1.jar",
+      "RepositoryPath": "mods/ShieldAPI-1.0.1\u002B1.20.1.jar",
+      "Size": 43294,
+      "Sha256": "23cdff920570733e741dd1dcb39fd2715a6f2d908c069cb1266ed8712e91a58d",
+      "FabricId": "shield_api"
+    },
+    {
+      "Category": "mods",
+      "Path": "SimpleDiscordRichPresence-fabric-4.0.3-build.40\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/SimpleDiscordRichPresence-fabric-4.0.3-build.40\u002Bmc1.20.1.jar",
+      "Size": 1198603,
+      "Sha256": "3fc2d6bf6448c13658e9846b951973d7a227d79e48f99e1283d5f5a1dd0e21bf",
+      "FabricId": "sdrp"
+    },
+    {
+      "Category": "mods",
+      "Path": "SmartBrainLib-fabric-1.20.1-1.15.jar",
+      "RepositoryPath": "mods/SmartBrainLib-fabric-1.20.1-1.15.jar",
+      "Size": 359760,
+      "Sha256": "a9146583bb64ab303015a9f8165eb11da670d45a957ba93b9d11b8d53b17438e",
+      "FabricId": "smartbrainlib"
+    },
+    {
+      "Category": "mods",
+      "Path": "Sn0wfrog\u0027s Capybaras 1.1.0-mc1.20.1.jar",
+      "RepositoryPath": "mods/Sn0wfrog\u0027s Capybaras 1.1.0-mc1.20.1.jar",
+      "Size": 387333,
+      "Sha256": "76e1486949d6fbb70ba8fd57b78d27c8f8a01b6884e44b637740aba127e19ba5",
+      "FabricId": "sn0wfrogs_capybaras"
+    },
+    {
+      "Category": "mods",
+      "Path": "Sounds-2.2.1\u002B1.20.1\u002Bfabric.jar",
+      "RepositoryPath": "mods/Sounds-2.2.1\u002B1.20.1\u002Bfabric.jar",
+      "Size": 10424707,
+      "Sha256": "e4d5cd2cf60913d9254a2be70c32145e22275eb5903843ec5ff66ac1138cb71f",
+      "FabricId": "sounds"
+    },
+    {
+      "Category": "mods",
+      "Path": "Steam_Rails-1.7.3\u002Bfabric-mc1.20.1.jar",
+      "RepositoryPath": "mods/Steam_Rails-1.7.3\u002Bfabric-mc1.20.1.jar",
+      "Size": 17088910,
+      "Sha256": "1fcf3a2c856a874826996d6eab884b5fbff378ecc35ae808cbba0dbd02f92ad0",
+      "FabricId": "railways"
+    },
+    {
+      "Category": "mods",
+      "Path": "StorageDrawers-fabric-1.20.1-12.14.3.jar",
+      "RepositoryPath": "mods/StorageDrawers-fabric-1.20.1-12.14.3.jar",
+      "Size": 1131890,
+      "Sha256": "bdd39641d1d86e0e04acaa17aa6e764c158c09be45b15f4aa5a9be43f207e1a1",
+      "FabricId": "storagedrawers"
+    },
+    {
+      "Category": "mods",
+      "Path": "StrawStatues-v8.0.3-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/StrawStatues-v8.0.3-1.20.1-Fabric.jar",
+      "Size": 613503,
+      "Sha256": "1653c16d1f7837c7212293ff295143fd4744b376439b90df4d57c8f60891d55d",
+      "FabricId": "strawstatues"
+    },
+    {
+      "Category": "mods",
+      "Path": "Structory_1.20.x_v1.3.5.jar",
+      "RepositoryPath": "mods/Structory_1.20.x_v1.3.5.jar",
+      "Size": 1286460,
+      "Sha256": "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b",
+      "FabricId": "structory"
+    },
+    {
+      "Category": "mods",
+      "Path": "Structory_Towers_1.20.x_v1.0.7.jar",
+      "RepositoryPath": "mods/Structory_Towers_1.20.x_v1.0.7.jar",
+      "Size": 526234,
+      "Sha256": "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c",
+      "FabricId": "structory_towers"
+    },
+    {
+      "Category": "mods",
+      "Path": "StylishEffects-v8.0.2-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/StylishEffects-v8.0.2-1.20.1-Fabric.jar",
+      "Size": 119425,
+      "Sha256": "9d252458ac1e9ff0529402b0219714dc1a293c2059db2e7f9c54c0a80d764e85",
+      "FabricId": "stylisheffects"
+    },
+    {
+      "Category": "mods",
+      "Path": "TACZ-Refabricated-1.20.1-0.7.0-forge1.1.8-hotfix.jar",
+      "RepositoryPath": "mods/TACZ-Refabricated-1.20.1-0.7.0-forge1.1.8-hotfix.jar",
+      "Size": 58056016,
+      "Sha256": "3c03f60dcc54e650ced399cb8b860cb6c0574298f7553edcd61633de0b892b05",
+      "FabricId": "tacz"
+    },
+    {
+      "Category": "mods",
+      "Path": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+      "RepositoryPath": "mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+      "Size": 322358,
+      "Sha256": "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24",
+      "FabricId": "terrablender"
+    },
+    {
+      "Category": "mods",
+      "Path": "Terralith_1.20.x_v2.5.4.jar",
+      "RepositoryPath": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "Size": 3156901,
+      "Sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+      "FabricId": "terralith"
+    },
+    {
+      "Category": "mods",
+      "Path": "ToolStats-Fabric-1.20.1-16.0.9.jar",
+      "RepositoryPath": "mods/ToolStats-Fabric-1.20.1-16.0.9.jar",
+      "Size": 17053,
+      "Sha256": "6bc4d95f1a39da4faa54aa26faaa765414a504bf966a87fc28c17ebf40ad40ea",
+      "FabricId": "toolstats"
+    },
+    {
+      "Category": "mods",
+      "Path": "TradingPost-v8.0.2-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/TradingPost-v8.0.2-1.20.1-Fabric.jar",
+      "Size": 115067,
+      "Sha256": "19b413b4bb639d39e32b0f5d2857f10f1788e9e7defa1d1780ae8f4fdd634cbc",
+      "FabricId": "tradingpost"
+    },
+    {
+      "Category": "mods",
+      "Path": "VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+      "RepositoryPath": "mods/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+      "Size": 79100,
+      "Sha256": "802e1015ea979c7c99bb19b8e0824e744e68e40869520042beca577b90d0be40",
+      "FabricId": "visualworkbench"
+    },
+    {
+      "Category": "mods",
+      "Path": "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar",
+      "RepositoryPath": "mods/YouShallNotSpawn-fabric-1.20.x-2.0.2.jar",
+      "Size": 218617,
+      "Sha256": "48c3fd6a8d2a4bcc09783af85bc349064904dd5958214a6ccccd34d906392586",
+      "FabricId": "ysns"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsApi-1.20-Fabric-4.0.6.jar",
+      "RepositoryPath": "mods/YungsApi-1.20-Fabric-4.0.6.jar",
+      "Size": 1396331,
+      "Sha256": "26b6dc81f876aabf3d53ead59e5908a8b0f5434d46c150cfd376c027ac54053e",
+      "FabricId": "yungsapi"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+      "RepositoryPath": "mods/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+      "Size": 944170,
+      "Sha256": "6c69fd0316c448cf9c70b72dbea424a85be881f9adc3e7a56e8f0b08e3611fff",
+      "FabricId": "betterdungeons"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+      "RepositoryPath": "mods/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+      "Size": 517369,
+      "Sha256": "8e6183a380c17677d23d5d7790d04bf18589ed12867460ece32327e8765046fa",
+      "FabricId": "betterendisland"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+      "RepositoryPath": "mods/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+      "Size": 621495,
+      "Sha256": "0a4657689217339a1f6079a2d9dda03f6d01beacac59c14e093ded3357db2b86",
+      "FabricId": "bettermineshafts"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+      "RepositoryPath": "mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+      "Size": 1165832,
+      "Sha256": "3013484bceee72540a1eb76d403a0c36db0fd6d99a1e1b5a398b37ca50f27fb2",
+      "FabricId": "betteroceanmonuments"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+      "RepositoryPath": "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+      "Size": 611598,
+      "Sha256": "122b74d59629bf755663263a4ce43e58a5d13b74e67bea332d44a9bedb51b74a",
+      "FabricId": "betterstrongholds"
+    },
+    {
+      "Category": "mods",
+      "Path": "YungsExtras-1.20-Fabric-4.0.3.jar",
+      "RepositoryPath": "mods/YungsExtras-1.20-Fabric-4.0.3.jar",
+      "Size": 342639,
+      "Sha256": "1765d0885e8ebe530ae81f2b2ae3d6d93c842bb04e03bdbde00f2b45c918c97a",
+      "FabricId": "yungsextras"
+    },
+    {
+      "Category": "mods",
+      "Path": "Zoomify-2.14.2\u002B1.20.1.jar",
+      "RepositoryPath": "mods/Zoomify-2.14.2\u002B1.20.1.jar",
+      "Size": 807877,
+      "Sha256": "8de4f1d940f47ede2475eb536c5d05e58e1a57a7316ba5a8c27f9165ec7473ae",
+      "FabricId": "zoomify"
+    },
+    {
+      "Category": "mods",
+      "Path": "[fabric]ctov-3.4.14.jar",
+      "RepositoryPath": "mods/[fabric]ctov-3.4.14.jar",
+      "Size": 6734661,
+      "Sha256": "0d40c400db89eb5bdd8e4173707525e2e0301fd15d59073bd9b9712ffa7c37e4",
+      "FabricId": "ctov"
+    },
+    {
+      "Category": "mods",
+      "Path": "a_good_place-1.20-1.2.8-fabric.jar",
+      "RepositoryPath": "mods/a_good_place-1.20-1.2.8-fabric.jar",
+      "Size": 255328,
+      "Sha256": "7ebb0baceb5296418e78e1ac7e5107e9a034442ed6fa58b657eea0c4e1ca7742",
+      "FabricId": "a_good_place"
+    },
+    {
+      "Category": "mods",
+      "Path": "accurate-block-placement-1.2.1.jar",
+      "RepositoryPath": "mods/accurate-block-placement-1.2.1.jar",
+      "Size": 35838,
+      "Sha256": "fbbf02454bb4262949bbc06ed987b3ba54c0518060cf3557b18d9cce7a3b9b9e",
+      "FabricId": "accurateblockplacement"
+    },
+    {
+      "Category": "mods",
+      "Path": "additional_rpg_jewelry-1.1.1-1.20.1.jar",
+      "RepositoryPath": "mods/additional_rpg_jewelry-1.1.1-1.20.1.jar",
+      "Size": 1485937,
+      "Sha256": "26227a3431f9866090e24b97e8a876e88283d636df45017db4c9cc6cb2df1e19",
+      "FabricId": "additional_rpg_jewelry"
+    },
+    {
+      "Category": "mods",
+      "Path": "alexsmobsfabric-1.20.1-1.5.0.jar",
+      "RepositoryPath": "mods/alexsmobsfabric-1.20.1-1.5.0.jar",
+      "Size": 26631620,
+      "Sha256": "9833bb468f059132d43a9c5d2ff8ec62148fe28e54d51ef03b17106726a26315",
+      "FabricId": "alexsmobs"
+    },
+    {
+      "Category": "mods",
+      "Path": "alloy-forgery-2.1.2\u002B1.20.jar",
+      "RepositoryPath": "mods/alloy-forgery-2.1.2\u002B1.20.jar",
+      "Size": 256944,
+      "Sha256": "eae8e06513c458f8aba8396188078a22e2c65f1228f48f5288d1755439518666",
+      "FabricId": "alloy_forgery"
+    },
+    {
+      "Category": "mods",
+      "Path": "almanac-1.20.x-fabric-1.0.2.jar",
+      "RepositoryPath": "mods/almanac-1.20.x-fabric-1.0.2.jar",
+      "Size": 16082,
+      "Sha256": "2c0ea8c3f9f7ca0b4a1d93328ecb26b1bfa00cf33d09d0089d197b707bf97a73",
+      "FabricId": "almanac"
+    },
+    {
+      "Category": "mods",
+      "Path": "almostunified-fabric-1.20.1-0.9.4.jar",
+      "RepositoryPath": "mods/almostunified-fabric-1.20.1-0.9.4.jar",
+      "Size": 201914,
+      "Sha256": "02cbe5ebb6978a2aced1d518c65de5f16cd1928a27474896620fe025a09de24b",
+      "FabricId": "almostunified"
+    },
+    {
+      "Category": "mods",
+      "Path": "alternate-current-mc1.20-1.9.0.jar",
+      "RepositoryPath": "mods/alternate-current-mc1.20-1.9.0.jar",
+      "Size": 51875,
+      "Sha256": "cbecb4abf4aa734a7617fa7ad771af118cd06cfac7ea7f26f43e9ff6ef6eb515",
+      "FabricId": "alternate-current"
+    },
+    {
+      "Category": "mods",
+      "Path": "amendments-1.20-1.2.12-fabric-compat.jar",
+      "RepositoryPath": "mods/amendments-1.20-1.2.12-fabric-compat.jar",
+      "Size": 953576,
+      "Sha256": "9c61ead0b25c42b0542c8dda8fe3fb97c11442f1a009d2c513ebec2ed795000b",
+      "FabricId": "amendments"
+    },
+    {
+      "Category": "mods",
+      "Path": "amwplushies-fabric-1.20.1-4.2.0.jar",
+      "RepositoryPath": "mods/amwplushies-fabric-1.20.1-4.2.0.jar",
+      "Size": 5977437,
+      "Sha256": "52ef72e9522f474ddcbe65c983051894a8254cf3f5ad87c201cf884957ca1be0",
+      "FabricId": "a_man_with_plushies"
+    },
+    {
+      "Category": "mods",
+      "Path": "another_furniture-fabric-1.20.1-3.0.5.jar",
+      "RepositoryPath": "mods/another_furniture-fabric-1.20.1-3.0.5.jar",
+      "Size": 2291815,
+      "Sha256": "76c2cbef2437733b8c16fc83fded76ae8166747c088b2a09709bfdb18b202fe3",
+      "FabricId": "another_furniture"
+    },
+    {
+      "Category": "mods",
+      "Path": "appleskin-fabric-mc1.20.1-2.5.1.jar",
+      "RepositoryPath": "mods/appleskin-fabric-mc1.20.1-2.5.1.jar",
+      "Size": 1064362,
+      "Sha256": "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5",
+      "FabricId": "appleskin"
+    },
+    {
+      "Category": "mods",
+      "Path": "archers-1.3.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/archers-1.3.0\u002B1.20.1.jar",
+      "Size": 1036432,
+      "Sha256": "6bbd735427e9421fc498a76bb807eb96375697107c868163049278296b37de7e",
+      "FabricId": "archers"
+    },
+    {
+      "Category": "mods",
+      "Path": "archers-expansion-0.2.6-1.20.1.jar",
+      "RepositoryPath": "mods/archers-expansion-0.2.6-1.20.1.jar",
+      "Size": 1152215,
+      "Sha256": "d2896e6873a3e8491ebe6665825290353b9b0c20cbb468d0d4d1f75ec30e3b1a",
+      "FabricId": "archers_expansion"
+    },
+    {
+      "Category": "mods",
+      "Path": "architectury-9.2.14-fabric.jar",
+      "RepositoryPath": "mods/architectury-9.2.14-fabric.jar",
+      "Size": 585207,
+      "Sha256": "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+      "FabricId": "architectury"
+    },
+    {
+      "Category": "mods",
+      "Path": "artifacts-fabric-9.5.13.jar",
+      "RepositoryPath": "mods/artifacts-fabric-9.5.13.jar",
+      "Size": 953629,
+      "Sha256": "0fd1abe313e6954a78163b66ae8b0b10b753e97d632b3f8b87dba99483b89a2b",
+      "FabricId": "artifacts"
+    },
+    {
+      "Category": "mods",
+      "Path": "athena-fabric-1.20.1-3.1.2.jar",
+      "RepositoryPath": "mods/athena-fabric-1.20.1-3.1.2.jar",
+      "Size": 74370,
+      "Sha256": "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd",
+      "FabricId": "athena"
+    },
+    {
+      "Category": "mods",
+      "Path": "authme-7.0.2\u002B1.20.jar",
+      "RepositoryPath": "mods/authme-7.0.2\u002B1.20.jar",
+      "Size": 1250699,
+      "Sha256": "81ce93b40afa94eab61a0dc3756812bd52a45117fd735e313f894544f8b663b6",
+      "FabricId": "authme"
+    },
+    {
+      "Category": "mods",
+      "Path": "automobility-0.4.2\u002B1.20.1-fabric.jar",
+      "RepositoryPath": "mods/automobility-0.4.2\u002B1.20.1-fabric.jar",
+      "Size": 1108056,
+      "Sha256": "c92e4b3936dbb29009cb32b7954bbf9b7b2b2026018897070f863f4e01bcc30a",
+      "FabricId": "automobility"
+    },
+    {
+      "Category": "mods",
+      "Path": "axolotl-item-fix-1.1.7.jar",
+      "RepositoryPath": "mods/axolotl-item-fix-1.1.7.jar",
+      "Size": 42420,
+      "Sha256": "607dd6aa216320586108e917fe5354a39ed132588d09800cdb22037251b5eb4f",
+      "FabricId": "axolotlitemfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "azurelib-fabric-1.20.1-3.1.12.jar",
+      "RepositoryPath": "mods/azurelib-fabric-1.20.1-3.1.12.jar",
+      "Size": 1069682,
+      "Sha256": "67a8ee6b6b21aa3524ccce48c230819638ba81078cc01fe57a6e47111e43692d",
+      "FabricId": "azurelib"
+    },
+    {
+      "Category": "mods",
+      "Path": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "RepositoryPath": "mods/azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "Size": 427488,
+      "Sha256": "9593a67b5febdd88d8b603694237fae51ae1cd3cf3bad8eccfb83fdba002685b",
+      "FabricId": "azurelibarmor"
+    },
+    {
+      "Category": "mods",
+      "Path": "balm-fabric-1.20.1-7.3.9.jar",
+      "RepositoryPath": "mods/balm-fabric-1.20.1-7.3.9.jar",
+      "Size": 411276,
+      "Sha256": "25bcc653cdf0539e3f487575b8594c41ca9f4b87a15690b01953b1e0a1fd2042",
+      "FabricId": "balm-fabric"
+    },
+    {
+      "Category": "mods",
+      "Path": "bard-1.0.0-1.20.1.jar",
+      "RepositoryPath": "mods/bard-1.0.0-1.20.1.jar",
+      "Size": 14094813,
+      "Sha256": "55635d79c2300e43f83aff3a624758450b9ee669454fadf23b587d2713797816",
+      "FabricId": "bards_rpg"
+    },
+    {
+      "Category": "mods",
+      "Path": "bbb-1.20.1-fabric-1.0.2.jar",
+      "RepositoryPath": "mods/bbb-1.20.1-fabric-1.0.2.jar",
+      "Size": 1794706,
+      "Sha256": "6a0743c5260449b86a6e9f8811beca72a80e4c7035fe1846166b72b99c2ddc41",
+      "FabricId": "bbb"
+    },
+    {
+      "Category": "mods",
+      "Path": "bcg_smp-1.0.1.jar",
+      "RepositoryPath": "mods/bcg_smp-1.0.1.jar",
+      "Size": 18431,
+      "Sha256": "cb3588369ec829a975bc81c24c3ab49bfba2582e96671d8bf0bdfb027ed27d60",
+      "FabricId": "bcg_smp"
+    },
+    {
+      "Category": "mods",
+      "Path": "bcgmusic-1.1.0-1.20.1.jar",
+      "RepositoryPath": "mods/bcgmusic-1.1.0-1.20.1.jar",
+      "Size": 12965940,
+      "Sha256": "0a05cf258a21a273abe42699565e7e2e2164703e2c252e15f34716a916ce9ed1",
+      "FabricId": "bcgmusic"
+    },
+    {
+      "Category": "mods",
+      "Path": "bclib-3.0.14.jar",
+      "RepositoryPath": "mods/bclib-3.0.14.jar",
+      "Size": 2312835,
+      "Sha256": "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51",
+      "FabricId": "bclib"
+    },
+    {
+      "Category": "mods",
+      "Path": "beautify-1.2.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/beautify-1.2.0\u002B1.20.1.jar",
+      "Size": 825685,
+      "Sha256": "2c82ab896ce4462dd8ad8d1fc047ed747a433bfe919dd268d8b0217980e12f0a",
+      "FabricId": "beautify"
+    },
+    {
+      "Category": "mods",
+      "Path": "beekeeperhut-fabric-mc1.20.1-2.0.1.jar",
+      "RepositoryPath": "mods/beekeeperhut-fabric-mc1.20.1-2.0.1.jar",
+      "Size": 220305,
+      "Sha256": "0414790a1300825f5e0bd760e838af4a4794b477931627cb48f5db06ab4287cd",
+      "FabricId": "beekeeperhut"
+    },
+    {
+      "Category": "mods",
+      "Path": "berserker-class-mod-1.2.6-1.20.1.jar",
+      "RepositoryPath": "mods/berserker-class-mod-1.2.6-1.20.1.jar",
+      "Size": 522203,
+      "Sha256": "98358a4f01f7b48e92924c5d8d70c205a40d978f4ab79c7735096d056d1ac34f",
+      "FabricId": "berserker-rpg"
+    },
+    {
+      "Category": "mods",
+      "Path": "better-end-4.0.11.jar",
+      "RepositoryPath": "mods/better-end-4.0.11.jar",
+      "Size": 92544800,
+      "Sha256": "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420",
+      "FabricId": null
+    },
+    {
+      "Category": "mods",
+      "Path": "better_climbing-fabric-3.jar",
+      "RepositoryPath": "mods/better_climbing-fabric-3.jar",
+      "Size": 12179,
+      "Sha256": "5a5edf3769d375bb04782cd42364bf86beff74fc253676bdb86065420cf27379",
+      "FabricId": "better_climbing"
+    },
+    {
+      "Category": "mods",
+      "Path": "betterarcheology-1.2.1-1.20.1.jar",
+      "RepositoryPath": "mods/betterarcheology-1.2.1-1.20.1.jar",
+      "Size": 892390,
+      "Sha256": "5bb95c809c158cbe4f765593ef0490166dd4e4923993fc31959a95f7368b7877",
+      "FabricId": "betterarcheology"
+    },
+    {
+      "Category": "mods",
+      "Path": "betterbeds-1.3.0-1.19.3.jar",
+      "RepositoryPath": "mods/betterbeds-1.3.0-1.19.3.jar",
+      "Size": 50218,
+      "Sha256": "ab5712649d9c9f3ada636bbcc52e71099edc5ec674a7d52f27f2b61ffdccf2f4",
+      "FabricId": "betterbeds"
+    },
+    {
+      "Category": "mods",
+      "Path": "bettercombat-fabric-1.8.6\u002B1.20.1.jar",
+      "RepositoryPath": "mods/bettercombat-fabric-1.8.6\u002B1.20.1.jar",
+      "Size": 902833,
+      "Sha256": "f4207c42ea0b880da10e0ad77dfd61d9eeeea154fc46c31330dc595da1e176de",
+      "FabricId": "bettercombat"
+    },
+    {
+      "Category": "mods",
+      "Path": "betterend-crashed-ships-1.0.0.jar",
+      "RepositoryPath": "mods/betterend-crashed-ships-1.0.0.jar",
+      "Size": 9658,
+      "Sha256": "de226bf3ca48f9907fac842c6c4805ece44f92951761b6c3c13b20fa786b7ac3",
+      "FabricId": "betterend-crashed-ships"
+    },
+    {
+      "Category": "mods",
+      "Path": "bitsandchisels-2.7.3.jar",
+      "RepositoryPath": "mods/bitsandchisels-2.7.3.jar",
+      "Size": 303304,
+      "Sha256": "5faae0810a8643b2cecd756600fae08265d713763a44c7e14f537e159af51ece",
+      "FabricId": "bitsandchisels"
+    },
+    {
+      "Category": "mods",
+      "Path": "blahaj-fabric-1.20.0-0.3.2.jar",
+      "RepositoryPath": "mods/blahaj-fabric-1.20.0-0.3.2.jar",
+      "Size": 36285,
+      "Sha256": "96e7ad4bc85237bcd8a5850cb21bc1e02dc9e5467d6fdde6ba2188315b845ca3",
+      "FabricId": "blahaj"
+    },
+    {
+      "Category": "mods",
+      "Path": "bushierflowers-0.0.3-1.20.1.jar",
+      "RepositoryPath": "mods/bushierflowers-0.0.3-1.20.1.jar",
+      "Size": 344495,
+      "Sha256": "9fc23dd2f6e4e3b29181beb2fb0a4b81f4d886e2779bd6d8ba4be8675cb73fb9",
+      "FabricId": "bushierflowers"
+    },
+    {
+      "Category": "mods",
+      "Path": "bwncr-fabric-1.20.1-3.17.1.jar",
+      "RepositoryPath": "mods/bwncr-fabric-1.20.1-3.17.1.jar",
+      "Size": 31980,
+      "Sha256": "02477a1e7882bb5a1d70b53ebd7bad6e8800279de5d6460882be53cfb798bf77",
+      "FabricId": null
+    },
+    {
+      "Category": "mods",
+      "Path": "cardinal-components-api-5.2.2.jar",
+      "RepositoryPath": "mods/cardinal-components-api-5.2.2.jar",
+      "Size": 221901,
+      "Sha256": "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1",
+      "FabricId": "cardinal-components"
+    },
+    {
+      "Category": "mods",
+      "Path": "carryon-fabric-1.20.1-2.1.2.7.jar",
+      "RepositoryPath": "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+      "Size": 443033,
+      "Sha256": "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
+      "FabricId": "carryon"
+    },
+    {
+      "Category": "mods",
+      "Path": "centered-crosshair\u002B1.20.1-1.0.6\u002Bb2.jar",
+      "RepositoryPath": "mods/centered-crosshair\u002B1.20.1-1.0.6\u002Bb2.jar",
+      "Size": 8512,
+      "Sha256": "96095379a389e0542b57ce7e9b43a47fd42336801fe0a8c75d28f7295955d7e5",
+      "FabricId": "centered-crosshair"
+    },
+    {
+      "Category": "mods",
+      "Path": "charmofundying-fabric-6.5.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/charmofundying-fabric-6.5.0\u002B1.20.1.jar",
+      "Size": 402847,
+      "Sha256": "04c9dac42ebcedbc47c8f26fca43feaeaa0ed88eb4e7f40dabc9213028f3d934",
+      "FabricId": "charmofundying"
+    },
+    {
+      "Category": "mods",
+      "Path": "chat_heads-0.13.4-fabric-1.20.jar",
+      "RepositoryPath": "mods/chat_heads-0.13.4-fabric-1.20.jar",
+      "Size": 72957,
+      "Sha256": "aea260646ef1f9331574cc081d3f79b8feba767ab4af067a791fbe20a6efe4dd",
+      "FabricId": "chat_heads"
+    },
+    {
+      "Category": "mods",
+      "Path": "chefs-delight-1.0.3-fabric-1.20.1.jar",
+      "RepositoryPath": "mods/chefs-delight-1.0.3-fabric-1.20.1.jar",
+      "Size": 85066,
+      "Sha256": "44f7a3583c90cd8b76c9b032a682285331d72b83b445b790dadac1478eeb3b21",
+      "FabricId": "chefsdelight"
+    },
+    {
+      "Category": "mods",
+      "Path": "chipped-fabric-1.20.1-3.0.7.jar",
+      "RepositoryPath": "mods/chipped-fabric-1.20.1-3.0.7.jar",
+      "Size": 15057458,
+      "Sha256": "b1af1f1a653a65b200c5fd547c59a97e176f6d5b2e41519596f7a30394d4f330",
+      "FabricId": "chipped"
+    },
+    {
+      "Category": "mods",
+      "Path": "cicada-lib-0.14.3\u002B1.20.1.jar",
+      "RepositoryPath": "mods/cicada-lib-0.14.3\u002B1.20.1.jar",
+      "Size": 381708,
+      "Sha256": "ab3bb261662b1c928b2aab29ec9e1eeb48eeb166726f65a35a4a83a8415fe4f4",
+      "FabricId": "cicada"
+    },
+    {
+      "Category": "mods",
+      "Path": "citadelfabric-1.20.1-1.1.0.jar",
+      "RepositoryPath": "mods/citadelfabric-1.20.1-1.1.0.jar",
+      "Size": 894921,
+      "Sha256": "0a4fd229a025c8d11fcc337f796ab14799cdd260ac64a0d81fd67263ad489f84",
+      "FabricId": "citadel"
+    },
+    {
+      "Category": "mods",
+      "Path": "clickadv-fabric-1.20.1-3.8.jar",
+      "RepositoryPath": "mods/clickadv-fabric-1.20.1-3.8.jar",
+      "Size": 20728,
+      "Sha256": "8d130d383fff2b7acd41a66ffe4a9d6079bb19af9425a5a99d541240410aaaa6",
+      "FabricId": "clickadv"
+    },
+    {
+      "Category": "mods",
+      "Path": "cloth-config-11.1.136-fabric.jar",
+      "RepositoryPath": "mods/cloth-config-11.1.136-fabric.jar",
+      "Size": 1172214,
+      "Sha256": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+      "FabricId": "cloth-config"
+    },
+    {
+      "Category": "mods",
+      "Path": "coh-fabric-0.1.5\u002B1.20.1.jar",
+      "RepositoryPath": "mods/coh-fabric-0.1.5\u002B1.20.1.jar",
+      "Size": 82612,
+      "Sha256": "b96ef37d61e8c44e7b9f913034e459bd61d9a2f37cc80feb0cd7810ffec523ba",
+      "FabricId": "coh"
+    },
+    {
+      "Category": "mods",
+      "Path": "colorwheel-fabric-1.3.0\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/colorwheel-fabric-1.3.0\u002Bmc1.20.1.jar",
+      "Size": 510084,
+      "Sha256": "508d68b5152859f08a621cfaaca079eae5d4af2416707b6fa4028912d475c342",
+      "FabricId": "colorwheel"
+    },
+    {
+      "Category": "mods",
+      "Path": "comforts-fabric-6.4.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/comforts-fabric-6.4.0\u002B1.20.1.jar",
+      "Size": 693624,
+      "Sha256": "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
+      "FabricId": "comforts"
+    },
+    {
+      "Category": "mods",
+      "Path": "common-networking-fabric-1.0.5-1.20.1.jar",
+      "RepositoryPath": "mods/common-networking-fabric-1.0.5-1.20.1.jar",
+      "Size": 21748,
+      "Sha256": "faa320a55194d0f903a4a60fdf3f6594f5ee8438e39c621d424cf371e535f379",
+      "FabricId": "commonnetworking"
+    },
+    {
+      "Category": "mods",
+      "Path": "compact-storage-1.20.1-fabric-6.0.1.64.jar",
+      "RepositoryPath": "mods/compact-storage-1.20.1-fabric-6.0.1.64.jar",
+      "Size": 907790,
+      "Sha256": "6c415635879e1b6c9098eeebd4ba88ecaaf520edd30f2aad209061741de48023",
+      "FabricId": "compact_storage"
+    },
+    {
+      "Category": "mods",
+      "Path": "connectivity-fabric-1.20.1-5.8.jar",
+      "RepositoryPath": "mods/connectivity-fabric-1.20.1-5.8.jar",
+      "Size": 161645,
+      "Sha256": "a3c272ad334a8021beadbeffbfb87608358060f6021d1f04df6c27fa471b8eb7",
+      "FabricId": "connectivity"
+    },
+    {
+      "Category": "mods",
+      "Path": "convenientdecor-0.4.3.jar",
+      "RepositoryPath": "mods/convenientdecor-0.4.3.jar",
+      "Size": 722441,
+      "Sha256": "4d6aeca33360bcfa3bdaa539323117c5a756a9f5ca2ca6332bc13ebe70bd9b58",
+      "FabricId": "convenientdecor"
+    },
+    {
+      "Category": "mods",
+      "Path": "copycats-3.0.10\u002Bmc.1.20.1-fabric.jar",
+      "RepositoryPath": "mods/copycats-3.0.10\u002Bmc.1.20.1-fabric.jar",
+      "Size": 2004438,
+      "Sha256": "c952e987ac3b9ee409e5c64ff2c0ef0d0762d1c742bbed251becd97751737049",
+      "FabricId": "copycats"
+    },
+    {
+      "Category": "mods",
+      "Path": "coroutil-fabric-1.20.1-1.3.7.jar",
+      "RepositoryPath": "mods/coroutil-fabric-1.20.1-1.3.7.jar",
+      "Size": 2392617,
+      "Sha256": "a97d58b44cf1ce8cf4fa8fded9c3c574ef1dd95e7fbb073f854e7fbce9c588b3",
+      "FabricId": "coroutil"
+    },
+    {
+      "Category": "mods",
+      "Path": "crawl-0.12.0.jar",
+      "RepositoryPath": "mods/crawl-0.12.0.jar",
+      "Size": 97866,
+      "Sha256": "525a507735310278897b795989905a9f5c32937846495c39abec15cdf9ec2e40",
+      "FabricId": "crawl"
+    },
+    {
+      "Category": "mods",
+      "Path": "create-dragons-plus-fabric-1.20.1-1.11.8.jar",
+      "RepositoryPath": "mods/create-dragons-plus-fabric-1.20.1-1.11.8.jar",
+      "Size": 777479,
+      "Sha256": "b557f54942b4dbdda3c41daddf5a47d2fc6af9f1b3fca5fb727b5bb55dfd86d4",
+      "FabricId": "create_dragons_plus"
+    },
+    {
+      "Category": "mods",
+      "Path": "create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar",
+      "RepositoryPath": "mods/create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar",
+      "Size": 1686702,
+      "Sha256": "f05df948fbc562cecb42605847763aa5fd0c775fb622a319daaff0b8aca67a18",
+      "FabricId": "create_enchantment_industry"
+    },
+    {
+      "Category": "mods",
+      "Path": "create-fabric-6.0.8.1\u002Bbuild.1744-mc1.20.1.jar",
+      "RepositoryPath": "mods/create-fabric-6.0.8.1\u002Bbuild.1744-mc1.20.1.jar",
+      "Size": 32189889,
+      "Sha256": "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a",
+      "FabricId": "create"
+    },
+    {
+      "Category": "mods",
+      "Path": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+      "RepositoryPath": "mods/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+      "Size": 227202,
+      "Sha256": "712bc4bef28eb83737d8aec23219b618c0adc267c5cf6f250f999c1481762db1",
+      "FabricId": "create_ultimate_factory"
+    },
+    {
+      "Category": "mods",
+      "Path": "createaddition-fabric\u002B1.20.1-1.3.4.jar",
+      "RepositoryPath": "mods/createaddition-fabric\u002B1.20.1-1.3.4.jar",
+      "Size": 1647722,
+      "Sha256": "619a285af56bca4f05bfd1a9c83beb1a29ef3222b66c648ed2e398b99f07002e",
+      "FabricId": "createaddition"
+    },
+    {
+      "Category": "mods",
+      "Path": "createbigcannons-5.11.4-mc.1.20.1-fabric.jar",
+      "RepositoryPath": "mods/createbigcannons-5.11.4-mc.1.20.1-fabric.jar",
+      "Size": 6346405,
+      "Sha256": "99e544c07ccca03bb20998b23dcaf99af91cb806b9fefb3df965f8d8cdeda3ec",
+      "FabricId": "createbigcannons"
+    },
+    {
+      "Category": "mods",
+      "Path": "createdeco-2.1.1-1.20.1-fabric.jar",
+      "RepositoryPath": "mods/createdeco-2.1.1-1.20.1-fabric.jar",
+      "Size": 3492044,
+      "Sha256": "7a72ee9c8da0b478256263c1e75ad4541b902cffb3c314bdb91850ead6fcfd4a",
+      "FabricId": "createdeco"
+    },
+    {
+      "Category": "mods",
+      "Path": "creeperoverhaul-3.0.2-fabric.jar",
+      "RepositoryPath": "mods/creeperoverhaul-3.0.2-fabric.jar",
+      "Size": 1451306,
+      "Sha256": "cdbfbdfe66dab1791b9a79f11fffa64615e7d8f70a8dbe2228aed7f147e32d43",
+      "FabricId": "creeperoverhaul"
+    },
+    {
+      "Category": "mods",
+      "Path": "crittersandcompanions-fabric-2.2.2.jar",
+      "RepositoryPath": "mods/crittersandcompanions-fabric-2.2.2.jar",
+      "Size": 1744702,
+      "Sha256": "997bc8bbc6ed27fa0b6f245bfe2a063cda4a54434c1665a4fad528a6670eae71",
+      "FabricId": "crittersandcompanions"
+    },
+    {
+      "Category": "mods",
+      "Path": "cupboard-fabric-1.20.1-2.7.jar",
+      "RepositoryPath": "mods/cupboard-fabric-1.20.1-2.7.jar",
+      "Size": 25668,
+      "Sha256": "3ce1eba640c2f7e28c7b769255996f19d9776ab8add481caa84a24dabe0c80a5",
+      "FabricId": "cupboard"
+    },
+    {
+      "Category": "mods",
+      "Path": "death_knights-fabric-1.0.0-1.20.1.jar",
+      "RepositoryPath": "mods/death_knights-fabric-1.0.0-1.20.1.jar",
+      "Size": 377252,
+      "Sha256": "6e1911b9872a4d9079db9a786fa8117d0ec9ab852094efc513c78cb79afaa4d7",
+      "FabricId": "death_knights"
+    },
+    {
+      "Category": "mods",
+      "Path": "delightful-creators-1.3-1.20.x-FDR-support.jar",
+      "RepositoryPath": "mods/delightful-creators-1.3-1.20.x-FDR-support.jar",
+      "Size": 456835,
+      "Sha256": "e1a6a17b8bb30eedc15a88d1365ff67393bd8d565d76ddb8c7c66afadae747dd",
+      "FabricId": "delightfulcreators"
+    },
+    {
+      "Category": "mods",
+      "Path": "deltaboxlib-fabric-2.2.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/deltaboxlib-fabric-2.2.0\u002B1.20.1.jar",
+      "Size": 852126,
+      "Sha256": "a932e4e16fca53130b190cc1ec3cc4189eb14e6c555889f717cc54730ca90902",
+      "FabricId": "deltaboxlib"
+    },
+    {
+      "Category": "mods",
+      "Path": "dimensionalsyncfixes-fabric-1.20.1-0.0.2.jar",
+      "RepositoryPath": "mods/dimensionalsyncfixes-fabric-1.20.1-0.0.2.jar",
+      "Size": 2938,
+      "Sha256": "a891ddc35d9fe52468ed8bb9a597bdb63ef089876befbddbdd562275f49022ba",
+      "FabricId": "dimensionalsyncfixes"
+    },
+    {
+      "Category": "mods",
+      "Path": "dont-punch-my-tacz-v0.4-1.20.1-fabric.jar",
+      "RepositoryPath": "mods/dont-punch-my-tacz-v0.4-1.20.1-fabric.jar",
+      "Size": 14938,
+      "Sha256": "e161020b3e1667626cffab8775c34f8e9ea51acddfc822f3c98cbfe6f5849bb8",
+      "FabricId": "dontpunchmytacz"
+    },
+    {
+      "Category": "mods",
+      "Path": "draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar",
+      "RepositoryPath": "mods/draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar",
+      "Size": 93320,
+      "Sha256": "6c42ce3a95f7d48eec28693d4725a1ef8584f1955f90e4f03b15622bd53bc598",
+      "FabricId": "draggable_lists"
+    },
+    {
+      "Category": "mods",
+      "Path": "dragonfight-fabric-1.20.1-4.6.jar",
+      "RepositoryPath": "mods/dragonfight-fabric-1.20.1-4.6.jar",
+      "Size": 40210,
+      "Sha256": "748201acf4191fff6f5da771e73688fb4c51196ec7b24289d89d3bb0f357cc53",
+      "FabricId": "dragonfight"
+    },
+    {
+      "Category": "mods",
+      "Path": "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
+      "RepositoryPath": "mods/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
+      "Size": 230397,
+      "Sha256": "a89061d926cb75ae417bfafaee560e80350deb13f0a5404c938860ed373c3254",
+      "FabricId": "drippyloadingscreen"
+    },
+    {
+      "Category": "mods",
+      "Path": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
+      "RepositoryPath": "mods/dungeons-and-taverns-3.0.3.f[Fabric].jar",
+      "Size": 13161726,
+      "Sha256": "1da45baa734df73b1aa46f0b3f319b051c26507a911ec52bfcb1ccae6930e4f0",
+      "FabricId": "mr_dungeons_andtaverns"
+    },
+    {
+      "Category": "mods",
+      "Path": "e4mc_minecraft-fabric-5.2.1.jar",
+      "RepositoryPath": "mods/e4mc_minecraft-fabric-5.2.1.jar",
+      "Size": 568993,
+      "Sha256": "dc1f221f43e3737c3fdc3b4e73bee4d03577ad90c60cdf625068c78ae864e466",
+      "FabricId": "e4mc_minecraft"
+    },
+    {
+      "Category": "mods",
+      "Path": "elemental_wizards_rpg-1.3.8-1.20.1.jar",
+      "RepositoryPath": "mods/elemental_wizards_rpg-1.3.8-1.20.1.jar",
+      "Size": 1019174,
+      "Sha256": "dbe2e928477a98962eebd3190bfe0a534c878998e3895547143844a3141c3751",
+      "FabricId": "elemental_wizards_rpg"
+    },
+    {
+      "Category": "mods",
+      "Path": "elytraslot-fabric-6.4.4\u002B1.20.1.jar",
+      "RepositoryPath": "mods/elytraslot-fabric-6.4.4\u002B1.20.1.jar",
+      "Size": 85106,
+      "Sha256": "ba49a677be30a9b003c2889c5f1bec1db95f875802adb8ae659bd64d7cc3b24d",
+      "FabricId": "elytraslot"
+    },
+    {
+      "Category": "mods",
+      "Path": "emi-1.1.18\u002B1.20.1\u002Bfabric.jar",
+      "RepositoryPath": "mods/emi-1.1.18\u002B1.20.1\u002Bfabric.jar",
+      "Size": 1023360,
+      "Sha256": "a45dc428ed9014bee5375141f56cee523cf12bf582ba1ae29beb95e73c77267f",
+      "FabricId": "emi"
+    },
+    {
+      "Category": "mods",
+      "Path": "emi-letsdo-compat-1.3.jar",
+      "RepositoryPath": "mods/emi-letsdo-compat-1.3.jar",
+      "Size": 76680,
+      "Sha256": "c6ada6123ebeb1dece0fba22a8fddebd879806a473f37bc9c9f94ff3812b4bda",
+      "FabricId": "emi_letsdo_compat"
+    },
+    {
+      "Category": "mods",
+      "Path": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "RepositoryPath": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "Size": 873611,
+      "Sha256": "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0",
+      "FabricId": "emotecraft"
+    },
+    {
+      "Category": "mods",
+      "Path": "endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+      "RepositoryPath": "mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+      "Size": 1194281,
+      "Sha256": "4d967523b7ffcffe6acd0e995390a69dd9af5e6dd3e3573dd43ca42c32157bc0",
+      "FabricId": "endermanoverhaul"
+    },
+    {
+      "Category": "mods",
+      "Path": "ends_delight-refabricated-1.20.1-2.5.jar",
+      "RepositoryPath": "mods/ends_delight-refabricated-1.20.1-2.5.jar",
+      "Size": 272974,
+      "Sha256": "33269eebbfd99daa3df1c75ccb736e4fa114cd6f81869be7939f34475dc743fb",
+      "FabricId": "ends_delight"
+    },
+    {
+      "Category": "mods",
+      "Path": "enhancedblockentities-0.9\u002B1.20.jar",
+      "RepositoryPath": "mods/enhancedblockentities-0.9\u002B1.20.jar",
+      "Size": 490690,
+      "Sha256": "1c4ce2c00d8cc6d2269de3cadaba551607c62692a8e5ad1d7c618462ed7ed05b",
+      "FabricId": "enhancedblockentities"
+    },
+    {
+      "Category": "mods",
+      "Path": "entity_model_features-3.3.9-1.20.1-fabric.jar",
+      "RepositoryPath": "mods/entity_model_features-3.3.9-1.20.1-fabric.jar",
+      "Size": 638045,
+      "Sha256": "fc47983a88c3cf1db46752857c0281620f9e76d371bf6bab15b70eb48dfdf348",
+      "FabricId": "entity_model_features"
+    },
+    {
+      "Category": "mods",
+      "Path": "entity_texture_features-7.2.4-1.20.1-fabric.jar",
+      "RepositoryPath": "mods/entity_texture_features-7.2.4-1.20.1-fabric.jar",
+      "Size": 791015,
+      "Sha256": "c8bac35efcfb0bbef45b5253506015a0ddee386ff60577e2c2715e555ad51433",
+      "FabricId": "entity_texture_features"
+    },
+    {
+      "Category": "mods",
+      "Path": "entityculling-fabric-1.11.2-mc1.20.1.jar",
+      "RepositoryPath": "mods/entityculling-fabric-1.11.2-mc1.20.1.jar",
+      "Size": 1516669,
+      "Sha256": "637b6f30d8c7d51f107eddce095ab205f5768751aa3f9bd9ad11577da04dbbd0",
+      "FabricId": "entityculling"
+    },
+    {
+      "Category": "mods",
+      "Path": "eternal_attributes-fabric-1.0.0-1.20.1.jar",
+      "RepositoryPath": "mods/eternal_attributes-fabric-1.0.0-1.20.1.jar",
+      "Size": 12161,
+      "Sha256": "03f6b85892d58617eb70b1b00d7e810bd399d0f76c3b5079b951b8cec0864ab9",
+      "FabricId": "eternal_attributes"
+    },
+    {
+      "Category": "mods",
+      "Path": "everycomp-1.20-2.9.26-fabric.jar",
+      "RepositoryPath": "mods/everycomp-1.20-2.9.26-fabric.jar",
+      "Size": 2980673,
+      "Sha256": "fcfbe46207a8dcf50642d6b58c579fea20c2b5909962648948d3dcca4d7b66ea",
+      "FabricId": "everycomp"
+    },
+    {
+      "Category": "mods",
+      "Path": "exordium-fabric-1.4.2-mc1.20.1.jar",
+      "RepositoryPath": "mods/exordium-fabric-1.4.2-mc1.20.1.jar",
+      "Size": 220776,
+      "Sha256": "759ab2762c51f4a367f2b78e2246733a2067f7665c48b905878f5a448c72bb2c",
+      "FabricId": "exordium"
+    },
+    {
+      "Category": "mods",
+      "Path": "expandeddelight-0.3.2.jar",
+      "RepositoryPath": "mods/expandeddelight-0.3.2.jar",
+      "Size": 323205,
+      "Sha256": "e743b6d9fb6f810ee5087db2365a81086f9ef2ac0f98eb15b69ec6558b7f8dd4",
+      "FabricId": "expandeddelight"
+    },
+    {
+      "Category": "mods",
+      "Path": "explosive-enhancement-1.2.2-1.20.x.jar",
+      "RepositoryPath": "mods/explosive-enhancement-1.2.2-1.20.x.jar",
+      "Size": 102550,
+      "Sha256": "2a98b3f820b48c156e2495c28b994cf2835da172db852de6dd24bdef3b8de589",
+      "FabricId": "explosiveenhancement"
+    },
+    {
+      "Category": "mods",
+      "Path": "exposure-1.20.1-1.7.7-fabric.jar",
+      "RepositoryPath": "mods/exposure-1.20.1-1.7.7-fabric.jar",
+      "Size": 1308074,
+      "Sha256": "2436ab698e34f46bddb1c75d80cb5e33461e5669d4b49ea9035f1b305f3366a3",
+      "FabricId": "exposure"
+    },
+    {
+      "Category": "mods",
+      "Path": "extraclasses20.jar",
+      "RepositoryPath": "mods/extraclasses20.jar",
+      "Size": 7803,
+      "Sha256": "151a6c004905e5406e24663406ff3b6b84b5833ae202926425323f0c35841866",
+      "FabricId": "extraclasses20"
+    },
+    {
+      "Category": "mods",
+      "Path": "extraspellattributes-1.3.2.jar",
+      "RepositoryPath": "mods/extraspellattributes-1.3.2.jar",
+      "Size": 232640,
+      "Sha256": "c964bf77681c6db37334f8a660d999370ae5d3af5c8096a5dd6870982cf741c3",
+      "FabricId": "extraspellattributes"
+    },
+    {
+      "Category": "mods",
+      "Path": "fabric-api-0.92.12\u002B1.20.1.jar",
+      "RepositoryPath": "mods/fabric-api-0.92.12\u002B1.20.1.jar",
+      "Size": 2137232,
+      "Sha256": "4197ff4fbdac13cffccd267c1bc59e9fbabb2b5683a9d5f8023f4b5ea16a1c1e",
+      "FabricId": "fabric-api"
+    },
+    {
+      "Category": "mods",
+      "Path": "fabric-end-remastered-5.2.4.jar",
+      "RepositoryPath": "mods/fabric-end-remastered-5.2.4.jar",
+      "Size": 141139,
+      "Sha256": "69e258214a055a75c406b7f0d8876521a6a5d08dd945673453dada7890072f96",
+      "FabricId": "endrem"
+    },
+    {
+      "Category": "mods",
+      "Path": "fabric-language-kotlin-1.14.1\u002Bkotlin.2.4.20.jar",
+      "RepositoryPath": "mods/fabric-language-kotlin-1.14.1\u002Bkotlin.2.4.20.jar",
+      "Size": 8142858,
+      "Sha256": "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5",
+      "FabricId": "fabric-language-kotlin"
+    },
+    {
+      "Category": "mods",
+      "Path": "fabric-seasons-2.3\u002B1.20.jar",
+      "RepositoryPath": "mods/fabric-seasons-2.3\u002B1.20.jar",
+      "Size": 428398,
+      "Sha256": "31ff2d3af46695c382d61a59c89fe63c83dc7e039f3b589a5621e669cd9f74c4",
+      "FabricId": "seasons"
+    },
+    {
+      "Category": "mods",
+      "Path": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
+      "RepositoryPath": "mods/fabric-seasons-delight-1.3.9-compat-1.0.jar",
+      "Size": 39100,
+      "Sha256": "149a075aa3b4902754528c36be66d4d43532b896d3155870bfd0d42a09b02c13",
+      "FabricId": "seasonsdelightcompat"
+    },
+    {
+      "Category": "mods",
+      "Path": "fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+      "RepositoryPath": "mods/fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+      "Size": 49473,
+      "Sha256": "c709416512c59958e4f00d2fa318a81436f14caa32554a8e5a97bfd13dfb9524",
+      "FabricId": "seasonsterralithcompat"
+    },
+    {
+      "Category": "mods",
+      "Path": "fallingleaves-1.15.6\u002B1.20.1.jar",
+      "RepositoryPath": "mods/fallingleaves-1.15.6\u002B1.20.1.jar",
+      "Size": 156773,
+      "Sha256": "27b2c5a2a9cebe09afd4adccc3989c43a6cceb92ece60a6daea735ba178114f0",
+      "FabricId": "fallingleaves"
+    },
+    {
+      "Category": "mods",
+      "Path": "fancymenu_fabric_3.3.2_MC_1.20.1.jar",
+      "RepositoryPath": "mods/fancymenu_fabric_3.3.2_MC_1.20.1.jar",
+      "Size": 2877394,
+      "Sha256": "966418e1396088829ad0ec0f289accda418b8bfc696979daa8fdd1b6c83df455",
+      "FabricId": "fancymenu"
+    },
+    {
+      "Category": "mods",
+      "Path": "farsight-fabric-1.20.1-4.3.jar",
+      "RepositoryPath": "mods/farsight-fabric-1.20.1-4.3.jar",
+      "Size": 372718,
+      "Sha256": "e9d2c4a162ab327c30ef64330e4377e60dd34a0999c6d93e38768228325b9b1d",
+      "FabricId": "farsight"
+    },
+    {
+      "Category": "mods",
+      "Path": "fast-chest-1.5\u002B1.20.jar",
+      "RepositoryPath": "mods/fast-chest-1.5\u002B1.20.jar",
+      "Size": 24773,
+      "Sha256": "e2a6b132cccdd2454d53be1b3378ef426d41bbfca5313a51f9f159324483edbb",
+      "FabricId": "fastchest"
+    },
+    {
+      "Category": "mods",
+      "Path": "fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar",
+      "RepositoryPath": "mods/fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar",
+      "Size": 10595,
+      "Sha256": "fb5c2a4dbba84c2dfc0a388d0b7b9fe3d5a1afc121e4fa3bbfec2aaaeb91aa57",
+      "FabricId": "fastipping"
+    },
+    {
+      "Category": "mods",
+      "Path": "fasterrandom-5.1.0.jar",
+      "RepositoryPath": "mods/fasterrandom-5.1.0.jar",
+      "Size": 20697,
+      "Sha256": "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08",
+      "FabricId": "faster-random"
+    },
+    {
+      "Category": "mods",
+      "Path": "fastpaintings-1.20-1.2.7-fabric.jar",
+      "RepositoryPath": "mods/fastpaintings-1.20-1.2.7-fabric.jar",
+      "Size": 304738,
+      "Sha256": "31d7fe9d421494953291048ddea6dae7dd59fd61dbb0ae557dd2815e63720a3c",
+      "FabricId": "fastpaintings"
+    },
+    {
+      "Category": "mods",
+      "Path": "fastquit-3.0.0\u002B1.20\u002B.jar",
+      "RepositoryPath": "mods/fastquit-3.0.0\u002B1.20\u002B.jar",
+      "Size": 79306,
+      "Sha256": "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78",
+      "FabricId": "fastquit"
+    },
+    {
+      "Category": "mods",
+      "Path": "ferritecore-6.0.1-fabric.jar",
+      "RepositoryPath": "mods/ferritecore-6.0.1-fabric.jar",
+      "Size": 125197,
+      "Sha256": "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+      "FabricId": "ferritecore"
+    },
+    {
+      "Category": "mods",
+      "Path": "flowerymooblooms-fabric-mc1.20.1-2.0.2.jar",
+      "RepositoryPath": "mods/flowerymooblooms-fabric-mc1.20.1-2.0.2.jar",
+      "Size": 204580,
+      "Sha256": "e45e9f0fdebb75649e548ed5eb1e0598562c234df1efed66eb45c49a0930340a",
+      "FabricId": "flowerymooblooms"
+    },
+    {
+      "Category": "mods",
+      "Path": "forcemaster-class-mod-1.2.7-1.20.1.jar",
+      "RepositoryPath": "mods/forcemaster-class-mod-1.2.7-1.20.1.jar",
+      "Size": 760048,
+      "Sha256": "221251a869b7f4ac265aff520adbd9716a0abdabff7843f99115bbf05a7e5448",
+      "FabricId": "forcemaster_rpg"
+    },
+    {
+      "Category": "mods",
+      "Path": "framework-fabric-1.20.1-0.6.16.jar",
+      "RepositoryPath": "mods/framework-fabric-1.20.1-0.6.16.jar",
+      "Size": 1382530,
+      "Sha256": "b2ce2c5650d95d0ba8caeae21aeacee34a4ff3b5fea90633551e81f0e0518292",
+      "FabricId": "framework"
+    },
+    {
+      "Category": "mods",
+      "Path": "freecam-fabric-1.2.1\u002B1.20.jar",
+      "RepositoryPath": "mods/freecam-fabric-1.2.1\u002B1.20.jar",
+      "Size": 1071661,
+      "Sha256": "9db032b3f5ee42d9178c19e633d5398d6a4674a3be66b98c50f65afb50ef604a",
+      "FabricId": "freecam"
+    },
+    {
+      "Category": "mods",
+      "Path": "friendsandfoes-fabric-mc1.20.1-3.0.5.jar",
+      "RepositoryPath": "mods/friendsandfoes-fabric-mc1.20.1-3.0.5.jar",
+      "Size": 3613920,
+      "Sha256": "aa20c42418edf661c6d8093123abd50696ea209c769bc78e3209e9eceedc854f",
+      "FabricId": "friendsandfoes"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-chunks-fabric-2001.3.1.jar",
+      "RepositoryPath": "mods/ftb-chunks-fabric-2001.3.1.jar",
+      "Size": 882142,
+      "Sha256": "611308d67f73d01b861a89bfef6585005c0b65c7280917cf1cae67f99912c081",
+      "FabricId": "ftbchunks"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-essentials-fabric-2001.2.2.jar",
+      "RepositoryPath": "mods/ftb-essentials-fabric-2001.2.2.jar",
+      "Size": 155265,
+      "Sha256": "2746565c1848c564a53add03a7683a3e2ae36e3f535e8f9dc0629b56638a1394",
+      "FabricId": "ftbessentials"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-library-fabric-2001.2.4.jar",
+      "RepositoryPath": "mods/ftb-library-fabric-2001.2.4.jar",
+      "Size": 780468,
+      "Sha256": "a6c2985cb4a844aa31cc27066929c17522ea6520c81caf6320bf9695d82cbdd0",
+      "FabricId": "ftblibrary"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-quests-fabric-2001.4.8.jar",
+      "RepositoryPath": "mods/ftb-quests-fabric-2001.4.8.jar",
+      "Size": 1189753,
+      "Sha256": "5d9b64336a93349003bfa1c8669d15f17efd1451d9b99149374cc256842dad47",
+      "FabricId": "ftbquests"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-teams-fabric-2001.3.0.jar",
+      "RepositoryPath": "mods/ftb-teams-fabric-2001.3.0.jar",
+      "Size": 243962,
+      "Sha256": "a4e5afc36f5544a097b5b69385e7c0fa5b7e26c44ca16d2e7a1f94aea2741e31",
+      "FabricId": "ftbteams"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-ultimine-fabric-2001.1.5.jar",
+      "RepositoryPath": "mods/ftb-ultimine-fabric-2001.1.5.jar",
+      "Size": 111563,
+      "Sha256": "dc2a84d56436caccad71960799daf528090e8e071d93420122021b7a8786a8ee",
+      "FabricId": "ftbultimine"
+    },
+    {
+      "Category": "mods",
+      "Path": "ftb-xmod-compat-fabric-2.1.1.jar",
+      "RepositoryPath": "mods/ftb-xmod-compat-fabric-2.1.1.jar",
+      "Size": 130907,
+      "Sha256": "be7c0f8c80bae430ee85f702402c689c210ef4e6bf375cfd14e579b72f2b2821",
+      "FabricId": "ftbxmodcompat"
+    },
+    {
+      "Category": "mods",
+      "Path": "fwa\u002B1.20.1-1.2.31.jar",
+      "RepositoryPath": "mods/fwa\u002B1.20.1-1.2.31.jar",
+      "Size": 387115,
+      "Sha256": "f9af420c066af0452dd5991fbff25fa8fef7a9c3a2a6ba01340cdc09fbe3adff",
+      "FabricId": "fwa"
+    },
+    {
+      "Category": "mods",
+      "Path": "fzzy_config-0.7.6\u002B1.20.1.jar",
+      "RepositoryPath": "mods/fzzy_config-0.7.6\u002B1.20.1.jar",
+      "Size": 2372585,
+      "Sha256": "faa76d1ad670041d88cebd4eeda8e804bcd99289e755336fc1df4a066cfdbc8c",
+      "FabricId": "fzzy_config"
+    },
+    {
+      "Category": "mods",
+      "Path": "gazebo-1.1.1\u002B1.20.1.jar",
+      "RepositoryPath": "mods/gazebo-1.1.1\u002B1.20.1.jar",
+      "Size": 319890,
+      "Sha256": "d27de491eaa1dc61d58c0612df3b199f7cb0c2ca4cf7ba8a716dc46385e4c2d2",
+      "FabricId": "gazebo"
+    },
+    {
+      "Category": "mods",
+      "Path": "geckolib-fabric-1.20.1-4.4.9.jar",
+      "RepositoryPath": "mods/geckolib-fabric-1.20.1-4.4.9.jar",
+      "Size": 1019731,
+      "Sha256": "62029266eae8714c34c100803cad539415de728ce700aa709ef8a1b9b09b49f7",
+      "FabricId": "geckolib"
+    },
+    {
+      "Category": "mods",
+      "Path": "getittogetherdrops-fabric-1.20-1.3.1.jar",
+      "RepositoryPath": "mods/getittogetherdrops-fabric-1.20-1.3.1.jar",
+      "Size": 82403,
+      "Sha256": "76cdc906aa424a012595a5594861d6d561306cb168bf23090003b861eaabe003",
+      "FabricId": "getittogetherdrops"
+    },
+    {
+      "Category": "mods",
+      "Path": "global_packs-fabric-1.19.4-1.16.1_fabric.jar",
+      "RepositoryPath": "mods/global_packs-fabric-1.19.4-1.16.1_fabric.jar",
+      "Size": 230087,
+      "Sha256": "af7ca09b53376bc7199f99135daa7f86b14d0000476ffd140d9b665261b4505b",
+      "FabricId": "globalpacks"
+    },
+    {
+      "Category": "mods",
+      "Path": "go-fish-1.6.3\u002B1.20.1.jar",
+      "RepositoryPath": "mods/go-fish-1.6.3\u002B1.20.1.jar",
+      "Size": 323058,
+      "Sha256": "f4fbe5b10944cf36e0bd0d7399d1f0b2be0909c782e3233caf8515c9f89daced",
+      "FabricId": "go-fish"
+    },
+    {
+      "Category": "mods",
+      "Path": "gpumemleakfix-fabric-1.20.1-1.8.jar",
+      "RepositoryPath": "mods/gpumemleakfix-fabric-1.20.1-1.8.jar",
+      "Size": 6949,
+      "Sha256": "7f84fd5752533f2ccc2ad62a746b7e5e18baf2f7e7f141e1281dae94e1a9a8f8",
+      "FabricId": "gpumemleakfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "grind-enchantments-3.1.2\u002B1.20.jar",
+      "RepositoryPath": "mods/grind-enchantments-3.1.2\u002B1.20.jar",
+      "Size": 126407,
+      "Sha256": "b33c0e2f47f4ae0a12560daab6e6cf99e8c128b0db013de9ec381bdcb724bc93",
+      "FabricId": "grindenchantments"
+    },
+    {
+      "Category": "mods",
+      "Path": "guarding-2.4.0.jar",
+      "RepositoryPath": "mods/guarding-2.4.0.jar",
+      "Size": 344832,
+      "Sha256": "468b248fbfe7c1cc5e0d9e362a82688c2f4c9546a77efa50e046d2188b56a5ff",
+      "FabricId": "guarding"
+    },
+    {
+      "Category": "mods",
+      "Path": "guardvillagers-2.0.9-1.20.1.jar",
+      "RepositoryPath": "mods/guardvillagers-2.0.9-1.20.1.jar",
+      "Size": 298755,
+      "Sha256": "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502",
+      "FabricId": "guardvillagers"
+    },
+    {
+      "Category": "mods",
+      "Path": "handcrafted-fabric-1.20.1-3.0.6.jar",
+      "RepositoryPath": "mods/handcrafted-fabric-1.20.1-3.0.6.jar",
+      "Size": 7106384,
+      "Sha256": "aa82c95a7394c5fd7278c8b89e3554bb24dae0c3e6e73282a7f19d8bb6bf4a71",
+      "FabricId": "handcrafted"
+    },
+    {
+      "Category": "mods",
+      "Path": "herdspanic-1.1.0.jar",
+      "RepositoryPath": "mods/herdspanic-1.1.0.jar",
+      "Size": 24464,
+      "Sha256": "d3ba56e9ed1c3cf23f6e11d57ae75a031ca0806322a19211ab8755fcf8d4a55d",
+      "FabricId": "herdspanic"
+    },
+    {
+      "Category": "mods",
+      "Path": "hotbar-randomizer-1.0.1\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/hotbar-randomizer-1.0.1\u002Bmc1.20.1.jar",
+      "Size": 16311,
+      "Sha256": "c8f02612ef306c242edd640f6ba3631851733f7164662fd7925daf2fd2a9e5b6",
+      "FabricId": "hotbar_randomizer"
+    },
+    {
+      "Category": "mods",
+      "Path": "idwtialsimmoedm-0.3.1\u002B1.20.jar",
+      "RepositoryPath": "mods/idwtialsimmoedm-0.3.1\u002B1.20.jar",
+      "Size": 32108,
+      "Sha256": "1ba392d6b40878a40a23c96a4b5e0e3589f6950efbea78647ad52c2dc335b073",
+      "FabricId": "idwtialsimmoedm"
+    },
+    {
+      "Category": "mods",
+      "Path": "immersive-hotbar-1.2.2-1.20-1.20.4.jar",
+      "RepositoryPath": "mods/immersive-hotbar-1.2.2-1.20-1.20.4.jar",
+      "Size": 125705,
+      "Sha256": "303ba73676d4dac3eff462af4f356d2a168e277817b4a26a8e73b1892906beea",
+      "FabricId": "immersive-hotbar"
+    },
+    {
+      "Category": "mods",
+      "Path": "immersive_aircraft-1.5.0\u002B1.20.1-fabric.jar",
+      "RepositoryPath": "mods/immersive_aircraft-1.5.0\u002B1.20.1-fabric.jar",
+      "Size": 2430374,
+      "Sha256": "42dba245ecd85dc25985b37cdc56d9df95908995dc0960c3521bbc12863d128e",
+      "FabricId": "immersive_aircraft"
+    },
+    {
+      "Category": "mods",
+      "Path": "immersive_machinery-0.2.1\u002B1.20.1-fabric.jar",
+      "RepositoryPath": "mods/immersive_machinery-0.2.1\u002B1.20.1-fabric.jar",
+      "Size": 896206,
+      "Sha256": "736f5c3155f089c03b0b1361d23dff2c3553d9d3114be3f8224ebccd8e698488",
+      "FabricId": "immersive_machinery"
+    },
+    {
+      "Category": "mods",
+      "Path": "immersive_optimization-fabric-1.20.1-0.2.0.jar",
+      "RepositoryPath": "mods/immersive_optimization-fabric-1.20.1-0.2.0.jar",
+      "Size": 55483,
+      "Sha256": "ab9805321346e9ba9a61f538ded18cbf58d304b7d327af62c546e0e32dd4e5f8",
+      "FabricId": "immersive_optimization"
+    },
+    {
+      "Category": "mods",
+      "Path": "immersive_paintings-0.6.7\u002B1.20.1-fabric.jar",
+      "RepositoryPath": "mods/immersive_paintings-0.6.7\u002B1.20.1-fabric.jar",
+      "Size": 4839553,
+      "Sha256": "2d5aa7a9fcf144855830b6c63a90f2352b83609d41694b2f355f9c818f5129b6",
+      "FabricId": "immersive_paintings"
+    },
+    {
+      "Category": "mods",
+      "Path": "incantationem-1.2.1\u002B1.20.jar",
+      "RepositoryPath": "mods/incantationem-1.2.1\u002B1.20.jar",
+      "Size": 847260,
+      "Sha256": "768c776f7fd3b7b33752705a926119752ac79a8eae441c1c21f4293f5806b1aa",
+      "FabricId": "incantationem"
+    },
+    {
+      "Category": "mods",
+      "Path": "indium-1.0.36\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/indium-1.0.36\u002Bmc1.20.1.jar",
+      "Size": 105382,
+      "Sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+      "FabricId": "indium"
+    },
+    {
+      "Category": "mods",
+      "Path": "iris-1.7.6\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/iris-1.7.6\u002Bmc1.20.1.jar",
+      "Size": 2726899,
+      "Sha256": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+      "FabricId": "iris"
+    },
+    {
+      "Category": "mods",
+      "Path": "ironchests-5.0.2-fabric.jar",
+      "RepositoryPath": "mods/ironchests-5.0.2-fabric.jar",
+      "Size": 485230,
+      "Sha256": "6a07065a3a68280e26a0fc8a3fc0d8dde10b0999432492ef6726cd583be96de6",
+      "FabricId": "ironchests"
+    },
+    {
+      "Category": "mods",
+      "Path": "item-filters-fabric-2001.1.0-build.59.jar",
+      "RepositoryPath": "mods/item-filters-fabric-2001.1.0-build.59.jar",
+      "Size": 108400,
+      "Sha256": "0a4c161bba648fd41b6f6ba69cdc00e65c5c161b7c52baed5ce97d91d8bae238",
+      "FabricId": "itemfilters"
+    },
+    {
+      "Category": "mods",
+      "Path": "itemcollectors-1.1.10-fabric-mc1.20.jar",
+      "RepositoryPath": "mods/itemcollectors-1.1.10-fabric-mc1.20.jar",
+      "Size": 107816,
+      "Sha256": "06df49dd97e896a8cfc3b27849d96010d6ccee0ebc5961f7372fdf5852d019d0",
+      "FabricId": "itemcollectors"
+    },
+    {
+      "Category": "mods",
+      "Path": "jmi-fabric-1.20.1-0.14-48.jar",
+      "RepositoryPath": "mods/jmi-fabric-1.20.1-0.14-48.jar",
+      "Size": 70950,
+      "Sha256": "ff49411b29dc79e036e53f74569e4536365a326ada7cb1902d1c0f5a81355535",
+      "FabricId": "jmi"
+    },
+    {
+      "Category": "mods",
+      "Path": "journeymap-1.20.1-5.10.3-fabric.jar",
+      "RepositoryPath": "mods/journeymap-1.20.1-5.10.3-fabric.jar",
+      "Size": 7209178,
+      "Sha256": "a048c98c2b0cbc7f7c221974d0e808d56f7546bdf48d3a7811ed35a8723417b2",
+      "FabricId": "journeymap"
+    },
+    {
+      "Category": "mods",
+      "Path": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+      "RepositoryPath": "mods/jumpoverfences-fabric-1.20.1-1.3.1.jar",
+      "Size": 29556,
+      "Sha256": "02463bd3622c533419169c227dcf5854862f227d07fc67a1befda5ccd16d8a20",
+      "FabricId": null
+    },
+    {
+      "Category": "mods",
+      "Path": "justhammers-fabric-20.1.5\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/justhammers-fabric-20.1.5\u002Bmc1.20.1.jar",
+      "Size": 90255,
+      "Sha256": "7c566bdc6d18af12ba9160a7469526ac815be2c3f5e75accb673261b79fcbc65",
+      "FabricId": "justhammers"
+    },
+    {
+      "Category": "mods",
+      "Path": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "RepositoryPath": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "Size": 892067,
+      "Sha256": "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
+      "FabricId": "konkrete"
+    },
+    {
+      "Category": "mods",
+      "Path": "kubejs-fabric-2001.6.5-build.16.jar",
+      "RepositoryPath": "mods/kubejs-fabric-2001.6.5-build.16.jar",
+      "Size": 1604251,
+      "Sha256": "d62fa3f080bf8b8b1037dd76db4b17d12a9ece5551b2b4cbcaaf059f81805d15",
+      "FabricId": "kubejs"
+    },
+    {
+      "Category": "mods",
+      "Path": "language-reload-1.7.1\u002B1.20.1.jar",
+      "RepositoryPath": "mods/language-reload-1.7.1\u002B1.20.1.jar",
+      "Size": 70493,
+      "Sha256": "645c352735411d4bf398bc959c18aae3f0d021beaaba9d44332f44983affc654",
+      "FabricId": "languagereload"
+    },
+    {
+      "Category": "mods",
+      "Path": "leawind_third_person-3.0.3-beta\u002Bfabric-1.20.1.jar",
+      "RepositoryPath": "mods/leawind_third_person-3.0.3-beta\u002Bfabric-1.20.1.jar",
+      "Size": 254152,
+      "Sha256": "bffa378656a6a13793096403dd2a23fe2fc6016acc00c21efe1eda3e6b4f20f1",
+      "FabricId": "leawind_third_person"
+    },
+    {
+      "Category": "mods",
+      "Path": "letmedespawn-1.20.x-fabric-1.4.4.jar",
+      "RepositoryPath": "mods/letmedespawn-1.20.x-fabric-1.4.4.jar",
+      "Size": 13406,
+      "Sha256": "5163b5027d77b83b8b6a474d560b0986ebee6a76b64ac823fa0a8bebd9f05858",
+      "FabricId": "letmedespawn"
+    },
+    {
+      "Category": "mods",
+      "Path": "letsdo-API-fabric-1.2.15-fabric.jar",
+      "RepositoryPath": "mods/letsdo-API-fabric-1.2.15-fabric.jar",
+      "Size": 1702813,
+      "Sha256": "fdf4208313555faa7af4ec7bf3bfb9eaf790f2924e442d6d28801ae05883325e",
+      "FabricId": "doapi"
+    },
+    {
+      "Category": "mods",
+      "Path": "letsdo-bakery-fabric-1.1.15.jar",
+      "RepositoryPath": "mods/letsdo-bakery-fabric-1.1.15.jar",
+      "Size": 1529233,
+      "Sha256": "8968b0d8bed245217fdbde35cfd8a35d74fc59eaa8f39d01aa9882138a83bbf1",
+      "FabricId": "bakery"
+    },
+    {
+      "Category": "mods",
+      "Path": "letsdo-brewery-fabric-1.1.9.jar",
+      "RepositoryPath": "mods/letsdo-brewery-fabric-1.1.9.jar",
+      "Size": 2211492,
+      "Sha256": "744e0bf4eab5021cef354fcb7677131e63bf220dba101c023344a25c0ebfd841",
+      "FabricId": "brewery"
+    },
+    {
+      "Category": "mods",
+      "Path": "letsdo-candlelight-fabric-1.2.13.jar",
+      "RepositoryPath": "mods/letsdo-candlelight-fabric-1.2.13.jar",
+      "Size": 2607855,
+      "Sha256": "aa1d3b5db1c251f42d3d943a24e7ff5c0e6757f0a776a90054de5583abf6da39",
+      "FabricId": "candlelight"
+    },
+    {
+      "Category": "mods",
+      "Path": "letsdo-herbalbrews-fabric-1.0.8.1.jar",
+      "RepositoryPath": "mods/letsdo-herbalbrews-fabric-1.0.8.1.jar",
+      "Size": 667567,
+      "Sha256": "ceeb9c0bf598a22898454d12ed735201f25a3fffea24c26ce06f4b899e220453",
+      "FabricId": "herbalbrews"
+    },
+    {
+      "Category": "mods",
+      "Path": "letsdo-vinery-fabric-1.4.28.jar",
+      "RepositoryPath": "mods/letsdo-vinery-fabric-1.4.28.jar",
+      "Size": 3051912,
+      "Sha256": "3fd09410a2d43cc3611451219ef763dbd396319fc8174831aeabdf9a6128d3d9",
+      "FabricId": "vinery"
+    },
+    {
+      "Category": "mods",
+      "Path": "lexiconfig-fabric-1.4.21-epic.jar",
+      "RepositoryPath": "mods/lexiconfig-fabric-1.4.21-epic.jar",
+      "Size": 277460,
+      "Sha256": "d184dc3f4e40aa2629a44f2eca11d34a7ae03cbf72415b6440abd7de3d95149a",
+      "FabricId": "lexiconfig"
+    },
+    {
+      "Category": "mods",
+      "Path": "libIPN-fabric-1.20-4.0.2.jar",
+      "RepositoryPath": "mods/libIPN-fabric-1.20-4.0.2.jar",
+      "Size": 702814,
+      "Sha256": "3e75c8d8c32b2dfbf7bb1cdd91f5b0d30bb39eb43ecfcf1c25ca093409c1a606",
+      "FabricId": "libipn"
+    },
+    {
+      "Category": "mods",
+      "Path": "libjf-3.12.5.jar",
+      "RepositoryPath": "mods/libjf-3.12.5.jar",
+      "Size": 999935,
+      "Sha256": "244f3649991a566d3446c22f39ed25444555bb81babeae16412c60cef85210d2",
+      "FabricId": "libjf"
+    },
+    {
+      "Category": "mods",
+      "Path": "lithium-fabric-mc1.20.1-0.11.2.jar",
+      "RepositoryPath": "mods/lithium-fabric-mc1.20.1-0.11.2.jar",
+      "Size": 645865,
+      "Sha256": "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9",
+      "FabricId": "lithium"
+    },
+    {
+      "Category": "mods",
+      "Path": "lithostitched-fabric-1.20.1-1.4.11.jar",
+      "RepositoryPath": "mods/lithostitched-fabric-1.20.1-1.4.11.jar",
+      "Size": 487655,
+      "Sha256": "78c13369bd34be50faee673a0618871bb9314443fcd506d8bf5457c3f95d02c4",
+      "FabricId": "lithostitched"
+    },
+    {
+      "Category": "mods",
+      "Path": "lmft-1.0.2\u002B1.20-fabric.jar",
+      "RepositoryPath": "mods/lmft-1.0.2\u002B1.20-fabric.jar",
+      "Size": 179899,
+      "Sha256": "1a145a0ce7654de710082c73b0eb172a44a098288403582103961a54430a52a3",
+      "FabricId": "lmft"
+    },
+    {
+      "Category": "mods",
+      "Path": "lne_archers-0.1.9-1.20.1.jar",
+      "RepositoryPath": "mods/lne_archers-0.1.9-1.20.1.jar",
+      "Size": 1544527,
+      "Sha256": "94c39aa740976b7494e3d93a5ddf01345a058b575f96847912bd98e93ba14e59",
+      "FabricId": "lne_archers"
+    },
+    {
+      "Category": "mods",
+      "Path": "lne_paladins-0.1.12-1.20.1.jar",
+      "RepositoryPath": "mods/lne_paladins-0.1.12-1.20.1.jar",
+      "Size": 617865,
+      "Sha256": "ded221487ebe1180218c00ed1179987e6572a520e481da824adbcb590282e649",
+      "FabricId": "lne_paladins"
+    },
+    {
+      "Category": "mods",
+      "Path": "lne_rogues-0.1.6-1.20.1.jar",
+      "RepositoryPath": "mods/lne_rogues-0.1.6-1.20.1.jar",
+      "Size": 651010,
+      "Sha256": "1ceecff3936a1c874bbbc702eecfe9b0c4a642469eacaf671e0439f9f8db398e",
+      "FabricId": "lne_rogues"
+    },
+    {
+      "Category": "mods",
+      "Path": "lne_wizards-0.1.11-1.20.1.jar",
+      "RepositoryPath": "mods/lne_wizards-0.1.11-1.20.1.jar",
+      "Size": 736489,
+      "Sha256": "d3b5cd695fa35d0ff4b122034afccdbc7dfa769461cfd31700a5aecb9558c52b",
+      "FabricId": "lne_wizards"
+    },
+    {
+      "Category": "mods",
+      "Path": "local-extendo-punchy-fix-1.0.0.jar",
+      "RepositoryPath": "mods/local-extendo-punchy-fix-1.0.0.jar",
+      "Size": 1541,
+      "Sha256": "da16931fc66e5a5530919c87d66c488b838c1543a41e659dcd35e22061d30907",
+      "FabricId": "local_extendo_punchy_fix"
+    },
+    {
+      "Category": "mods",
+      "Path": "lootintegrations-fabric-1.20.1-3.7.jar",
+      "RepositoryPath": "mods/lootintegrations-fabric-1.20.1-3.7.jar",
+      "Size": 31470,
+      "Sha256": "343084a59c96bdd9808d8e703be62fa59c5397214260d1f733d3988135230eb7",
+      "FabricId": "lootintegrations"
+    },
+    {
+      "Category": "mods",
+      "Path": "lootr-fabric-1.20-0.7.34.84.jar",
+      "RepositoryPath": "mods/lootr-fabric-1.20-0.7.34.84.jar",
+      "Size": 444475,
+      "Sha256": "a3a2e8c5cb9dda18eff0e48da015f83363e962e064ded7b2525b033ec4dc605e",
+      "FabricId": "lootr"
+    },
+    {
+      "Category": "mods",
+      "Path": "malilib-fabric-1.20.1-0.16.3.jar",
+      "RepositoryPath": "mods/malilib-fabric-1.20.1-0.16.3.jar",
+      "Size": 545403,
+      "Sha256": "5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589",
+      "FabricId": "malilib"
+    },
+    {
+      "Category": "mods",
+      "Path": "man_of_many_planes-0.2.0\u002B1.20.1-fabric.jar",
+      "RepositoryPath": "mods/man_of_many_planes-0.2.0\u002B1.20.1-fabric.jar",
+      "Size": 308327,
+      "Sha256": "cff423bd0b7ca20550e0ee414ff7702b4816f45d284021fb5513a1e81ddb778f",
+      "FabricId": "man_of_many_planes"
+    },
+    {
+      "Category": "mods",
+      "Path": "mavapi-1.1.4-mc1.20.1.jar",
+      "RepositoryPath": "mods/mavapi-1.1.4-mc1.20.1.jar",
+      "Size": 592470,
+      "Sha256": "4b4948fe9af6c9d94f1d27f0957beea0d855ca92cfe370170664c2ebaef62311",
+      "FabricId": "mavapi"
+    },
+    {
+      "Category": "mods",
+      "Path": "mavm-1.2.6-mc1.20.1.jar",
+      "RepositoryPath": "mods/mavm-1.2.6-mc1.20.1.jar",
+      "Size": 792700,
+      "Sha256": "5cc230ed7f1a12576703363585cf78d769ae57eea8e760a75d31260ddd9accc4",
+      "FabricId": "mavm"
+    },
+    {
+      "Category": "mods",
+      "Path": "mca-freshly-animated-1.1-fabric.jar",
+      "RepositoryPath": "mods/mca-freshly-animated-1.1-fabric.jar",
+      "Size": 118918,
+      "Sha256": "091fa7f168ba3bbdde3a54be8a445e76dda180f826376e7d868c2d5b792463c6",
+      "FabricId": "mcafreshanimations"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-bridges-3.0.0-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-bridges-3.0.0-mc1.20.1fabric.jar",
+      "Size": 768682,
+      "Sha256": "7a1480216b58ee60f0ca663b661f196f3c7626928675240348d486abd4a446f0",
+      "FabricId": "mcwbridges"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-doors-1.1.5-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-doors-1.1.5-mc1.20.1fabric.jar",
+      "Size": 1226772,
+      "Sha256": "cb7d88f7fbf2172207aff0ec9af11684ea7b7062723af1b71b2c59ba09e7ca75",
+      "FabricId": "mcwdoors"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-fences-1.1.2-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-fences-1.1.2-mc1.20.1fabric.jar",
+      "Size": 573737,
+      "Sha256": "7c60edb62a399b1742a6f17a5a70a89474f892975263bc649521c412050d1ad0",
+      "FabricId": "mcwfences"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-furniture-3.4.1-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-furniture-3.4.1-mc1.20.1fabric.jar",
+      "Size": 2102784,
+      "Sha256": "b0fb123b9fcc5fc6a4d6f432bbcd0689da2484fcc6c86372171f46638f7fc732",
+      "FabricId": "mcwfurnitures"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-holidays-1.1.0-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-holidays-1.1.0-mc1.20.1fabric.jar",
+      "Size": 1028698,
+      "Sha256": "07dc965feec06165a15ff0f9a75dfcaa69527769e984c9e692923a54fb832a3a",
+      "FabricId": "mcwholidays"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-lights-1.1.1-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-lights-1.1.1-mc1.20.1fabric.jar",
+      "Size": 548778,
+      "Sha256": "f34005422e5d8fbe3480be1076e65df2e1a289e238baba242cf9a71ca8839aaf",
+      "FabricId": "mcwlights"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-paths-1.0.5-1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-paths-1.0.5-1.20.1fabric.jar",
+      "Size": 688289,
+      "Sha256": "1495999da64c1710b7cd8d21f35075ddfc2cfe3f9b520fe644a2479d8f7c8350",
+      "FabricId": "mcwpaths"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-roofs-2.3.1-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-roofs-2.3.1-mc1.20.1fabric.jar",
+      "Size": 2100003,
+      "Sha256": "112f77106e6df2c39c3a98ca87fceb697616d6646434831f2dedba3494fb8fe5",
+      "FabricId": "mcwroofs"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-trapdoors-1.1.5-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar",
+      "Size": 572942,
+      "Sha256": "5a709d84933d0add533898a33aaf1dfd898a021c650be54d5791ea067f3ba0ba",
+      "FabricId": "mcwtrpdoors"
+    },
+    {
+      "Category": "mods",
+      "Path": "mcw-windows-2.3.0-mc1.20.1fabric.jar",
+      "RepositoryPath": "mods/mcw-windows-2.3.0-mc1.20.1fabric.jar",
+      "Size": 1344964,
+      "Sha256": "79508bce1b9fced02fd32b149e24f02d7fd93c8076be2dc7c13db08d3375effa",
+      "FabricId": "mcwwindows"
+    },
+    {
+      "Category": "mods",
+      "Path": "medievalorigins-fabric-1.20.1-6.7.9.jar",
+      "RepositoryPath": "mods/medievalorigins-fabric-1.20.1-6.7.9.jar",
+      "Size": 4104326,
+      "Sha256": "78237c092ad6fe0e46bd5fbc2418d08059e576a59752802aab554f3a7d0c0121",
+      "FabricId": "medievalorigins"
+    },
+    {
+      "Category": "mods",
+      "Path": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "RepositoryPath": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "Size": 39696,
+      "Sha256": "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
+      "FabricId": "melody"
+    },
+    {
+      "Category": "mods",
+      "Path": "memoryleakfix-fabric-1.17\u002B-1.1.2.jar",
+      "RepositoryPath": "mods/memoryleakfix-fabric-1.17\u002B-1.1.2.jar",
+      "Size": 146263,
+      "Sha256": "a9fadc6d369e6bbfb10eab4c00780c3295292c634b6551d2e1e2897ec38b63ab",
+      "FabricId": "memoryleakfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "mighty_mail-fabric-1.20.1-1.0.14.jar",
+      "RepositoryPath": "mods/mighty_mail-fabric-1.20.1-1.0.14.jar",
+      "Size": 174906,
+      "Sha256": "5cff2bb9f528035a46020974c39ca042529d6c17d3f31ed92b0624405c18b7e1",
+      "FabricId": "mighty_mail"
+    },
+    {
+      "Category": "mods",
+      "Path": "mine-spawners-1.0.jar",
+      "RepositoryPath": "mods/mine-spawners-1.0.jar",
+      "Size": 59499,
+      "Sha256": "666d5da9371aaa2506aadbc84044b4fdc3e385ba9a54ca5dd90792582c19ee80",
+      "FabricId": "mine-spawners"
+    },
+    {
+      "Category": "mods",
+      "Path": "minecraft-comes-alive-7.7.1-beta.3\u002B1.20.1-universal.jar",
+      "RepositoryPath": "mods/minecraft-comes-alive-7.7.1-beta.3\u002B1.20.1-universal.jar",
+      "Size": 13385125,
+      "Sha256": "05d1b8bbcf2ec02123b7ca83e60e41e614388ca95f5e22e10af29d457e5a63a5",
+      "FabricId": "mca"
+    },
+    {
+      "Category": "mods",
+      "Path": "mixintrace-1.1.1\u002B1.17.jar",
+      "RepositoryPath": "mods/mixintrace-1.1.1\u002B1.17.jar",
+      "Size": 36039,
+      "Sha256": "26ca21a27706cfa4561868f31c4fd07c542e8cc759419f5884ddff1f3a126a99",
+      "FabricId": "mixintrace"
+    },
+    {
+      "Category": "mods",
+      "Path": "modefite_item_definitions-1.0.3\u002B1.20.1.jar",
+      "RepositoryPath": "mods/modefite_item_definitions-1.0.3\u002B1.20.1.jar",
+      "Size": 189936,
+      "Sha256": "62c72768fe37e3825fc57e6335c91d01c12efb41a585f55b4408ce14ca5979bf",
+      "FabricId": "modefite"
+    },
+    {
+      "Category": "mods",
+      "Path": "modelfix-1.15-fabric.jar",
+      "RepositoryPath": "mods/modelfix-1.15-fabric.jar",
+      "Size": 65491,
+      "Sha256": "f6a7b7b6787d3aea9e48964f4abc763a7a09f9c108fb01f6d183be54953b26ba",
+      "FabricId": "modelfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "modernfix-fabric-5.19.5\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/modernfix-fabric-5.19.5\u002Bmc1.20.1.jar",
+      "Size": 648469,
+      "Sha256": "d738a888c9500ae999d3075957a8a6c7ea1327bff50df2ceb8b6f72039fbfc95",
+      "FabricId": "modernfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "modmenu-7.2.2.jar",
+      "RepositoryPath": "mods/modmenu-7.2.2.jar",
+      "Size": 721366,
+      "Sha256": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+      "FabricId": "modmenu"
+    },
+    {
+      "Category": "mods",
+      "Path": "moonlight-1.20-2.16.35-fabric.jar",
+      "RepositoryPath": "mods/moonlight-1.20-2.16.35-fabric.jar",
+      "Size": 1396709,
+      "Sha256": "04386df4c66333f293ecd88e18aa3e20a41af54c6a226d79059f7708616fb597",
+      "FabricId": "moonlight"
+    },
+    {
+      "Category": "mods",
+      "Path": "more-axolotl-2.0.1-1.20.jar",
+      "RepositoryPath": "mods/more-axolotl-2.0.1-1.20.jar",
+      "Size": 145702,
+      "Sha256": "864447bdd1e8e141a467c38d062c2243e1d3e7ba20dfe78309b6f7c5404f7b3a",
+      "FabricId": "more-axolotl"
+    },
+    {
+      "Category": "mods",
+      "Path": "more_rpg_classes-1.2.22-1.20.1.jar",
+      "RepositoryPath": "mods/more_rpg_classes-1.2.22-1.20.1.jar",
+      "Size": 1388607,
+      "Sha256": "5f06147c615df9f690b0815ed7c6da321021866e17d1d6eac9bb25d6749c4c43",
+      "FabricId": "more_rpg_classes"
+    },
+    {
+      "Category": "mods",
+      "Path": "moreculling-1.20.1-0.24.6.jar",
+      "RepositoryPath": "mods/moreculling-1.20.1-0.24.6.jar",
+      "Size": 274523,
+      "Sha256": "6ba025225149a19ff152a83198c1c10cc321e9e8a7706f7c77f25523ece89854",
+      "FabricId": "moreculling"
+    },
+    {
+      "Category": "mods",
+      "Path": "mss-1.2.6-1.20.jar",
+      "RepositoryPath": "mods/mss-1.2.6-1.20.jar",
+      "Size": 3107763,
+      "Sha256": "e338713ac774672c26bc77dde4d37488993d3e9bff1c8da25a4ac4127a745738",
+      "FabricId": "mss"
+    },
+    {
+      "Category": "mods",
+      "Path": "mvs-4.1.4-1.20-fabric.jar",
+      "RepositoryPath": "mods/mvs-4.1.4-1.20-fabric.jar",
+      "Size": 1321239,
+      "Sha256": "f40694b35d9f1c0597da5a5f80b5edf07c2eedef393c9938608b85026eeabda9",
+      "FabricId": "mvs"
+    },
+    {
+      "Category": "mods",
+      "Path": "mythic-mounts-1.20.1-7.2.jar",
+      "RepositoryPath": "mods/mythic-mounts-1.20.1-7.2.jar",
+      "Size": 4359435,
+      "Sha256": "74808c8d2a3ad49929780a746ccd2e5a4452f168eef686e69467512c42fd27cc",
+      "FabricId": "mythicmounts"
+    },
+    {
+      "Category": "mods",
+      "Path": "mythicmetals-0.19.9\u002B1.20.1.jar",
+      "RepositoryPath": "mods/mythicmetals-0.19.9\u002B1.20.1.jar",
+      "Size": 3214377,
+      "Sha256": "38b19f0772c6e8225b817146701a8fc81400a77b0d5cd8f1943e88a580438de7",
+      "FabricId": "mythicmetals"
+    },
+    {
+      "Category": "mods",
+      "Path": "naturalist-fabric-4.0.3-1.20.1.jar",
+      "RepositoryPath": "mods/naturalist-fabric-4.0.3-1.20.1.jar",
+      "Size": 4310075,
+      "Sha256": "a21c21068a46bb7663376b0cce7e7ac9228aac46db2bc5f3d13ab9b44ed3aa92",
+      "FabricId": "naturalist"
+    },
+    {
+      "Category": "mods",
+      "Path": "netherportalfix-fabric-1.20-13.0.1.jar",
+      "RepositoryPath": "mods/netherportalfix-fabric-1.20-13.0.1.jar",
+      "Size": 216019,
+      "Sha256": "4f69dbfd50efe1476010ce6d35a05660c7dc5d3f0707944a5be3bcbed1c37c2f",
+      "FabricId": "netherportalfix"
+    },
+    {
+      "Category": "mods",
+      "Path": "nightlights-fabric-1.20.1-1.1.jar",
+      "RepositoryPath": "mods/nightlights-fabric-1.20.1-1.1.jar",
+      "Size": 428217,
+      "Sha256": "6f1c6cfac890f06ccfebed1b6ec3e1ff71fe43b1ab3f69917b907f99365cf41b",
+      "FabricId": "nightlights"
+    },
+    {
+      "Category": "mods",
+      "Path": "notenoughanimations-fabric-1.8.1-mc1.20.1.jar",
+      "RepositoryPath": "mods/notenoughanimations-fabric-1.8.1-mc1.20.1.jar",
+      "Size": 430641,
+      "Sha256": "4ddd77f6a1ca63851a611581c655fc3337ac272ea2def329d1d3b8fba956f876",
+      "FabricId": "notenoughanimations"
+    },
+    {
+      "Category": "mods",
+      "Path": "nowheel-2.1.1\u002B1.20.1fabric.jar",
+      "RepositoryPath": "mods/nowheel-2.1.1\u002B1.20.1fabric.jar",
+      "Size": 86827,
+      "Sha256": "a94282421f7233b7cb23f0e9fbe76bd874b608c5acfd7bf321cc7ca905037a7a",
+      "FabricId": null
+    },
+    {
+      "Category": "mods",
+      "Path": "obe\u002B1.20.1-1.1.46.jar",
+      "RepositoryPath": "mods/obe\u002B1.20.1-1.1.46.jar",
+      "Size": 196169,
+      "Sha256": "6ad3bc522cfe1bd77dcadf41868811aa1b6895ef51641f1f0f5c71f180331563",
+      "FabricId": "obe"
+    },
+    {
+      "Category": "mods",
+      "Path": "oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+      "RepositoryPath": "mods/oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+      "Size": 97109,
+      "Sha256": "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754",
+      "FabricId": "oceansdelight"
+    },
+    {
+      "Category": "mods",
+      "Path": "owo-lib-0.11.2\u002B1.20.jar",
+      "RepositoryPath": "mods/owo-lib-0.11.2\u002B1.20.jar",
+      "Size": 905421,
+      "Sha256": "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12",
+      "FabricId": "owo"
+    },
+    {
+      "Category": "mods",
+      "Path": "packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+      "RepositoryPath": "mods/packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+      "Size": 20923,
+      "Sha256": "5c61569c9142fc602b83096c90ee9040d4b8dbdc30fd3f8e10ca5ffafeb14cf4",
+      "FabricId": "packetfixer"
+    },
+    {
+      "Category": "mods",
+      "Path": "paladins-1.4.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/paladins-1.4.0\u002B1.20.1.jar",
+      "Size": 2539988,
+      "Sha256": "645a0db593993864b8b71fa44a0a295a2406d26f1faed473a96fa42cd9fdc879",
+      "FabricId": "paladins"
+    },
+    {
+      "Category": "mods",
+      "Path": "palegardenbackport-fabric-2.0.3\u002B1.20.1.jar",
+      "RepositoryPath": "mods/palegardenbackport-fabric-2.0.3\u002B1.20.1.jar",
+      "Size": 2360616,
+      "Sha256": "c251c55afa2851bd389b657025f99ca160d41714588c698725bad0d64ac170b5",
+      "FabricId": "palegardenbackport"
+    },
+    {
+      "Category": "mods",
+      "Path": "particle_core-0.2.5\u002B1.20.1.jar",
+      "RepositoryPath": "mods/particle_core-0.2.5\u002B1.20.1.jar",
+      "Size": 94842,
+      "Sha256": "3de0ee155db56f056515528ba97381b00e39248dc33e098a56ae4657b5f5249a",
+      "FabricId": "particle_core"
+    },
+    {
+      "Category": "mods",
+      "Path": "perspective_api-1.5.0-beta\u002Bfabric-1.20.1.jar",
+      "RepositoryPath": "mods/perspective_api-1.5.0-beta\u002Bfabric-1.20.1.jar",
+      "Size": 267091,
+      "Sha256": "a75993d57401e3b940e91c22803d0ce039a37ab625d8ba3fb65f8bcf6a998731",
+      "FabricId": "perspective_api"
+    },
+    {
+      "Category": "mods",
+      "Path": "player-animation-lib-fabric-1.0.2-rc1\u002B1.20.jar",
+      "RepositoryPath": "mods/player-animation-lib-fabric-1.0.2-rc1\u002B1.20.jar",
+      "Size": 181008,
+      "Sha256": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
+      "FabricId": "player-animator"
+    },
+    {
+      "Category": "mods",
+      "Path": "plushies-1.4.0-fabric.jar",
+      "RepositoryPath": "mods/plushies-1.4.0-fabric.jar",
+      "Size": 686943,
+      "Sha256": "f813956933f8f696c15fbda4e5c2fac909b915b0fc77003a58bf1999373f3889",
+      "FabricId": "plushies"
+    },
+    {
+      "Category": "mods",
+      "Path": "polymorph-fabric-0.49.7\u002B1.20.1.jar",
+      "RepositoryPath": "mods/polymorph-fabric-0.49.7\u002B1.20.1.jar",
+      "Size": 680229,
+      "Sha256": "16613568bcf11691a0e958fac3b9cbe998b4dc5f7f655825a40110e17d0ae8f0",
+      "FabricId": "polymorph"
+    },
+    {
+      "Category": "mods",
+      "Path": "polymorphic-tom-1.0.4.jar",
+      "RepositoryPath": "mods/polymorphic-tom-1.0.4.jar",
+      "Size": 17730,
+      "Sha256": "f148ea119b918a91564c0c315bd10396b11132a9fcf4cc1b0e4a10b3b5d4c1d1",
+      "FabricId": "polymorphic_tom"
+    },
+    {
+      "Category": "mods",
+      "Path": "punchy-2.8a-fabric-1.20.1.jar",
+      "RepositoryPath": "mods/punchy-2.8a-fabric-1.20.1.jar",
+      "Size": 1849707,
+      "Sha256": "5cb60bca38cf21f052ba7e1f38a9660c3455e0b89d7949181e49dc0d57159324",
+      "FabricId": "punchy"
+    },
+    {
+      "Category": "mods",
+      "Path": "ranged_weapon_api-1.1.4\u002B1.20.1.jar",
+      "RepositoryPath": "mods/ranged_weapon_api-1.1.4\u002B1.20.1.jar",
+      "Size": 114936,
+      "Sha256": "afa0f8379aca3ca719a88b3c6c3ed8643177bf2b6dfadf8e0bf533154d6c904a",
+      "FabricId": "ranged_weapon_api"
+    },
+    {
+      "Category": "mods",
+      "Path": "reacharound\u002B1.20-1.3.1.jar",
+      "RepositoryPath": "mods/reacharound\u002B1.20-1.3.1.jar",
+      "Size": 28545,
+      "Sha256": "9afaad27218fed968793022806d34b9a5526e4b56b79efeb5aeddda11debc7f1",
+      "FabricId": "reacharound"
+    },
+    {
+      "Category": "mods",
+      "Path": "rebind_narrator-fabric-1.20.1-2.0.2.jar",
+      "RepositoryPath": "mods/rebind_narrator-fabric-1.20.1-2.0.2.jar",
+      "Size": 15988,
+      "Sha256": "d641e721df35b9948c5a46e78351d873bc30cc3e7790182a0aba0989c26898be",
+      "FabricId": "rebind_narrator"
+    },
+    {
+      "Category": "mods",
+      "Path": "recipeessentials-fabric-1.20.1-3.6.jar",
+      "RepositoryPath": "mods/recipeessentials-fabric-1.20.1-3.6.jar",
+      "Size": 53193,
+      "Sha256": "325acf119b61808f9dae48b9f6c6b47dee4ab973754c7578d31d46110b85d831",
+      "FabricId": "recipeessentials"
+    },
+    {
+      "Category": "mods",
+      "Path": "reeses_sodium_options-1.7.2\u002Bmc1.20.1-build.101.jar",
+      "RepositoryPath": "mods/reeses_sodium_options-1.7.2\u002Bmc1.20.1-build.101.jar",
+      "Size": 77304,
+      "Sha256": "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec",
+      "FabricId": "reeses-sodium-options"
+    },
+    {
+      "Category": "mods",
+      "Path": "remove-terralith-intro-message-1.0.jar",
+      "RepositoryPath": "mods/remove-terralith-intro-message-1.0.jar",
+      "Size": 95951,
+      "Sha256": "736eb249103ebba9a90fe313731c67d7817b37263ad74b3400b5b4084cae7cdf",
+      "FabricId": "mr_remove_terralithintromessage"
+    },
+    {
+      "Category": "mods",
+      "Path": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+      "RepositoryPath": "mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+      "Size": 134793,
+      "Sha256": "fcf04aac2e1d64f63ecf83cabc57b8058c99a34a4a9e5fa3289d83bf82e04815",
+      "FabricId": "resourcefulconfig"
+    },
+    {
+      "Category": "mods",
+      "Path": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "RepositoryPath": "mods/resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "Size": 431646,
+      "Sha256": "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb",
+      "FabricId": "resourcefullib"
+    },
+    {
+      "Category": "mods",
+      "Path": "respackopts-4.6.2.jar",
+      "RepositoryPath": "mods/respackopts-4.6.2.jar",
+      "Size": 350174,
+      "Sha256": "ae403ae4bef5c92d32901ece2af56f7b270c993edad6f06522de06d814472309",
+      "FabricId": "respackopts"
+    },
+    {
+      "Category": "mods",
+      "Path": "rhino-fabric-2001.2.3-build.6.jar",
+      "RepositoryPath": "mods/rhino-fabric-2001.2.3-build.6.jar",
+      "Size": 1741934,
+      "Sha256": "9c564d437a96d342890715d07eae69ceb0ffea509b92835fdd582f9fc2f492ff",
+      "FabricId": "rhino"
+    },
+    {
+      "Category": "mods",
+      "Path": "rogues-1.2.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/rogues-1.2.0\u002B1.20.1.jar",
+      "Size": 1027797,
+      "Sha256": "41e06bc21621b27c26f668c5f7e0f25050fa7d3fb964334b9465184107f45750",
+      "FabricId": "rogues"
+    },
+    {
+      "Category": "mods",
+      "Path": "runes-0.9.13\u002B1.20.1.jar",
+      "RepositoryPath": "mods/runes-0.9.13\u002B1.20.1.jar",
+      "Size": 242139,
+      "Sha256": "fc715f7d782011cf3161075cc147c501fb8aa673f3e6da44ba298228de30493a",
+      "FabricId": "runes"
+    },
+    {
+      "Category": "mods",
+      "Path": "seasonhud-fabric-1.20.1-1.9.6.jar",
+      "RepositoryPath": "mods/seasonhud-fabric-1.20.1-1.9.6.jar",
+      "Size": 260770,
+      "Sha256": "61583a1cf4700648bd5170203e77c0fd522e09ac9f7549c11ac30e4b69cb080b",
+      "FabricId": "seasonhud"
+    },
+    {
+      "Category": "mods",
+      "Path": "shader-toggle-1.0.jar",
+      "RepositoryPath": "mods/shader-toggle-1.0.jar",
+      "Size": 9766,
+      "Sha256": "d3cc6dff31ab048d32b29e6f2502a4e5929038e0639cb6cbcda6163ba8174647",
+      "FabricId": "shadertoggle"
+    },
+    {
+      "Category": "mods",
+      "Path": "simplehats-fabric-1.20.1-0.3.2.jar",
+      "RepositoryPath": "mods/simplehats-fabric-1.20.1-0.3.2.jar",
+      "Size": 1569197,
+      "Sha256": "ea28720c48cc15f526339a9961f79858584f1d959c5e4d41938870b3ce1fa5fc",
+      "FabricId": "simplehats"
+    },
+    {
+      "Category": "mods",
+      "Path": "simpleradio-fabric-1.20.1-4.5.7.9.jar",
+      "RepositoryPath": "mods/simpleradio-fabric-1.20.1-4.5.7.9.jar",
+      "Size": 1006134,
+      "Sha256": "667528f774ba38426ad8bcbea5db260ec0841316b38e56302cb47037445066e8",
+      "FabricId": "simpleradio"
+    },
+    {
+      "Category": "mods",
+      "Path": "simplyswords-1.56.0-1.20.1.jar",
+      "RepositoryPath": "mods/simplyswords-1.56.0-1.20.1.jar",
+      "Size": 15366470,
+      "Sha256": "ddbaf8ab85a6b003a817d0c0e817dcbdf9fcfe6b889c729ff72c4b6a3b1f3e9a",
+      "FabricId": "simplyswords"
+    },
+    {
+      "Category": "mods",
+      "Path": "skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "RepositoryPath": "mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "Size": 1988537,
+      "Sha256": "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
+      "FabricId": "skinlayers3d"
+    },
+    {
+      "Category": "mods",
+      "Path": "sliceanddice-fabric-3.5.2.jar",
+      "RepositoryPath": "mods/sliceanddice-fabric-3.5.2.jar",
+      "Size": 395717,
+      "Sha256": "635a9f9595866dce034fda201bf8b4633660b8a259d67426e336d8b9e96691a0",
+      "FabricId": "sliceanddice"
+    },
+    {
+      "Category": "mods",
+      "Path": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+      "RepositoryPath": "mods/smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+      "Size": 2160482,
+      "Sha256": "dfbdebdd60809beeb2893902e8b30c806a164675066a56662e8640c3bbead2f8",
+      "FabricId": "smallships"
+    },
+    {
+      "Category": "mods",
+      "Path": "smoothgui-fabric-2.0.6\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/smoothgui-fabric-2.0.6\u002Bmc1.20.1.jar",
+      "Size": 89464,
+      "Sha256": "951bfb070a4d5bf6c61737c6e258d209961f9624434df0642418b2b1201f1d2b",
+      "FabricId": "smoothgui"
+    },
+    {
+      "Category": "mods",
+      "Path": "smoothswapping-0.9.3.2-1.20.1-fabric.jar",
+      "RepositoryPath": "mods/smoothswapping-0.9.3.2-1.20.1-fabric.jar",
+      "Size": 59984,
+      "Sha256": "01f402a3685bf8e756c3f50661d06924c67ee375099c19aee884f52187fc07f0",
+      "FabricId": "smoothswapping"
+    },
+    {
+      "Category": "mods",
+      "Path": "sodium-extra-0.5.9\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/sodium-extra-0.5.9\u002Bmc1.20.1.jar",
+      "Size": 370701,
+      "Sha256": "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
+      "FabricId": "sodium-extra"
+    },
+    {
+      "Category": "mods",
+      "Path": "sodium-fabric-0.5.13\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/sodium-fabric-0.5.13\u002Bmc1.20.1.jar",
+      "Size": 971552,
+      "Sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "FabricId": "sodium"
+    },
+    {
+      "Category": "mods",
+      "Path": "sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+      "RepositoryPath": "mods/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+      "Size": 986101,
+      "Sha256": "1e4e268d079ebef8a21f41f6a7a35528435733a124a134e3ef240389f3aa87c1",
+      "FabricId": "sophisticatedbackpacks"
+    },
+    {
+      "Category": "mods",
+      "Path": "sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+      "RepositoryPath": "mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+      "Size": 2858683,
+      "Sha256": "dafca4311f94ed5eff18f34077e7ab91a169863a4bde2cc82ae525d869ee9396",
+      "FabricId": "sophisticatedcore"
+    },
+    {
+      "Category": "mods",
+      "Path": "sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
+      "RepositoryPath": "mods/sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
+      "Size": 1676141,
+      "Sha256": "ac2c27d12028b223306d730bd66b798f3f9762990ac3a4ec2510387c737d1e84",
+      "FabricId": "sophisticatedstorage"
+    },
+    {
+      "Category": "mods",
+      "Path": "sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
+      "RepositoryPath": "mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
+      "Size": 202462,
+      "Sha256": "e3a8a509a53202e487be3d42faa32bd52c7e8c7a9cc4097abb8a3d26d85ef24b",
+      "FabricId": "sound_physics_remastered"
+    },
+    {
+      "Category": "mods",
+      "Path": "spark-1.10.53-fabric.jar",
+      "RepositoryPath": "mods/spark-1.10.53-fabric.jar",
+      "Size": 3082974,
+      "Sha256": "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d",
+      "FabricId": "spark"
+    },
+    {
+      "Category": "mods",
+      "Path": "spell_engine-0.15.12\u002B1.20.1.jar",
+      "RepositoryPath": "mods/spell_engine-0.15.12\u002B1.20.1.jar",
+      "Size": 1459273,
+      "Sha256": "abb0ab23961a563d5307d8527f718c0eed4f7f96312178960da4e6769a1012f2",
+      "FabricId": "spell_engine"
+    },
+    {
+      "Category": "mods",
+      "Path": "spell_power-0.12.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/spell_power-0.12.0\u002B1.20.1.jar",
+      "Size": 184963,
+      "Sha256": "896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662",
+      "FabricId": "spell_power"
+    },
+    {
+      "Category": "mods",
+      "Path": "spiceoffabric-1.6.2\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/spiceoffabric-1.6.2\u002Bmc1.20.1.jar",
+      "Size": 640068,
+      "Sha256": "c309de92bf2a51f7f26e4b2139054294360ad9adfed343269be469b55a16e5c5",
+      "FabricId": "spiceoffabric"
+    },
+    {
+      "Category": "mods",
+      "Path": "stacc-1.7.0.jar",
+      "RepositoryPath": "mods/stacc-1.7.0.jar",
+      "Size": 29084,
+      "Sha256": "27094c55f412b05377f8e060e39754d8821e382da6b45f9d0005dbb09b7894a9",
+      "FabricId": "stacc"
+    },
+    {
+      "Category": "mods",
+      "Path": "structure_pool_api-1.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/structure_pool_api-1.0\u002B1.20.1.jar",
+      "Size": 271058,
+      "Sha256": "84ebe8b98268c8fe1439bb6cd3dbeba19501bf9e25ea2f2fd49dfe3940aa1a78",
+      "FabricId": "structure_pool_api"
+    },
+    {
+      "Category": "mods",
+      "Path": "structureessentials-fabric-1.20.1-3.4.jar",
+      "RepositoryPath": "mods/structureessentials-fabric-1.20.1-3.4.jar",
+      "Size": 29285,
+      "Sha256": "120a9f3a94196fa3ac42d939a5e9aa43baf35f2675b9bf4f288431537abb0547",
+      "FabricId": "structureessentials"
+    },
+    {
+      "Category": "mods",
+      "Path": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "RepositoryPath": "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "Size": 207990,
+      "Sha256": "fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c",
+      "FabricId": "supermartijn642configlib"
+    },
+    {
+      "Category": "mods",
+      "Path": "supermartijn642corelib-1.1.17a-fabric-mc1.20.1.jar",
+      "RepositoryPath": "mods/supermartijn642corelib-1.1.17a-fabric-mc1.20.1.jar",
+      "Size": 564983,
+      "Sha256": "9cbde15c67fd6b35f165816159fefe4d18d2747c60e5c2aa2731d25754a1b3f4",
+      "FabricId": "supermartijn642corelib"
+    },
+    {
+      "Category": "mods",
+      "Path": "supplementaries-1.20-2.8.17-fabric-compat.jar",
+      "RepositoryPath": "mods/supplementaries-1.20-2.8.17-fabric-compat.jar",
+      "Size": 14278891,
+      "Sha256": "1dcdab03801c7157f020742ed5508997ed4a66ca71a5ebd57a1318519a632e14",
+      "FabricId": "supplementaries"
+    },
+    {
+      "Category": "mods",
+      "Path": "suppsquared-1.20-1.1.15-fabric.jar",
+      "RepositoryPath": "mods/suppsquared-1.20-1.1.15-fabric.jar",
+      "Size": 727192,
+      "Sha256": "c47a3011311f61fb77991324073a6c055c035914ed503ff6268df998eee4adbc",
+      "FabricId": "suppsquared"
+    },
+    {
+      "Category": "mods",
+      "Path": "things-0.3.3\u002B1.20.jar",
+      "RepositoryPath": "mods/things-0.3.3\u002B1.20.jar",
+      "Size": 930355,
+      "Sha256": "62ed1a15b7515fb2c1323f4b44d221975a1d0293e24e9235a5e04dc0afa37206",
+      "FabricId": "things"
+    },
+    {
+      "Category": "mods",
+      "Path": "threadtweak-fabric-1.20.2-0.1.1.jar",
+      "RepositoryPath": "mods/threadtweak-fabric-1.20.2-0.1.1.jar",
+      "Size": 144848,
+      "Sha256": "13954c14a9491b07eab6d2b278faed5629d42ac52cc959711959f32270e6edff",
+      "FabricId": "threadtweak"
+    },
+    {
+      "Category": "mods",
+      "Path": "toms_storage_fabric-1.20-1.6.8.jar",
+      "RepositoryPath": "mods/toms_storage_fabric-1.20-1.6.8.jar",
+      "Size": 1522417,
+      "Sha256": "e4497eac5e497d9fdecd6f0e84be9a184922981510de16c4b8e0ef18771c768e",
+      "FabricId": "toms_storage"
+    },
+    {
+      "Category": "mods",
+      "Path": "trade-cycling-fabric-1.20.1-1.0.7.jar",
+      "RepositoryPath": "mods/trade-cycling-fabric-1.20.1-1.0.7.jar",
+      "Size": 401083,
+      "Sha256": "0790d457e03ca02456fab6e49d2f3791954d9ca1ae063f935e007cb2a2ccec3a",
+      "FabricId": "trade_cycling"
+    },
+    {
+      "Category": "mods",
+      "Path": "trashcans-1.0.18-fabric-mc1.20.jar",
+      "RepositoryPath": "mods/trashcans-1.0.18-fabric-mc1.20.jar",
+      "Size": 184006,
+      "Sha256": "09852ec3febefcc70f4d58541385c520024dbcbd7a92f77242cb3cba32933841",
+      "FabricId": "trashcans"
+    },
+    {
+      "Category": "mods",
+      "Path": "travelersbackpack-fabric-1.20.1-9.1.18.jar",
+      "RepositoryPath": "mods/travelersbackpack-fabric-1.20.1-9.1.18.jar",
+      "Size": 1033649,
+      "Sha256": "75df9413c22d270163e7b725087c4207a44bfe6598205cae2b207f92401f487e",
+      "FabricId": "travelersbackpack"
+    },
+    {
+      "Category": "mods",
+      "Path": "trek-B0.6.2.jar",
+      "RepositoryPath": "mods/trek-B0.6.2.jar",
+      "Size": 12463832,
+      "Sha256": "898f0fbe9cc30758b8822bba08bb52413dad38b742454baf60fff12694ebd73c",
+      "FabricId": "mr_trek"
+    },
+    {
+      "Category": "mods",
+      "Path": "trinkets-3.7.1.jar",
+      "RepositoryPath": "mods/trinkets-3.7.1.jar",
+      "Size": 234448,
+      "Sha256": "6ec3c49dfaefb8753da2de99fae2feef63f1653b4267ee8bac22d2298d0d9be6",
+      "FabricId": "trinkets"
+    },
+    {
+      "Category": "mods",
+      "Path": "trinkets-3.7.2.jar",
+      "RepositoryPath": "mods/trinkets-3.7.2.jar",
+      "Size": 238532,
+      "Sha256": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
+      "FabricId": "trinkets"
+    },
+    {
+      "Category": "mods",
+      "Path": "tweakeroo-fabric-1.20.1-0.17.1.jar",
+      "RepositoryPath": "mods/tweakeroo-fabric-1.20.1-0.17.1.jar",
+      "Size": 273435,
+      "Sha256": "8bf7b47ca0918517180bd4c016616e9cf145912670e9d6af55b6394b4ffbbce4",
+      "FabricId": "tweakeroo"
+    },
+    {
+      "Category": "mods",
+      "Path": "ubesdelight-fabric-1.20.1-0.2.3.jar",
+      "RepositoryPath": "mods/ubesdelight-fabric-1.20.1-0.2.3.jar",
+      "Size": 3325296,
+      "Sha256": "3983480b9412d53c82338516b5995e10f46ff9beef85ef2df294c962e7d322b5",
+      "FabricId": "ubesdelight"
+    },
+    {
+      "Category": "mods",
+      "Path": "universal_shops-1.3.2\u002B1.20.1.jar",
+      "RepositoryPath": "mods/universal_shops-1.3.2\u002B1.20.1.jar",
+      "Size": 1281906,
+      "Sha256": "2601f66a405331380b72203ec5eb8b8b06a73738297a35e3728c7cf77fd3c20d",
+      "FabricId": "universal_shops"
+    },
+    {
+      "Category": "mods",
+      "Path": "villager_flower_house-1.0.0 fabric 1.20.1.jar",
+      "RepositoryPath": "mods/villager_flower_house-1.0.0 fabric 1.20.1.jar",
+      "Size": 22290,
+      "Sha256": "22f3f2b80da404238c0f41e2e1de7bb6bc0c8a8cdb8642f4c69aed7e8ca5a87b",
+      "FabricId": "villager_flower_house"
+    },
+    {
+      "Category": "mods",
+      "Path": "villagernames-1.20.1-4.5.2.jar",
+      "RepositoryPath": "mods/villagernames-1.20.1-4.5.2.jar",
+      "Size": 1681345,
+      "Sha256": "6fb89745c9c1b6cee8253ec69738c3283eb8f96f5586e93b80e1698cccad892c",
+      "FabricId": "villagernames"
+    },
+    {
+      "Category": "mods",
+      "Path": "voicechat-fabric-1.20.1-2.6.22.jar",
+      "RepositoryPath": "mods/voicechat-fabric-1.20.1-2.6.22.jar",
+      "Size": 5279173,
+      "Sha256": "6a595ad90c3ab2cc9dfd25443aa404a7d18e91f84658d67123642de959c7f7a9",
+      "FabricId": "voicechat"
+    },
+    {
+      "Category": "mods",
+      "Path": "watut-fabric-1.20.1-1.1.3.jar",
+      "RepositoryPath": "mods/watut-fabric-1.20.1-1.1.3.jar",
+      "Size": 704329,
+      "Sha256": "a3196ce461278a29aca4d569d8c7f61d5d024d738953e75dd6fd780738210cec",
+      "FabricId": "watut"
+    },
+    {
+      "Category": "mods",
+      "Path": "witcher-class-mod-1.2.5-1.20.1.jar",
+      "RepositoryPath": "mods/witcher-class-mod-1.2.5-1.20.1.jar",
+      "Size": 884943,
+      "Sha256": "e011ec53bd4845a636ee2ebb10101d2a2853e272283972fcb428564cdcd139e0",
+      "FabricId": "witcher_rpg"
+    },
+    {
+      "Category": "mods",
+      "Path": "wizards-1.4.1\u002B1.20.1.jar",
+      "RepositoryPath": "mods/wizards-1.4.1\u002B1.20.1.jar",
+      "Size": 2902732,
+      "Sha256": "e968f8b836716a6f6c21f6f9a44304b2aef64490c6f75bb54de9007db229aab6",
+      "FabricId": "wizards"
+    },
+    {
+      "Category": "mods",
+      "Path": "wraith-waystones-3.3.2\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/wraith-waystones-3.3.2\u002Bmc1.20.1.jar",
+      "Size": 423994,
+      "Sha256": "832644f6cd02f298250ade25d16a8db743365582c38f05bace1e303f66d5d400",
+      "FabricId": "fwaystones"
+    },
+    {
+      "Category": "mods",
+      "Path": "xercamusic-fabric-1.20.1-1.0.2.jar",
+      "RepositoryPath": "mods/xercamusic-fabric-1.20.1-1.0.2.jar",
+      "Size": 7754269,
+      "Sha256": "0c9fce3acabf28390c0b57e87b94ae598f112f75526a650ef4546764bc24a621",
+      "FabricId": "xercamusic"
+    },
+    {
+      "Category": "mods",
+      "Path": "xercapaint-fabric-1.20.1-1.0.1.jar",
+      "RepositoryPath": "mods/xercapaint-fabric-1.20.1-1.0.1.jar",
+      "Size": 401360,
+      "Sha256": "cab97ee694aa4d7a46f173bbaebf5b80dd69f12e1db89f556e5ebd2a27a3e934",
+      "FabricId": "xercapaint"
+    },
+    {
+      "Category": "mods",
+      "Path": "yet_another_config_lib_v3-3.6.6\u002B1.20.1-fabric.jar",
+      "RepositoryPath": "mods/yet_another_config_lib_v3-3.6.6\u002B1.20.1-fabric.jar",
+      "Size": 1294234,
+      "Sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
+      "FabricId": "yet_another_config_lib_v3"
+    },
+    {
+      "Category": "mods",
+      "Path": "yosbr-0.1.2.jar",
+      "RepositoryPath": "mods/yosbr-0.1.2.jar",
+      "Size": 17373,
+      "Sha256": "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb",
+      "FabricId": "yosbr"
+    },
+    {
+      "Category": "mods",
+      "Path": "youre-in-grave-danger-fabric-2.0.10.jar",
+      "RepositoryPath": "mods/youre-in-grave-danger-fabric-2.0.10.jar",
+      "Size": 804806,
+      "Sha256": "d6acdb865278bda2c390c16b9e6a473f951d5fde0cfa505ae9437c36ea387df3",
+      "FabricId": "yigd"
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "A Good Place Sample Pack.zip",
+      "RepositoryPath": "A Good Place Sample Pack.zip",
+      "Size": 14945,
+      "Sha256": "1eba2356fa9c09bd3e6d71a43209396d4b53bfa096c1c50249026e0054638f40",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "AlphabetSoup-v2.1.zip",
+      "RepositoryPath": "AlphabetSoup-v2.1.zip",
+      "Size": 38563,
+      "Sha256": "4e0aa4a80c75fbcb54c55cb98fb94392b05cae5a20fc6e75fa7a74ef8641fa1d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Arachnophobia 1.20.1.zip",
+      "RepositoryPath": "Arachnophobia 1.20.1.zip",
+      "Size": 420413,
+      "Sha256": "daa6bd952f0aabc545dcc267699fb58695030f1d1f6a585630637700dc8ba30f",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Cobblemon Loot.zip",
+      "RepositoryPath": "BCG Cobblemon Loot.zip",
+      "Size": 198028,
+      "Sha256": "57cb2815b2d808fca2ed907165d5aede08da6fd4ee59c57a68c43dbd5af66323",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Compatibility.zip",
+      "RepositoryPath": "BCG Compatibility.zip",
+      "Size": 409881,
+      "Sha256": "5f01402b89292d6a7368f33813d9e8ab56a2e7ea24baff548a7166fb974b84c4",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Datapack.zip",
+      "RepositoryPath": "BCG Datapack.zip",
+      "Size": 451446,
+      "Sha256": "2d2066df88b34a8c6a132d3b559e8e98ac75b873433056e5abc4a927b83881c8",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Sounds.zip",
+      "RepositoryPath": "BCG Sounds.zip",
+      "Size": 2446416,
+      "Sha256": "e45c8952dac27de85c201677a4721869a18520f83d1ec1022fa090cb0ebcd81e",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG x AllTheMons 1.2.0.zip",
+      "RepositoryPath": "BCG x AllTheMons 1.2.0.zip",
+      "Size": 6435193,
+      "Sha256": "5c49696555b9b1282321f13b4bf1851e0316f82b31108db383a8ac64ae5df73d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG x Whimscape.zip",
+      "RepositoryPath": "BCG x Whimscape.zip",
+      "Size": 5192948,
+      "Sha256": "42eaf7286dfbbc3c5a09fbe7f95d227b1eb8b2469bdbd6622e0e0b4e32541f68",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "CobblemonIconsWithMobs v3.2.zip",
+      "RepositoryPath": "CobblemonIconsWithMobs v3.2.zip",
+      "Size": 10724486,
+      "Sha256": "089567f1292b466859b69f4097b4f8d790bad5495d168b84b5812979cf5bf686",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+      "RepositoryPath": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+      "Size": 95762,
+      "Sha256": "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Create Simple Storage 2.1.zip",
+      "RepositoryPath": "Create Simple Storage 2.1.zip",
+      "Size": 78236,
+      "Sha256": "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "FA\u002BPlayer-v1.1.zip",
+      "RepositoryPath": "FA\u002BPlayer-v1.1.zip",
+      "Size": 110203,
+      "Sha256": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "FreshAnimations_v1.10.4.zip",
+      "RepositoryPath": "FreshAnimations_v1.10.4.zip",
+      "Size": 850941,
+      "Sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "HyperPunchy-v2.5\u002B.zip",
+      "RepositoryPath": "HyperPunchy-v2.5\u002B.zip",
+      "Size": 1193703,
+      "Sha256": "2b611e5a470538d2bfb3d161868f2a1a528ad20cdaf6cb817dc70af0c2fdc83d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
+      "RepositoryPath": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
+      "Size": 247259,
+      "Sha256": "6d12fb6d13d365387928317c6687a56cdec539ec217d1e7e1793b62f58d78c65",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Joe\u0027s Comfy UI.zip",
+      "RepositoryPath": "Joe\u0027s Comfy UI.zip",
+      "Size": 760034,
+      "Sha256": "076b4efc86f689abdc5c7fae7e64602c4a0b8654675f287a8b1c74748d30d8b5",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "JourneyMon-NoVanilla.zip",
+      "RepositoryPath": "JourneyMon-NoVanilla.zip",
+      "Size": 5862017,
+      "Sha256": "3b7a05f96abd9b75d8d4ec27a88631c515059f5d855b3f5c96277a9fef7cbed6",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Joyful Motions.zip",
+      "RepositoryPath": "Joyful Motions.zip",
+      "Size": 144574,
+      "Sha256": "10f47ebac20bbfee8931660a035f939f7611efddaaaa12b267696685919ac16d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Karambit x Punchy.zip",
+      "RepositoryPath": "Karambit x Punchy.zip",
+      "Size": 599506,
+      "Sha256": "8fee49a32de7873c568ae6d9c1fcdc43fdb45dffb8eef3a4c7e917b8bc75e4e9",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
+      "RepositoryPath": "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
+      "Size": 235388,
+      "Sha256": "b4a9b4846d70a121c1fe794b996c07f1d80f7c5ba655f12b082dc163c105ae83",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Rainbow Legendaries v1.2.zip",
+      "RepositoryPath": "Rainbow Legendaries v1.2.zip",
+      "Size": 1849958,
+      "Sha256": "c13fa2f5f89b3b604b5bb89d28ba228ee81648cfd3bd7774e7c699ffd9fbe751",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Serified Font v1.1 f1-34.zip",
+      "RepositoryPath": "Serified Font v1.1 f1-34.zip",
+      "Size": 44242,
+      "Sha256": "72c0800335a6c2a017fdcc05dada6d23bc7c3e6bdae66e03cc39f8f160bd91c4",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
+      "RepositoryPath": "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
+      "Size": 773293,
+      "Sha256": "9eb4333afbb3b6260cc2578ea0c7c4119ce92f96bd0375caca6edd6d92abcd46",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Slightly-Improved-Font-1.1.4.zip",
+      "RepositoryPath": "Slightly-Improved-Font-1.1.4.zip",
+      "Size": 74587,
+      "Sha256": "2cd6f3615a27ca8cb5effdbd2d8c610d2f19c79a5078cb1a59f3dd1208027978",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Vivillon Pride Patterns v1.0.zip",
+      "RepositoryPath": "Vivillon Pride Patterns v1.0.zip",
+      "Size": 158656,
+      "Sha256": "2115e21fe0b4be79e73dc9aee382ed77a0c4e43f6ad4224501f482259836f865",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape X FA\u002BPlayer.zip",
+      "RepositoryPath": "Whimscape X FA\u002BPlayer.zip",
+      "Size": 6319,
+      "Sha256": "b0a657758a1094d40281352f7f46e5d9c2996e85a779765f5f3e67f6e856d351",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape edited_1.20-1.20.1_r10.zip",
+      "RepositoryPath": "Whimscape edited_1.20-1.20.1_r10.zip",
+      "Size": 4390073,
+      "Sha256": "c6f0fec8be1b72b11713c68e668620f27bb6adca60f5304f00e6d5e60c5e0fc9",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Exploration v2.0.zip",
+      "RepositoryPath": "Whimscape x Exploration v2.0.zip",
+      "Size": 366499,
+      "Sha256": "1ae1e118845124e450e98d0e576c95171728e30cd237475739eb6c161d32428b",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Sophisticated.zip",
+      "RepositoryPath": "Whimscape x Sophisticated.zip",
+      "Size": 67721,
+      "Sha256": "59f5104df8cdfc8b2c7a8083854f62977ba62b335f00200ffccf96faca239389",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
+      "RepositoryPath": "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
+      "Size": 8712,
+      "Sha256": "5e64aaf3bfb681a6bc0816a67a9ffc2b1385b4495790ed3d884273ce8f371b4e",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Trinkets 1.3.zip",
+      "RepositoryPath": "Whimscape x Trinkets 1.3.zip",
+      "Size": 56733,
+      "Sha256": "669633473221ffbb56c00a8957cc3ab2613bb0b27c1fa64ee0d6c76d40582400",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape_1.20-1.20.1_r10.zip",
+      "RepositoryPath": "Whimscape_1.20-1.20.1_r10.zip",
+      "Size": 4390990,
+      "Sha256": "7383a6a91144e2ebca73417330550aba6f6addcec511f122fb9778a8f1d8e695",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape_Leaves_1.20-26.3_r1.zip",
+      "RepositoryPath": "Whimscape_Leaves_1.20-26.3_r1.zip",
+      "Size": 113090,
+      "Sha256": "8629f2c2c6498127ede46aa7e1bb3ec63a7ca735d0fc850dcc5bb6f8077628ff",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
+      "RepositoryPath": "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
+      "Size": 275283,
+      "Sha256": "465ba6de581d5241e631a4404d106eab4b11ac290ee980bc96bfed9d41eab4e5",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "pokemans_v9.72.zip",
+      "RepositoryPath": "pokemans_v9.72.zip",
+      "Size": 792936,
+      "Sha256": "0f66c83710ffcac6230cfc4ef56794cede98c879b2fe518508be447b76dc629d",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "ComplementaryReimagined_r5.2.2 - Modified by BCG.zip",
+      "RepositoryPath": "ComplementaryReimagined_r5.2.2 - Modified by BCG.zip",
+      "Size": 443383,
+      "Sha256": "76346b2bcc342fc32819c4623611cb5b934d469a512353bec42e81426a29722e",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "ComplementaryReimagined_r5.9.3.zip",
+      "RepositoryPath": "ComplementaryReimagined_r5.9.3.zip",
+      "Size": 553397,
+      "Sha256": "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "ComplementaryUnbound_r5.9.3.zip",
+      "RepositoryPath": "ComplementaryUnbound_r5.9.3.zip",
+      "Size": 553400,
+      "Sha256": "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Glimmer-v1.5.2.zip",
+      "RepositoryPath": "Glimmer-v1.5.2.zip",
+      "Size": 5899341,
+      "Sha256": "bd9c3519df2c72cb03326e464608251ead53a0d58277f9de22d6b6451d1880ed",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Sildur\u0027s Vibrant Shaders v2.01 Medium.zip",
+      "RepositoryPath": "Sildur\u0027s Vibrant Shaders v2.01 Medium.zip",
+      "Size": 251309,
+      "Sha256": "e3f2d2497f9d02c4968cd0ef71afff84f93cbc24dc50c4dd791bab6508b549a7",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Solas Shader V3.7b.zip",
+      "RepositoryPath": "Solas Shader V3.7b.zip",
+      "Size": 1252311,
+      "Sha256": "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Steadfast-0.8.0.zip",
+      "RepositoryPath": "Steadfast-0.8.0.zip",
+      "Size": 199742,
+      "Sha256": "c3c9bc76f51b7fb31be37186088e3afe1863386d283d733e7ec69de7798bddfb",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "photon_v1.3b.zip",
+      "RepositoryPath": "photon_v1.3b.zip",
+      "Size": 3800987,
+      "Sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+      "FabricId": null
+    }
+  ],
+  "ResourcePackOrder": [
+    "Serified Font v1.1 f1-34.zip",
+    "Whimscape X FA\u002BPlayer.zip",
+    "FA\u002BPlayer-v1.1.zip",
+    "FreshAnimations_v1.10.4.zip",
+    "Karambit x Punchy.zip",
+    "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
+    "HyperPunchy-v2.5\u002B.zip",
+    "Whimscape edited_1.20-1.20.1_r10.zip",
+    "Whimscape_Leaves_1.20-26.3_r1.zip",
+    "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
+    "Whimscape x Exploration v2.0.zip",
+    "Whimscape x Sophisticated.zip",
+    "Whimscape x Trinkets 1.3.zip",
+    "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
+    "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
+    "BCG Compatibility.zip",
+    "BCG Sounds.zip",
+    "BCG Cobblemon Loot.zip",
+    "BCG x AllTheMons 1.2.0.zip",
+    "BCG x Whimscape.zip",
+    "BCG Datapack.zip",
+    "Create Simple Storage 2.1.zip",
+    "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+    "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip"
+  ],
+  "ActiveShader": null
+}
