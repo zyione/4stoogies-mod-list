@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.2",
+  "Version": "1.3",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "b27ec88c80b300112135ad7b607a2efd20a68d69"
+      "Commit": "6048aefa65bf46a257bc69bd2e936736b30c5c3f"
     }
   ],
   "Files": [
@@ -1335,6 +1335,14 @@
       "Size": 1794706,
       "Sha256": "6a0743c5260449b86a6e9f8811beca72a80e4c7035fe1846166b72b99c2ddc41",
       "FabricId": "bbb"
+    },
+    {
+      "Category": "mods",
+      "Path": "bcg-claim-map-readability-1.2.1.jar",
+      "RepositoryPath": "mods/bcg-claim-map-readability-1.2.1.jar",
+      "Size": 5286,
+      "Sha256": "add2a3ffc9695c87a4d2d902ebffa48f1637608959b2e1dd7dd48cc8a175f1a4",
+      "FabricId": "bcg_claim_map_readability"
     },
     {
       "Category": "mods",
