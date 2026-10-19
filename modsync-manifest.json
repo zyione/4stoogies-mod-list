@@ -1,15 +1,9 @@
 {
   "Schema": 1,
-  "Version": "1.1",
+  "Version": "1.2",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
-    {
-      "Category": "mods",
-      "Url": "https://github.com/zyione/4stoogies-mod-list.git",
-      "Branch": "main",
-      "Commit": "b84952b5a745b4f80bf77c6497b3f6301c9b98c0"
-    },
     {
       "Category": "resourcepacks",
       "Url": "https://github.com/zyione/4stoogies-resourcepack-list.git",
@@ -21,9 +15,375 @@
       "Url": "https://github.com/zyione/4stoogies-shaderpack-list.git",
       "Branch": "main",
       "Commit": "7dc97cb8f1dc578ed524930fdceea32d9390bd4a"
+    },
+    {
+      "Category": "mods",
+      "Url": "https://github.com/zyione/4stoogies-mod-list.git",
+      "Branch": "main",
+      "Commit": "b27ec88c80b300112135ad7b607a2efd20a68d69"
     }
   ],
   "Files": [
+    {
+      "Category": "resourcepacks",
+      "Path": "A Good Place Sample Pack.zip",
+      "RepositoryPath": "A Good Place Sample Pack.zip",
+      "Size": 14945,
+      "Sha256": "1eba2356fa9c09bd3e6d71a43209396d4b53bfa096c1c50249026e0054638f40",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "AlphabetSoup-v2.1.zip",
+      "RepositoryPath": "AlphabetSoup-v2.1.zip",
+      "Size": 38563,
+      "Sha256": "4e0aa4a80c75fbcb54c55cb98fb94392b05cae5a20fc6e75fa7a74ef8641fa1d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Arachnophobia 1.20.1.zip",
+      "RepositoryPath": "Arachnophobia 1.20.1.zip",
+      "Size": 420413,
+      "Sha256": "daa6bd952f0aabc545dcc267699fb58695030f1d1f6a585630637700dc8ba30f",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Cobblemon Loot.zip",
+      "RepositoryPath": "BCG Cobblemon Loot.zip",
+      "Size": 198028,
+      "Sha256": "57cb2815b2d808fca2ed907165d5aede08da6fd4ee59c57a68c43dbd5af66323",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Compatibility.zip",
+      "RepositoryPath": "BCG Compatibility.zip",
+      "Size": 409881,
+      "Sha256": "5f01402b89292d6a7368f33813d9e8ab56a2e7ea24baff548a7166fb974b84c4",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Datapack.zip",
+      "RepositoryPath": "BCG Datapack.zip",
+      "Size": 451446,
+      "Sha256": "2d2066df88b34a8c6a132d3b559e8e98ac75b873433056e5abc4a927b83881c8",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG Sounds.zip",
+      "RepositoryPath": "BCG Sounds.zip",
+      "Size": 2446416,
+      "Sha256": "e45c8952dac27de85c201677a4721869a18520f83d1ec1022fa090cb0ebcd81e",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG x AllTheMons 1.2.0.zip",
+      "RepositoryPath": "BCG x AllTheMons 1.2.0.zip",
+      "Size": 6435193,
+      "Sha256": "5c49696555b9b1282321f13b4bf1851e0316f82b31108db383a8ac64ae5df73d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "BCG x Whimscape.zip",
+      "RepositoryPath": "BCG x Whimscape.zip",
+      "Size": 5192948,
+      "Sha256": "42eaf7286dfbbc3c5a09fbe7f95d227b1eb8b2469bdbd6622e0e0b4e32541f68",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "CobblemonIconsWithMobs v3.2.zip",
+      "RepositoryPath": "CobblemonIconsWithMobs v3.2.zip",
+      "Size": 10724486,
+      "Sha256": "089567f1292b466859b69f4097b4f8d790bad5495d168b84b5812979cf5bf686",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+      "RepositoryPath": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+      "Size": 95762,
+      "Sha256": "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Create Simple Storage 2.1.zip",
+      "RepositoryPath": "Create Simple Storage 2.1.zip",
+      "Size": 78236,
+      "Sha256": "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "FA\u002BPlayer-v1.1.zip",
+      "RepositoryPath": "FA\u002BPlayer-v1.1.zip",
+      "Size": 110203,
+      "Sha256": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "FreshAnimations_v1.10.4.zip",
+      "RepositoryPath": "FreshAnimations_v1.10.4.zip",
+      "Size": 850941,
+      "Sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "HyperPunchy-v2.5\u002B.zip",
+      "RepositoryPath": "HyperPunchy-v2.5\u002B.zip",
+      "Size": 1193703,
+      "Sha256": "2b611e5a470538d2bfb3d161868f2a1a528ad20cdaf6cb817dc70af0c2fdc83d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
+      "RepositoryPath": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
+      "Size": 247259,
+      "Sha256": "6d12fb6d13d365387928317c6687a56cdec539ec217d1e7e1793b62f58d78c65",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Joe\u0027s Comfy UI.zip",
+      "RepositoryPath": "Joe\u0027s Comfy UI.zip",
+      "Size": 760034,
+      "Sha256": "076b4efc86f689abdc5c7fae7e64602c4a0b8654675f287a8b1c74748d30d8b5",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "JourneyMon-NoVanilla.zip",
+      "RepositoryPath": "JourneyMon-NoVanilla.zip",
+      "Size": 5862017,
+      "Sha256": "3b7a05f96abd9b75d8d4ec27a88631c515059f5d855b3f5c96277a9fef7cbed6",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Joyful Motions.zip",
+      "RepositoryPath": "Joyful Motions.zip",
+      "Size": 144574,
+      "Sha256": "10f47ebac20bbfee8931660a035f939f7611efddaaaa12b267696685919ac16d",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Karambit x Punchy.zip",
+      "RepositoryPath": "Karambit x Punchy.zip",
+      "Size": 599506,
+      "Sha256": "8fee49a32de7873c568ae6d9c1fcdc43fdb45dffb8eef3a4c7e917b8bc75e4e9",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
+      "RepositoryPath": "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
+      "Size": 235388,
+      "Sha256": "b4a9b4846d70a121c1fe794b996c07f1d80f7c5ba655f12b082dc163c105ae83",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Rainbow Legendaries v1.2.zip",
+      "RepositoryPath": "Rainbow Legendaries v1.2.zip",
+      "Size": 1849958,
+      "Sha256": "c13fa2f5f89b3b604b5bb89d28ba228ee81648cfd3bd7774e7c699ffd9fbe751",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Serified Font v1.1 f1-34.zip",
+      "RepositoryPath": "Serified Font v1.1 f1-34.zip",
+      "Size": 44242,
+      "Sha256": "72c0800335a6c2a017fdcc05dada6d23bc7c3e6bdae66e03cc39f8f160bd91c4",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
+      "RepositoryPath": "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
+      "Size": 773293,
+      "Sha256": "9eb4333afbb3b6260cc2578ea0c7c4119ce92f96bd0375caca6edd6d92abcd46",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Slightly-Improved-Font-1.1.4.zip",
+      "RepositoryPath": "Slightly-Improved-Font-1.1.4.zip",
+      "Size": 74587,
+      "Sha256": "2cd6f3615a27ca8cb5effdbd2d8c610d2f19c79a5078cb1a59f3dd1208027978",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Vivillon Pride Patterns v1.0.zip",
+      "RepositoryPath": "Vivillon Pride Patterns v1.0.zip",
+      "Size": 158656,
+      "Sha256": "2115e21fe0b4be79e73dc9aee382ed77a0c4e43f6ad4224501f482259836f865",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape X FA\u002BPlayer.zip",
+      "RepositoryPath": "Whimscape X FA\u002BPlayer.zip",
+      "Size": 6319,
+      "Sha256": "b0a657758a1094d40281352f7f46e5d9c2996e85a779765f5f3e67f6e856d351",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape edited_1.20-1.20.1_r10.zip",
+      "RepositoryPath": "Whimscape edited_1.20-1.20.1_r10.zip",
+      "Size": 4390073,
+      "Sha256": "c6f0fec8be1b72b11713c68e668620f27bb6adca60f5304f00e6d5e60c5e0fc9",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Exploration v2.0.zip",
+      "RepositoryPath": "Whimscape x Exploration v2.0.zip",
+      "Size": 366499,
+      "Sha256": "1ae1e118845124e450e98d0e576c95171728e30cd237475739eb6c161d32428b",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Sophisticated.zip",
+      "RepositoryPath": "Whimscape x Sophisticated.zip",
+      "Size": 67721,
+      "Sha256": "59f5104df8cdfc8b2c7a8083854f62977ba62b335f00200ffccf96faca239389",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
+      "RepositoryPath": "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
+      "Size": 8712,
+      "Sha256": "5e64aaf3bfb681a6bc0816a67a9ffc2b1385b4495790ed3d884273ce8f371b4e",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape x Trinkets 1.3.zip",
+      "RepositoryPath": "Whimscape x Trinkets 1.3.zip",
+      "Size": 56733,
+      "Sha256": "669633473221ffbb56c00a8957cc3ab2613bb0b27c1fa64ee0d6c76d40582400",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape_1.20-1.20.1_r10.zip",
+      "RepositoryPath": "Whimscape_1.20-1.20.1_r10.zip",
+      "Size": 4390990,
+      "Sha256": "7383a6a91144e2ebca73417330550aba6f6addcec511f122fb9778a8f1d8e695",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape_Leaves_1.20-26.3_r1.zip",
+      "RepositoryPath": "Whimscape_Leaves_1.20-26.3_r1.zip",
+      "Size": 113090,
+      "Sha256": "8629f2c2c6498127ede46aa7e1bb3ec63a7ca735d0fc850dcc5bb6f8077628ff",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
+      "RepositoryPath": "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
+      "Size": 275283,
+      "Sha256": "465ba6de581d5241e631a4404d106eab4b11ac290ee980bc96bfed9d41eab4e5",
+      "FabricId": null
+    },
+    {
+      "Category": "resourcepacks",
+      "Path": "pokemans_v9.72.zip",
+      "RepositoryPath": "pokemans_v9.72.zip",
+      "Size": 792936,
+      "Sha256": "0f66c83710ffcac6230cfc4ef56794cede98c879b2fe518508be447b76dc629d",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "ComplementaryReimagined_r5.2.2 - Modified by BCG.zip",
+      "RepositoryPath": "ComplementaryReimagined_r5.2.2 - Modified by BCG.zip",
+      "Size": 443383,
+      "Sha256": "76346b2bcc342fc32819c4623611cb5b934d469a512353bec42e81426a29722e",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "ComplementaryReimagined_r5.9.3.zip",
+      "RepositoryPath": "ComplementaryReimagined_r5.9.3.zip",
+      "Size": 553397,
+      "Sha256": "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "ComplementaryUnbound_r5.9.3.zip",
+      "RepositoryPath": "ComplementaryUnbound_r5.9.3.zip",
+      "Size": 553400,
+      "Sha256": "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Glimmer-v1.5.2.zip",
+      "RepositoryPath": "Glimmer-v1.5.2.zip",
+      "Size": 5899341,
+      "Sha256": "bd9c3519df2c72cb03326e464608251ead53a0d58277f9de22d6b6451d1880ed",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Sildur\u0027s Vibrant Shaders v2.01 Medium.zip",
+      "RepositoryPath": "Sildur\u0027s Vibrant Shaders v2.01 Medium.zip",
+      "Size": 251309,
+      "Sha256": "e3f2d2497f9d02c4968cd0ef71afff84f93cbc24dc50c4dd791bab6508b549a7",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Solas Shader V3.7b.zip",
+      "RepositoryPath": "Solas Shader V3.7b.zip",
+      "Size": 1252311,
+      "Sha256": "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "Steadfast-0.8.0.zip",
+      "RepositoryPath": "Steadfast-0.8.0.zip",
+      "Size": 199742,
+      "Sha256": "c3c9bc76f51b7fb31be37186088e3afe1863386d283d733e7ec69de7798bddfb",
+      "FabricId": null
+    },
+    {
+      "Category": "shaderpacks",
+      "Path": "photon_v1.3b.zip",
+      "RepositoryPath": "photon_v1.3b.zip",
+      "Size": 3800987,
+      "Sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+      "FabricId": null
+    },
+    {
+      "Category": "mods",
+      "Path": "1.20.1-comicsbubbleschat-fabric-1.4.0.jar",
+      "RepositoryPath": "mods/1.20.1-comicsbubbleschat-fabric-1.4.0.jar",
+      "Size": 184790,
+      "Sha256": "5b40dd0e92c9ecc6fde4a20baf386203b5d12b3bea738f08f9424b5e55d4e8b8",
+      "FabricId": "comicsbubbleschat"
+    },
     {
       "Category": "mods",
       "Path": "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
@@ -786,14 +1146,6 @@
     },
     {
       "Category": "mods",
-      "Path": "a_good_place-1.20-1.2.8-fabric.jar",
-      "RepositoryPath": "mods/a_good_place-1.20-1.2.8-fabric.jar",
-      "Size": 255328,
-      "Sha256": "7ebb0baceb5296418e78e1ac7e5107e9a034442ed6fa58b657eea0c4e1ca7742",
-      "FabricId": "a_good_place"
-    },
-    {
-      "Category": "mods",
       "Path": "accurate-block-placement-1.2.1.jar",
       "RepositoryPath": "mods/accurate-block-placement-1.2.1.jar",
       "Size": 35838,
@@ -983,6 +1335,14 @@
       "Size": 1794706,
       "Sha256": "6a0743c5260449b86a6e9f8811beca72a80e4c7035fe1846166b72b99c2ddc41",
       "FabricId": "bbb"
+    },
+    {
+      "Category": "mods",
+      "Path": "bcg-client-optimizer-0.21.0-alpha.1.jar",
+      "RepositoryPath": "mods/bcg-client-optimizer-0.21.0-alpha.1.jar",
+      "Size": 143947,
+      "Sha256": "34b5acb223c3a581a620324ce91abbf1ba0e0f1be2b802afffecfe3a2a6196b7",
+      "FabricId": "bcg_client_optimizer"
     },
     {
       "Category": "mods",
@@ -1202,14 +1562,6 @@
     },
     {
       "Category": "mods",
-      "Path": "coh-fabric-0.1.5\u002B1.20.1.jar",
-      "RepositoryPath": "mods/coh-fabric-0.1.5\u002B1.20.1.jar",
-      "Size": 82612,
-      "Sha256": "b96ef37d61e8c44e7b9f913034e459bd61d9a2f37cc80feb0cd7810ffec523ba",
-      "FabricId": "coh"
-    },
-    {
-      "Category": "mods",
       "Path": "colorwheel-fabric-1.3.0\u002Bmc1.20.1.jar",
       "RepositoryPath": "mods/colorwheel-fabric-1.3.0\u002Bmc1.20.1.jar",
       "Size": 510084,
@@ -1327,6 +1679,14 @@
       "Size": 6346405,
       "Sha256": "99e544c07ccca03bb20998b23dcaf99af91cb806b9fefb3df965f8d8cdeda3ec",
       "FabricId": "createbigcannons"
+    },
+    {
+      "Category": "mods",
+      "Path": "createcobblestone-1.5.0\u002Bfabric-1.20.1-154.jar",
+      "RepositoryPath": "mods/createcobblestone-1.5.0\u002Bfabric-1.20.1-154.jar",
+      "Size": 235690,
+      "Sha256": "3fbe2bdef1e0b00398ac808787ed7ea20073f6aa53de7508aef27de3e9f55447",
+      "FabricId": "createcobblestone"
     },
     {
       "Category": "mods",
@@ -1810,14 +2170,6 @@
     },
     {
       "Category": "mods",
-      "Path": "fwa\u002B1.20.1-1.2.31.jar",
-      "RepositoryPath": "mods/fwa\u002B1.20.1-1.2.31.jar",
-      "Size": 387115,
-      "Sha256": "f9af420c066af0452dd5991fbff25fa8fef7a9c3a2a6ba01340cdc09fbe3adff",
-      "FabricId": "fwa"
-    },
-    {
-      "Category": "mods",
       "Path": "fzzy_config-0.7.6\u002B1.20.1.jar",
       "RepositoryPath": "mods/fzzy_config-0.7.6\u002B1.20.1.jar",
       "Size": 2372585,
@@ -2215,6 +2567,14 @@
       "Size": 736489,
       "Sha256": "d3b5cd695fa35d0ff4b122034afccdbc7dfa769461cfd31700a5aecb9558c52b",
       "FabricId": "lne_wizards"
+    },
+    {
+      "Category": "mods",
+      "Path": "local-create-emf-skyhook-1.0.0.jar",
+      "RepositoryPath": "mods/local-create-emf-skyhook-1.0.0.jar",
+      "Size": 2455,
+      "Sha256": "ea9b9556cb3f1f33adbb17270065e7f4a7b911cc5e29c1aa9f83cb1cb8e3f5f2",
+      "FabricId": "local_create_emf_skyhook"
     },
     {
       "Category": "mods",
@@ -3159,358 +3519,6 @@
       "Size": 804806,
       "Sha256": "d6acdb865278bda2c390c16b9e6a473f951d5fde0cfa505ae9437c36ea387df3",
       "FabricId": "yigd"
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "A Good Place Sample Pack.zip",
-      "RepositoryPath": "A Good Place Sample Pack.zip",
-      "Size": 14945,
-      "Sha256": "1eba2356fa9c09bd3e6d71a43209396d4b53bfa096c1c50249026e0054638f40",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "AlphabetSoup-v2.1.zip",
-      "RepositoryPath": "AlphabetSoup-v2.1.zip",
-      "Size": 38563,
-      "Sha256": "4e0aa4a80c75fbcb54c55cb98fb94392b05cae5a20fc6e75fa7a74ef8641fa1d",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Arachnophobia 1.20.1.zip",
-      "RepositoryPath": "Arachnophobia 1.20.1.zip",
-      "Size": 420413,
-      "Sha256": "daa6bd952f0aabc545dcc267699fb58695030f1d1f6a585630637700dc8ba30f",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "BCG Cobblemon Loot.zip",
-      "RepositoryPath": "BCG Cobblemon Loot.zip",
-      "Size": 198028,
-      "Sha256": "57cb2815b2d808fca2ed907165d5aede08da6fd4ee59c57a68c43dbd5af66323",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "BCG Compatibility.zip",
-      "RepositoryPath": "BCG Compatibility.zip",
-      "Size": 409881,
-      "Sha256": "5f01402b89292d6a7368f33813d9e8ab56a2e7ea24baff548a7166fb974b84c4",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "BCG Datapack.zip",
-      "RepositoryPath": "BCG Datapack.zip",
-      "Size": 451446,
-      "Sha256": "2d2066df88b34a8c6a132d3b559e8e98ac75b873433056e5abc4a927b83881c8",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "BCG Sounds.zip",
-      "RepositoryPath": "BCG Sounds.zip",
-      "Size": 2446416,
-      "Sha256": "e45c8952dac27de85c201677a4721869a18520f83d1ec1022fa090cb0ebcd81e",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "BCG x AllTheMons 1.2.0.zip",
-      "RepositoryPath": "BCG x AllTheMons 1.2.0.zip",
-      "Size": 6435193,
-      "Sha256": "5c49696555b9b1282321f13b4bf1851e0316f82b31108db383a8ac64ae5df73d",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "BCG x Whimscape.zip",
-      "RepositoryPath": "BCG x Whimscape.zip",
-      "Size": 5192948,
-      "Sha256": "42eaf7286dfbbc3c5a09fbe7f95d227b1eb8b2469bdbd6622e0e0b4e32541f68",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "CobblemonIconsWithMobs v3.2.zip",
-      "RepositoryPath": "CobblemonIconsWithMobs v3.2.zip",
-      "Size": 10724486,
-      "Sha256": "089567f1292b466859b69f4097b4f8d790bad5495d168b84b5812979cf5bf686",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
-      "RepositoryPath": "Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
-      "Size": 95762,
-      "Sha256": "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Create Simple Storage 2.1.zip",
-      "RepositoryPath": "Create Simple Storage 2.1.zip",
-      "Size": 78236,
-      "Sha256": "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "FA\u002BPlayer-v1.1.zip",
-      "RepositoryPath": "FA\u002BPlayer-v1.1.zip",
-      "Size": 110203,
-      "Sha256": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "FreshAnimations_v1.10.4.zip",
-      "RepositoryPath": "FreshAnimations_v1.10.4.zip",
-      "Size": 850941,
-      "Sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "HyperPunchy-v2.5\u002B.zip",
-      "RepositoryPath": "HyperPunchy-v2.5\u002B.zip",
-      "Size": 1193703,
-      "Sha256": "2b611e5a470538d2bfb3d161868f2a1a528ad20cdaf6cb817dc70af0c2fdc83d",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
-      "RepositoryPath": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
-      "Size": 247259,
-      "Sha256": "6d12fb6d13d365387928317c6687a56cdec539ec217d1e7e1793b62f58d78c65",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Joe\u0027s Comfy UI.zip",
-      "RepositoryPath": "Joe\u0027s Comfy UI.zip",
-      "Size": 760034,
-      "Sha256": "076b4efc86f689abdc5c7fae7e64602c4a0b8654675f287a8b1c74748d30d8b5",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "JourneyMon-NoVanilla.zip",
-      "RepositoryPath": "JourneyMon-NoVanilla.zip",
-      "Size": 5862017,
-      "Sha256": "3b7a05f96abd9b75d8d4ec27a88631c515059f5d855b3f5c96277a9fef7cbed6",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Joyful Motions.zip",
-      "RepositoryPath": "Joyful Motions.zip",
-      "Size": 144574,
-      "Sha256": "10f47ebac20bbfee8931660a035f939f7611efddaaaa12b267696685919ac16d",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Karambit x Punchy.zip",
-      "RepositoryPath": "Karambit x Punchy.zip",
-      "Size": 599506,
-      "Sha256": "8fee49a32de7873c568ae6d9c1fcdc43fdb45dffb8eef3a4c7e917b8bc75e4e9",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
-      "RepositoryPath": "Modded Swords x Punchy! 1.20.1 v1.3.2.zip",
-      "Size": 235388,
-      "Sha256": "b4a9b4846d70a121c1fe794b996c07f1d80f7c5ba655f12b082dc163c105ae83",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Rainbow Legendaries v1.2.zip",
-      "RepositoryPath": "Rainbow Legendaries v1.2.zip",
-      "Size": 1849958,
-      "Sha256": "c13fa2f5f89b3b604b5bb89d28ba228ee81648cfd3bd7774e7c699ffd9fbe751",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Serified Font v1.1 f1-34.zip",
-      "RepositoryPath": "Serified Font v1.1 f1-34.zip",
-      "Size": 44242,
-      "Sha256": "72c0800335a6c2a017fdcc05dada6d23bc7c3e6bdae66e03cc39f8f160bd91c4",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
-      "RepositoryPath": "Simply Swords Whimscape v1.0 1.20-1.20.1.zip",
-      "Size": 773293,
-      "Sha256": "9eb4333afbb3b6260cc2578ea0c7c4119ce92f96bd0375caca6edd6d92abcd46",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Slightly-Improved-Font-1.1.4.zip",
-      "RepositoryPath": "Slightly-Improved-Font-1.1.4.zip",
-      "Size": 74587,
-      "Sha256": "2cd6f3615a27ca8cb5effdbd2d8c610d2f19c79a5078cb1a59f3dd1208027978",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Vivillon Pride Patterns v1.0.zip",
-      "RepositoryPath": "Vivillon Pride Patterns v1.0.zip",
-      "Size": 158656,
-      "Sha256": "2115e21fe0b4be79e73dc9aee382ed77a0c4e43f6ad4224501f482259836f865",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape X FA\u002BPlayer.zip",
-      "RepositoryPath": "Whimscape X FA\u002BPlayer.zip",
-      "Size": 6319,
-      "Sha256": "b0a657758a1094d40281352f7f46e5d9c2996e85a779765f5f3e67f6e856d351",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape edited_1.20-1.20.1_r10.zip",
-      "RepositoryPath": "Whimscape edited_1.20-1.20.1_r10.zip",
-      "Size": 4390073,
-      "Sha256": "c6f0fec8be1b72b11713c68e668620f27bb6adca60f5304f00e6d5e60c5e0fc9",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape x Exploration v2.0.zip",
-      "RepositoryPath": "Whimscape x Exploration v2.0.zip",
-      "Size": 366499,
-      "Sha256": "1ae1e118845124e450e98d0e576c95171728e30cd237475739eb6c161d32428b",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape x Sophisticated.zip",
-      "RepositoryPath": "Whimscape x Sophisticated.zip",
-      "Size": 67721,
-      "Sha256": "59f5104df8cdfc8b2c7a8083854f62977ba62b335f00200ffccf96faca239389",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
-      "RepositoryPath": "Whimscape x Tom\u0027s Simple Storage 1.1.zip",
-      "Size": 8712,
-      "Sha256": "5e64aaf3bfb681a6bc0816a67a9ffc2b1385b4495790ed3d884273ce8f371b4e",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape x Trinkets 1.3.zip",
-      "RepositoryPath": "Whimscape x Trinkets 1.3.zip",
-      "Size": 56733,
-      "Sha256": "669633473221ffbb56c00a8957cc3ab2613bb0b27c1fa64ee0d6c76d40582400",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape_1.20-1.20.1_r10.zip",
-      "RepositoryPath": "Whimscape_1.20-1.20.1_r10.zip",
-      "Size": 4390990,
-      "Sha256": "7383a6a91144e2ebca73417330550aba6f6addcec511f122fb9778a8f1d8e695",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape_Leaves_1.20-26.3_r1.zip",
-      "RepositoryPath": "Whimscape_Leaves_1.20-26.3_r1.zip",
-      "Size": 113090,
-      "Sha256": "8629f2c2c6498127ede46aa7e1bb3ec63a7ca735d0fc850dcc5bb6f8077628ff",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
-      "RepositoryPath": "Whimscape_x_FreshAnimations_1.20-1.21.11_r3.zip",
-      "Size": 275283,
-      "Sha256": "465ba6de581d5241e631a4404d106eab4b11ac290ee980bc96bfed9d41eab4e5",
-      "FabricId": null
-    },
-    {
-      "Category": "resourcepacks",
-      "Path": "pokemans_v9.72.zip",
-      "RepositoryPath": "pokemans_v9.72.zip",
-      "Size": 792936,
-      "Sha256": "0f66c83710ffcac6230cfc4ef56794cede98c879b2fe518508be447b76dc629d",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "ComplementaryReimagined_r5.2.2 - Modified by BCG.zip",
-      "RepositoryPath": "ComplementaryReimagined_r5.2.2 - Modified by BCG.zip",
-      "Size": 443383,
-      "Sha256": "76346b2bcc342fc32819c4623611cb5b934d469a512353bec42e81426a29722e",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "ComplementaryReimagined_r5.9.3.zip",
-      "RepositoryPath": "ComplementaryReimagined_r5.9.3.zip",
-      "Size": 553397,
-      "Sha256": "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "ComplementaryUnbound_r5.9.3.zip",
-      "RepositoryPath": "ComplementaryUnbound_r5.9.3.zip",
-      "Size": 553400,
-      "Sha256": "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "Glimmer-v1.5.2.zip",
-      "RepositoryPath": "Glimmer-v1.5.2.zip",
-      "Size": 5899341,
-      "Sha256": "bd9c3519df2c72cb03326e464608251ead53a0d58277f9de22d6b6451d1880ed",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "Sildur\u0027s Vibrant Shaders v2.01 Medium.zip",
-      "RepositoryPath": "Sildur\u0027s Vibrant Shaders v2.01 Medium.zip",
-      "Size": 251309,
-      "Sha256": "e3f2d2497f9d02c4968cd0ef71afff84f93cbc24dc50c4dd791bab6508b549a7",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "Solas Shader V3.7b.zip",
-      "RepositoryPath": "Solas Shader V3.7b.zip",
-      "Size": 1252311,
-      "Sha256": "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "Steadfast-0.8.0.zip",
-      "RepositoryPath": "Steadfast-0.8.0.zip",
-      "Size": 199742,
-      "Sha256": "c3c9bc76f51b7fb31be37186088e3afe1863386d283d733e7ec69de7798bddfb",
-      "FabricId": null
-    },
-    {
-      "Category": "shaderpacks",
-      "Path": "photon_v1.3b.zip",
-      "RepositoryPath": "photon_v1.3b.zip",
-      "Size": 3800987,
-      "Sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
-      "FabricId": null
     }
   ],
   "ResourcePackOrder": [
