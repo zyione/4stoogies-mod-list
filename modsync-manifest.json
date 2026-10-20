@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.4",
+  "Version": "1.5",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "3d32799d212fe91b3b7d633203424d8178c63d9b"
+      "Commit": "cad47140fe5dbf71c5dffba15794ab0a2f037420"
     }
   ],
   "Files": [
@@ -487,6 +487,14 @@
       "Size": 11844738,
       "Sha256": "3faf03d1999768fc2568c33fa87eb815557b74a2fc14b6a120f40312a805249b",
       "FabricId": "chimes"
+    },
+    {
+      "Category": "mods",
+      "Path": "ChippedExpress-universal-20x.jar",
+      "RepositoryPath": "mods/ChippedExpress-universal-20x.jar",
+      "Size": 2847056,
+      "Sha256": "ecf8b7ed03556f7880a471cba66dae42fb016d6c9a0fd937755fcf57a80e43e5",
+      "FabricId": "chipped_express"
     },
     {
       "Category": "mods",
