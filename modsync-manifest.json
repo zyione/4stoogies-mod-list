@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.5",
+  "Version": "1.6",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "cad47140fe5dbf71c5dffba15794ab0a2f037420"
+      "Commit": "c5f7d22871306c9f2fd3e765e7dccf9f72f06a8e"
     }
   ],
   "Files": [
@@ -3175,6 +3175,14 @@
       "Size": 1988537,
       "Sha256": "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
       "FabricId": "skinlayers3d"
+    },
+    {
+      "Category": "mods",
+      "Path": "slabbed-0.6.2-alpha\u002B1.20.1.jar",
+      "RepositoryPath": "mods/slabbed-0.6.2-alpha\u002B1.20.1.jar",
+      "Size": 313695,
+      "Sha256": "5baa3d0aee191b8e6a1009ca6de34591f9aab264257ab630cf872d0bdb29fc09",
+      "FabricId": "slabbed"
     },
     {
       "Category": "mods",
