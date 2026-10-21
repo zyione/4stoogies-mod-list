@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.7",
+  "Version": "1.8",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "b58b9735dbbd401828c362afba034e9de910a762"
+      "Commit": "c9639e0e5b417ac4276b649c7aae5586470ab09f"
     }
   ],
   "Files": [
@@ -1607,6 +1607,14 @@
       "Size": 907790,
       "Sha256": "6c415635879e1b6c9098eeebd4ba88ecaaf520edd30f2aad209061741de48023",
       "FabricId": "compact_storage"
+    },
+    {
+      "Category": "mods",
+      "Path": "connectiblechains-2.5.7\u002B1.20.1.jar",
+      "RepositoryPath": "mods/connectiblechains-2.5.7\u002B1.20.1.jar",
+      "Size": 504305,
+      "Sha256": "c7f2b25117f2ad16c439090835f837a1355a5e54332ef5d3f5f03660feb4e351",
+      "FabricId": "connectiblechains"
     },
     {
       "Category": "mods",
