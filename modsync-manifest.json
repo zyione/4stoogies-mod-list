@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.11",
+  "Version": "1.12",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "9fa8ee7ae702c7f8c18f89409c932e0f7a735edc"
+      "Commit": "a6c63aaabd8ab9072a6fa1c1e67f845d6d7dfacf"
     }
   ],
   "Files": [
@@ -1823,6 +1823,14 @@
       "Size": 40210,
       "Sha256": "748201acf4191fff6f5da771e73688fb4c51196ec7b24289d89d3bb0f357cc53",
       "FabricId": "dragonfight"
+    },
+    {
+      "Category": "mods",
+      "Path": "dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
+      "RepositoryPath": "mods/dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
+      "Size": 21999665,
+      "Sha256": "f2f71df90aa1820114df98d431a04758c542ecf8916e0dfb80aea330e5a07c1e",
+      "FabricId": "dragonsofberk"
     },
     {
       "Category": "mods",
