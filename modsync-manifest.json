@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.10",
+  "Version": "1.11",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "1f502ac82274641179ae97b87c101cd4fa9f3e1b"
+      "Commit": "9fa8ee7ae702c7f8c18f89409c932e0f7a735edc"
     }
   ],
   "Files": [
@@ -911,6 +911,14 @@
       "Size": 54564,
       "Sha256": "e769764f40c5024b83c75d50cd71dc31c1c7cc6640d78b8516e28ca32d2627e4",
       "FabricId": "runelic"
+    },
+    {
+      "Category": "mods",
+      "Path": "ScrollWalk-1.0\u002B1.20.1.jar",
+      "RepositoryPath": "mods/ScrollWalk-1.0\u002B1.20.1.jar",
+      "Size": 27725,
+      "Sha256": "3dc211d0714005931518b5e2c111923921b78aa31a5b4a3d297bfc511a7b447c",
+      "FabricId": "scrollwalk"
     },
     {
       "Category": "mods",
