@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.8",
+  "Version": "1.9",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "c9639e0e5b417ac4276b649c7aae5586470ab09f"
+      "Commit": "ce9d4a34d0f03e68b4f7c33d415cd0f7d483d935"
     }
   ],
   "Files": [
@@ -1551,6 +1551,22 @@
       "Size": 381708,
       "Sha256": "ab3bb261662b1c928b2aab29ec9e1eeb48eeb166726f65a35a4a83a8415fe4f4",
       "FabricId": "cicada"
+    },
+    {
+      "Category": "mods",
+      "Path": "cinder-spawners-emi-compat-1.0.0\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/cinder-spawners-emi-compat-1.0.0\u002Bmc1.20.1.jar",
+      "Size": 8979,
+      "Sha256": "5e2faebebf2936433ee9f9eee005ae2bd8dcdfd0480c338ce6835d463aa6d855",
+      "FabricId": "cinder_spawners_emi"
+    },
+    {
+      "Category": "mods",
+      "Path": "cinder_spawners-1.0.0.jar",
+      "RepositoryPath": "mods/cinder_spawners-1.0.0.jar",
+      "Size": 112217,
+      "Sha256": "ca5443ff0ef2c9979f4a6649c055247899bcc1f193bf739e743ec8cb4713a153",
+      "FabricId": "cinder_spawners"
     },
     {
       "Category": "mods",
