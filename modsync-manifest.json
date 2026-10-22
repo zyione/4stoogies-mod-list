@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.9",
+  "Version": "1.10",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "ce9d4a34d0f03e68b4f7c33d415cd0f7d483d935"
+      "Commit": "1f502ac82274641179ae97b87c101cd4fa9f3e1b"
     }
   ],
   "Files": [
@@ -1354,10 +1354,10 @@
     },
     {
       "Category": "mods",
-      "Path": "bcg-client-optimizer-0.21.0-alpha.1.jar",
-      "RepositoryPath": "mods/bcg-client-optimizer-0.21.0-alpha.1.jar",
-      "Size": 143947,
-      "Sha256": "34b5acb223c3a581a620324ce91abbf1ba0e0f1be2b802afffecfe3a2a6196b7",
+      "Path": "bcg-client-optimizer-0.23.0-alpha.1.jar",
+      "RepositoryPath": "mods/bcg-client-optimizer-0.23.0-alpha.1.jar",
+      "Size": 151106,
+      "Sha256": "7523b0dfc1838eb60b8121e1baf6b5d629d08dc0c05aa9e6009843e7e345aa5d",
       "FabricId": "bcg_client_optimizer"
     },
     {
