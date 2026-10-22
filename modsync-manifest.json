@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.12",
+  "Version": "1.13",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "a6c63aaabd8ab9072a6fa1c1e67f845d6d7dfacf"
+      "Commit": "2d798b1c44d520e2ee9a6c53fa4a0e5c71f5220f"
     }
   ],
   "Files": [
@@ -914,10 +914,10 @@
     },
     {
       "Category": "mods",
-      "Path": "ScrollWalk-1.0\u002B1.20.1.jar",
-      "RepositoryPath": "mods/ScrollWalk-1.0\u002B1.20.1.jar",
-      "Size": 27725,
-      "Sha256": "3dc211d0714005931518b5e2c111923921b78aa31a5b4a3d297bfc511a7b447c",
+      "Path": "ScrollWalk-1.0.1\u002B1.20.1.jar",
+      "RepositoryPath": "mods/ScrollWalk-1.0.1\u002B1.20.1.jar",
+      "Size": 29351,
+      "Sha256": "c8b7450f42408cd1f10263a4106712363e5b9daf2ae0efa489a3b47a6c807275",
       "FabricId": "scrollwalk"
     },
     {
@@ -1828,8 +1828,8 @@
       "Category": "mods",
       "Path": "dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
       "RepositoryPath": "mods/dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
-      "Size": 21999665,
-      "Sha256": "f2f71df90aa1820114df98d431a04758c542ecf8916e0dfb80aea330e5a07c1e",
+      "Size": 22003622,
+      "Sha256": "cc3815d0fc7b06bf80ef36271a781a2329018ef0f4d10cc1ec7406173cceb13d",
       "FabricId": "dragonsofberk"
     },
     {
