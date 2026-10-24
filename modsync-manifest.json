@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.13",
+  "Version": "1.14",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "2d798b1c44d520e2ee9a6c53fa4a0e5c71f5220f"
+      "Commit": "b8bdb25545f2ae8419d065c360364b44ff250036"
     }
   ],
   "Files": [
@@ -3383,6 +3383,14 @@
       "Size": 727192,
       "Sha256": "c47a3011311f61fb77991324073a6c055c035914ed503ff6268df998eee4adbc",
       "FabricId": "suppsquared"
+    },
+    {
+      "Category": "mods",
+      "Path": "swem-fabric-development-1.6.6\u002Bfabric.dev.1.jar",
+      "RepositoryPath": "mods/swem-fabric-development-1.6.6\u002Bfabric.dev.1.jar",
+      "Size": 11593240,
+      "Sha256": "e5062aefb705d23724e999db5fb2174ceee5eeecabdb7541ff285b50b56de7cc",
+      "FabricId": "swem"
     },
     {
       "Category": "mods",
