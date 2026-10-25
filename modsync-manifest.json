@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.14",
+  "Version": "1.15",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "b8bdb25545f2ae8419d065c360364b44ff250036"
+      "Commit": "39b72203e4a8c9939ab43fbf96129228219c11ac"
     }
   ],
   "Files": [
@@ -1362,10 +1362,10 @@
     },
     {
       "Category": "mods",
-      "Path": "bcg-client-optimizer-0.23.0-alpha.1.jar",
-      "RepositoryPath": "mods/bcg-client-optimizer-0.23.0-alpha.1.jar",
-      "Size": 151106,
-      "Sha256": "7523b0dfc1838eb60b8121e1baf6b5d629d08dc0c05aa9e6009843e7e345aa5d",
+      "Path": "bcg-client-optimizer-0.28.0-alpha.1.jar",
+      "RepositoryPath": "mods/bcg-client-optimizer-0.28.0-alpha.1.jar",
+      "Size": 216333,
+      "Sha256": "043f187d760ad4f4c0671c207c1439451af949b31bdfd1b71062bd03a711b556",
       "FabricId": "bcg_client_optimizer"
     },
     {
@@ -1828,8 +1828,8 @@
       "Category": "mods",
       "Path": "dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
       "RepositoryPath": "mods/dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
-      "Size": 22003622,
-      "Sha256": "cc3815d0fc7b06bf80ef36271a781a2329018ef0f4d10cc1ec7406173cceb13d",
+      "Size": 22018497,
+      "Sha256": "352f9dd307b412aa0fbd084456e73eb96a146fa2c9812c60e03a07e6c93f007f",
       "FabricId": "dragonsofberk"
     },
     {
@@ -2690,14 +2690,6 @@
     },
     {
       "Category": "mods",
-      "Path": "mca-freshly-animated-1.1-fabric.jar",
-      "RepositoryPath": "mods/mca-freshly-animated-1.1-fabric.jar",
-      "Size": 118918,
-      "Sha256": "091fa7f168ba3bbdde3a54be8a445e76dda180f826376e7d868c2d5b792463c6",
-      "FabricId": "mcafreshanimations"
-    },
-    {
-      "Category": "mods",
       "Path": "mcw-bridges-3.0.0-mc1.20.1fabric.jar",
       "RepositoryPath": "mods/mcw-bridges-3.0.0-mc1.20.1fabric.jar",
       "Size": 768682,
@@ -2815,14 +2807,6 @@
       "Size": 59499,
       "Sha256": "666d5da9371aaa2506aadbc84044b4fdc3e385ba9a54ca5dd90792582c19ee80",
       "FabricId": "mine-spawners"
-    },
-    {
-      "Category": "mods",
-      "Path": "minecraft-comes-alive-7.7.1-beta.3\u002B1.20.1-universal.jar",
-      "RepositoryPath": "mods/minecraft-comes-alive-7.7.1-beta.3\u002B1.20.1-universal.jar",
-      "Size": 13385125,
-      "Sha256": "05d1b8bbcf2ec02123b7ca83e60e41e614388ca95f5e22e10af29d457e5a63a5",
-      "FabricId": "mca"
     },
     {
       "Category": "mods",
@@ -3122,6 +3106,22 @@
     },
     {
       "Category": "mods",
+      "Path": "replaymod-1.20.1-2.6.23.jar",
+      "RepositoryPath": "mods/replaymod-1.20.1-2.6.23.jar",
+      "Size": 14739015,
+      "Sha256": "a46491d73456187ac888d31f6cc1160e42304427a63da88874c84abeb4d14033",
+      "FabricId": "replaymod"
+    },
+    {
+      "Category": "mods",
+      "Path": "replayvoicechat-fabric-1.3.13\u002B1.20.1.port.1.jar",
+      "RepositoryPath": "mods/replayvoicechat-fabric-1.3.13\u002B1.20.1.port.1.jar",
+      "Size": 78024,
+      "Sha256": "6de949fd51b5afbcdb138b21bb97b58550f2552f91c87ef365115d78724145f0",
+      "FabricId": "replayvoicechat"
+    },
+    {
+      "Category": "mods",
       "Path": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
       "RepositoryPath": "mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
       "Size": 134793,
@@ -3234,22 +3234,6 @@
     },
     {
       "Category": "mods",
-      "Path": "smoothgui-fabric-2.0.6\u002Bmc1.20.1.jar",
-      "RepositoryPath": "mods/smoothgui-fabric-2.0.6\u002Bmc1.20.1.jar",
-      "Size": 89464,
-      "Sha256": "951bfb070a4d5bf6c61737c6e258d209961f9624434df0642418b2b1201f1d2b",
-      "FabricId": "smoothgui"
-    },
-    {
-      "Category": "mods",
-      "Path": "smoothswapping-0.9.3.2-1.20.1-fabric.jar",
-      "RepositoryPath": "mods/smoothswapping-0.9.3.2-1.20.1-fabric.jar",
-      "Size": 59984,
-      "Sha256": "01f402a3685bf8e756c3f50661d06924c67ee375099c19aee884f52187fc07f0",
-      "FabricId": "smoothswapping"
-    },
-    {
-      "Category": "mods",
       "Path": "sodium-extra-0.5.9\u002Bmc1.20.1.jar",
       "RepositoryPath": "mods/sodium-extra-0.5.9\u002Bmc1.20.1.jar",
       "Size": 370701,
@@ -3287,14 +3271,6 @@
       "Size": 1676141,
       "Sha256": "ac2c27d12028b223306d730bd66b798f3f9762990ac3a4ec2510387c737d1e84",
       "FabricId": "sophisticatedstorage"
-    },
-    {
-      "Category": "mods",
-      "Path": "sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
-      "RepositoryPath": "mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
-      "Size": 202462,
-      "Sha256": "e3a8a509a53202e487be3d42faa32bd52c7e8c7a9cc4097abb8a3d26d85ef24b",
-      "FabricId": "sound_physics_remastered"
     },
     {
       "Category": "mods",
@@ -3388,8 +3364,8 @@
       "Category": "mods",
       "Path": "swem-fabric-development-1.6.6\u002Bfabric.dev.1.jar",
       "RepositoryPath": "mods/swem-fabric-development-1.6.6\u002Bfabric.dev.1.jar",
-      "Size": 11593240,
-      "Sha256": "e5062aefb705d23724e999db5fb2174ceee5eeecabdb7541ff285b50b56de7cc",
+      "Size": 11610930,
+      "Sha256": "0e80d06adda128e2a4de4b83dad16319f6ed4b3b5709990abfb29748b864f7dc",
       "FabricId": "swem"
     },
     {
