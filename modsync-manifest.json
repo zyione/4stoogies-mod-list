@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.15",
+  "Version": "1.16",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "39b72203e4a8c9939ab43fbf96129228219c11ac"
+      "Commit": "9273b424731d978e817be1eb3a7ed55a4f94e0cb"
     }
   ],
   "Files": [
@@ -1362,10 +1362,10 @@
     },
     {
       "Category": "mods",
-      "Path": "bcg-client-optimizer-0.28.0-alpha.1.jar",
-      "RepositoryPath": "mods/bcg-client-optimizer-0.28.0-alpha.1.jar",
-      "Size": 216333,
-      "Sha256": "043f187d760ad4f4c0671c207c1439451af949b31bdfd1b71062bd03a711b556",
+      "Path": "bcg-client-optimizer-0.29.0-alpha.1.jar",
+      "RepositoryPath": "mods/bcg-client-optimizer-0.29.0-alpha.1.jar",
+      "Size": 292007,
+      "Sha256": "b7f4152c2001d45d2a53fd135e561dc73b04765b769ff82afe9f29a9d6e1f832",
       "FabricId": "bcg_client_optimizer"
     },
     {
@@ -2570,10 +2570,10 @@
     },
     {
       "Category": "mods",
-      "Path": "lithium-fabric-mc1.20.1-0.11.2.jar",
-      "RepositoryPath": "mods/lithium-fabric-mc1.20.1-0.11.2.jar",
-      "Size": 645865,
-      "Sha256": "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9",
+      "Path": "lithium-fabric-mc1.20.1-0.11.4.jar",
+      "RepositoryPath": "mods/lithium-fabric-mc1.20.1-0.11.4.jar",
+      "Size": 691483,
+      "Sha256": "76133efe92aea907cf75562d9e26517deb170e2580e1ecd4979da2c8902de782",
       "FabricId": "lithium"
     },
     {
@@ -2834,10 +2834,10 @@
     },
     {
       "Category": "mods",
-      "Path": "modernfix-fabric-5.19.5\u002Bmc1.20.1.jar",
-      "RepositoryPath": "mods/modernfix-fabric-5.19.5\u002Bmc1.20.1.jar",
-      "Size": 648469,
-      "Sha256": "d738a888c9500ae999d3075957a8a6c7ea1327bff50df2ceb8b6f72039fbfc95",
+      "Path": "modernfix-fabric-5.25.2\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/modernfix-fabric-5.25.2\u002Bmc1.20.1.jar",
+      "Size": 545175,
+      "Sha256": "5c1f852046e62a17056bb6b571164e61644076c5eb9029c92b31e337cc62c0d9",
       "FabricId": "modernfix"
     },
     {
@@ -3167,6 +3167,14 @@
       "Size": 242139,
       "Sha256": "fc715f7d782011cf3161075cc147c501fb8aa673f3e6da44ba298228de30493a",
       "FabricId": "runes"
+    },
+    {
+      "Category": "mods",
+      "Path": "saturn-fabric-mc1.20.1-0.1.3-fabric.1.jar",
+      "RepositoryPath": "mods/saturn-fabric-mc1.20.1-0.1.3-fabric.1.jar",
+      "Size": 304752,
+      "Sha256": "3c701f4cf08ab1c6025da37bd2fa8e84624deb33594109c99f2bb5cc4cb40716",
+      "FabricId": "saturn"
     },
     {
       "Category": "mods",
