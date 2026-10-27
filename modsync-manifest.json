@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.17",
+  "Version": "1.18",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "f744415705137b0c3fc12d53126383dc4794eebc"
+      "Commit": "640844bd827916cbb662bf4eefbd104830627da5"
     }
   ],
   "Files": [
@@ -1844,8 +1844,8 @@
       "Category": "mods",
       "Path": "dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
       "RepositoryPath": "mods/dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
-      "Size": 22018497,
-      "Sha256": "352f9dd307b412aa0fbd084456e73eb96a146fa2c9812c60e03a07e6c93f007f",
+      "Size": 22072663,
+      "Sha256": "883e03f76a823dc56dbf07f5b23bcd7044c981be28629ebfaa337d22b07e1b65",
       "FabricId": "dragonsofberk"
     },
     {
@@ -2258,10 +2258,10 @@
     },
     {
       "Category": "mods",
-      "Path": "geckolib-fabric-1.20.1-4.4.9.jar",
-      "RepositoryPath": "mods/geckolib-fabric-1.20.1-4.4.9.jar",
-      "Size": 1019731,
-      "Sha256": "62029266eae8714c34c100803cad539415de728ce700aa709ef8a1b9b09b49f7",
+      "Path": "geckolib-fabric-1.20.1-4.7.2.jar",
+      "RepositoryPath": "mods/geckolib-fabric-1.20.1-4.7.2.jar",
+      "Size": 1042853,
+      "Sha256": "bc76fc3f61443db4da856502777c88ec62521d043f349da72105df172b065387",
       "FabricId": "geckolib"
     },
     {
@@ -2343,6 +2343,14 @@
       "Size": 16311,
       "Sha256": "c8f02612ef306c242edd640f6ba3631851733f7164662fd7925daf2fd2a9e5b6",
       "FabricId": "hotbar_randomizer"
+    },
+    {
+      "Category": "mods",
+      "Path": "icys-better-horses-2.1.7-fab-1.20.1.jar",
+      "RepositoryPath": "mods/icys-better-horses-2.1.7-fab-1.20.1.jar",
+      "Size": 3844803,
+      "Sha256": "f2b39db51ffbcc1359227fa8d644adb3fba6d9aed77745fdb5dac8324472627c",
+      "FabricId": "icys-better-horses"
     },
     {
       "Category": "mods",
