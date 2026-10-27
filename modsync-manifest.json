@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.16",
+  "Version": "1.17",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "9273b424731d978e817be1eb3a7ed55a4f94e0cb"
+      "Commit": "f744415705137b0c3fc12d53126383dc4794eebc"
     }
   ],
   "Files": [
@@ -1274,6 +1274,14 @@
     },
     {
       "Category": "mods",
+      "Path": "armorhide-1.1.2.jar",
+      "RepositoryPath": "mods/armorhide-1.1.2.jar",
+      "Size": 34636,
+      "Sha256": "0f157d895614022af1001f88c54b93579de7d73c516398d56b379b631edc6d62",
+      "FabricId": "armorhide"
+    },
+    {
+      "Category": "mods",
       "Path": "artifacts-fabric-9.5.13.jar",
       "RepositoryPath": "mods/artifacts-fabric-9.5.13.jar",
       "Size": 953629,
@@ -1362,10 +1370,10 @@
     },
     {
       "Category": "mods",
-      "Path": "bcg-client-optimizer-0.29.0-alpha.1.jar",
-      "RepositoryPath": "mods/bcg-client-optimizer-0.29.0-alpha.1.jar",
-      "Size": 292007,
-      "Sha256": "b7f4152c2001d45d2a53fd135e561dc73b04765b769ff82afe9f29a9d6e1f832",
+      "Path": "bcg-client-optimizer-0.34.0-alpha.1.jar",
+      "RepositoryPath": "mods/bcg-client-optimizer-0.34.0-alpha.1.jar",
+      "Size": 346014,
+      "Sha256": "938a89a77dc17499a037abde68765ccc02293a6e0d46ebb7e81c8249e66aa26d",
       "FabricId": "bcg_client_optimizer"
     },
     {
@@ -1391,6 +1399,14 @@
       "Size": 2312835,
       "Sha256": "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51",
       "FabricId": "bclib"
+    },
+    {
+      "Category": "mods",
+      "Path": "beacon-flight-1.0.0.jar",
+      "RepositoryPath": "mods/beacon-flight-1.0.0.jar",
+      "Size": 33421,
+      "Sha256": "5b174b2260c18433a102d4244538525e5d4836c4b3300bc4ea6c51edb50e3c1d",
+      "FabricId": "beacon_flight"
     },
     {
       "Category": "mods",
@@ -3250,10 +3266,10 @@
     },
     {
       "Category": "mods",
-      "Path": "sodium-fabric-0.5.13\u002Bmc1.20.1.jar",
-      "RepositoryPath": "mods/sodium-fabric-0.5.13\u002Bmc1.20.1.jar",
-      "Size": 971552,
-      "Sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "Path": "sodium-fabric-bcg-0.5.13\u002Bmc1.20.1.bcg.1.jar",
+      "RepositoryPath": "mods/sodium-fabric-bcg-0.5.13\u002Bmc1.20.1.bcg.1.jar",
+      "Size": 974151,
+      "Sha256": "bcece407f98719703134f535f77f212c0c65032bac3afc7a7a5111fd33029e43",
       "FabricId": "sodium"
     },
     {
