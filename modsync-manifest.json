@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.18",
+  "Version": "1.19",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "640844bd827916cbb662bf4eefbd104830627da5"
+      "Commit": "0e89102d32def5b9717d78a7739c11c5ad74e572"
     }
   ],
   "Files": [
@@ -1911,6 +1911,14 @@
       "Size": 873611,
       "Sha256": "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0",
       "FabricId": "emotecraft"
+    },
+    {
+      "Category": "mods",
+      "Path": "enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "RepositoryPath": "mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "Size": 233651,
+      "Sha256": "27edcceb54b33d733e83856c59a01bb9e2d9fa555c108a0893c343b542e823b8",
+      "FabricId": null
     },
     {
       "Category": "mods",
