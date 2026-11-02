@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.22",
+  "Version": "1.23",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "e426731b2c2373312b33d492c78d1d30010620e8"
+      "Commit": "896237968f6dc96e0c18182bbe9b6ddddb071cc8"
     }
   ],
   "Files": [
@@ -1322,10 +1322,10 @@
     },
     {
       "Category": "mods",
-      "Path": "azurelib-fabric-1.20.1-3.1.12.jar",
-      "RepositoryPath": "mods/azurelib-fabric-1.20.1-3.1.12.jar",
-      "Size": 1069682,
-      "Sha256": "67a8ee6b6b21aa3524ccce48c230819638ba81078cc01fe57a6e47111e43692d",
+      "Path": "azurelib-VDXznzXQ.jar",
+      "RepositoryPath": "mods/azurelib-VDXznzXQ.jar",
+      "Size": 1258814,
+      "Sha256": "a7381f41ede57c01bcd1d10326535a6c6d846fe251140b0f0d72c97e5267a44d",
       "FabricId": "azurelib"
     },
     {
@@ -1495,6 +1495,14 @@
       "Size": 36285,
       "Sha256": "96e7ad4bc85237bcd8a5850cb21bc1e02dc9e5467d6fdde6ba2188315b845ca3",
       "FabricId": "blahaj"
+    },
+    {
+      "Category": "mods",
+      "Path": "bookofdragons-fabric-1.4\u002B1.20.1.fabric.dev.1.jar",
+      "RepositoryPath": "mods/bookofdragons-fabric-1.4\u002B1.20.1.fabric.dev.1.jar",
+      "Size": 9150166,
+      "Sha256": "ce23cddeb5ce1be53257ec77c1c5ad47f55d56c597fe3ca7f05cb6e16aa1a8c8",
+      "FabricId": "bookofdragons"
     },
     {
       "Category": "mods",
@@ -1842,14 +1850,6 @@
     },
     {
       "Category": "mods",
-      "Path": "dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
-      "RepositoryPath": "mods/dragonsofberk-fabric-development-1.1.4\u002Bfabric.dev.1.jar",
-      "Size": 22137065,
-      "Sha256": "d88f6fc2f918b7cce64b389f9c9447b78726117bd16f6a48ebfd331b7502139c",
-      "FabricId": "dragonsofberk"
-    },
-    {
-      "Category": "mods",
       "Path": "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
       "RepositoryPath": "mods/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
       "Size": 230397,
@@ -2146,6 +2146,14 @@
     },
     {
       "Category": "mods",
+      "Path": "fauna-engine-fabric-1.0\u002B1.20.1.fabric.dev.1.jar",
+      "RepositoryPath": "mods/fauna-engine-fabric-1.0\u002B1.20.1.fabric.dev.1.jar",
+      "Size": 3236428,
+      "Sha256": "c9d3a437b2106ac00c95e47421984d576c864594b124b6e02a1563852257a366",
+      "FabricId": "liberanimalium"
+    },
+    {
+      "Category": "mods",
       "Path": "ferritecore-6.0.1-fabric.jar",
       "RepositoryPath": "mods/ferritecore-6.0.1-fabric.jar",
       "Size": 125197,
@@ -2167,6 +2175,14 @@
       "Size": 760048,
       "Sha256": "221251a869b7f4ac265aff520adbd9716a0abdabff7843f99115bbf05a7e5448",
       "FabricId": "forcemaster_rpg"
+    },
+    {
+      "Category": "mods",
+      "Path": "forge-config-api-port-Qs8LaZLo.jar",
+      "RepositoryPath": "mods/forge-config-api-port-Qs8LaZLo.jar",
+      "Size": 396955,
+      "Sha256": "8f078189ad44eaf20cfb277f92b6362a508d50a94b0a35956e2779c6665be464",
+      "FabricId": "forgeconfigapiport"
     },
     {
       "Category": "mods",
