@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.25",
+  "Version": "1.26",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "c20639a3a871db95169e33db1fecaa813c881810"
+      "Commit": "8db51f84f21d0f17f34f8d9db35ecfc044acba69"
     }
   ],
   "Files": [
@@ -1732,8 +1732,8 @@
       "Category": "mods",
       "Path": "create-gears-and-tavern-1.1.9\u002Bfabric.wip.1.jar",
       "RepositoryPath": "mods/create-gears-and-tavern-1.1.9\u002Bfabric.wip.1.jar",
-      "Size": 907543,
-      "Sha256": "8b59852dff3082fba42de1afc015545bd4c345497150f8370e1edd8f4551d456",
+      "Size": 918794,
+      "Sha256": "d7466fcfb29d9c70d47a1f450bb1b30fc0c4d609fee5493fc90cb4e983c5644b",
       "FabricId": "creategearsandtavern"
     },
     {
@@ -2532,16 +2532,16 @@
       "Category": "mods",
       "Path": "kaleidoscope-compat-2.6.5\u002Bfabric.wip.1.jar",
       "RepositoryPath": "mods/kaleidoscope-compat-2.6.5\u002Bfabric.wip.1.jar",
-      "Size": 861158,
-      "Sha256": "befc463eac33cccba0538b22398650b1cad2da012881dc8413b330ef2445dbb8",
+      "Size": 870961,
+      "Sha256": "655d2e8dfcc93e300a468d29bebec4067efb2df4af2a30f8e6a47143f5f517b4",
       "FabricId": "kaleidoscope_compat"
     },
     {
       "Category": "mods",
       "Path": "kaleidoscope-contraption-1.0.4\u002Bfabric.wip.1.jar",
       "RepositoryPath": "mods/kaleidoscope-contraption-1.0.4\u002Bfabric.wip.1.jar",
-      "Size": 466348,
-      "Sha256": "81f7d2dc209aaae4079da61475ac5d4cd8911248eb745c5fe235cc65634cdd91",
+      "Size": 478771,
+      "Sha256": "fc8579fa107ab7811da155501ddff4f177b6937673b68f8811c40b88b21c5260",
       "FabricId": "kaleidoscope_contraption"
     },
     {
@@ -2556,16 +2556,16 @@
       "Category": "mods",
       "Path": "kaleidoscope-dimensions-wine-1.1.9\u002Bfabric.wip.1.jar",
       "RepositoryPath": "mods/kaleidoscope-dimensions-wine-1.1.9\u002Bfabric.wip.1.jar",
-      "Size": 1068384,
-      "Sha256": "0fc7a7a9cf0e46ff0bb2e2258e3a35122bd1e7a12638297c6984cc949a397cd6",
+      "Size": 1069144,
+      "Sha256": "72c4712eba9b25e42be50ed72efb84dc17d151242035c748350eaa95b494ef2b",
       "FabricId": "kaleidoscope_dim_wine"
     },
     {
       "Category": "mods",
       "Path": "kaleidoscope-grilling-1.1.1\u002Bfabric.wip.1.jar",
       "RepositoryPath": "mods/kaleidoscope-grilling-1.1.1\u002Bfabric.wip.1.jar",
-      "Size": 3323253,
-      "Sha256": "bea63939652c1ae28ccab4daf61014a3ebbeb5b028382539983fb5cf2f5faa72",
+      "Size": 3332664,
+      "Sha256": "7bbe980e8ea02faca34f378e45b4ed6cb4e57ce35a01f5afd30ce6ae235a6ebb",
       "FabricId": "kaleidoscope_grilling"
     },
     {
@@ -2580,8 +2580,8 @@
       "Category": "mods",
       "Path": "kaleidoscope-world-liquor-1.1.14\u002Bfabric.wip.1.jar",
       "RepositoryPath": "mods/kaleidoscope-world-liquor-1.1.14\u002Bfabric.wip.1.jar",
-      "Size": 6844092,
-      "Sha256": "808ddfb32fdab86638a6fcb7233e105f48543eff069de0625106d3a0163e9d8a",
+      "Size": 6850783,
+      "Sha256": "1bc6ca1ba3f1d987291e7be10830b379a8dc9c2cf40b4b6d1bddb35d6da5aada",
       "FabricId": "kaleidoscope_world_liquor"
     },
     {
@@ -2596,8 +2596,8 @@
       "Category": "mods",
       "Path": "kaleidoscope_chinesefood-1.1.16.1-fabric\u002Bmc1.20.1.jar",
       "RepositoryPath": "mods/kaleidoscope_chinesefood-1.1.16.1-fabric\u002Bmc1.20.1.jar",
-      "Size": 8855184,
-      "Sha256": "b56e1bb95467257100a5c20c08568a3ff5c5b88bdd82f29cf46e235a0d419ad5",
+      "Size": 8863117,
+      "Sha256": "8754eb06f04e10e16600c310bd1ada4959194bcb597210b9a336d732b5958e8f",
       "FabricId": "kaleidoscope_chinesefood"
     },
     {
