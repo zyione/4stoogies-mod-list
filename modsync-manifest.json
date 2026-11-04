@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.23",
+  "Version": "1.24",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "896237968f6dc96e0c18182bbe9b6ddddb071cc8"
+      "Commit": "19a6bc51953cc7cff1178de89398ad71a66a9c52"
     }
   ],
   "Files": [
@@ -634,10 +634,10 @@
     },
     {
       "Category": "mods",
-      "Path": "FarmersDelight-1.20.1-2.2.0\u002Brefabricated.jar",
-      "RepositoryPath": "mods/FarmersDelight-1.20.1-2.2.0\u002Brefabricated.jar",
-      "Size": 6193396,
-      "Sha256": "c43e0fb9c87c46f918fd39cfdc3693bdfd1c95fde30e4b8012bcde4472e0cb91",
+      "Path": "FarmersDelight-1.20.1-2.5.7\u002Brefabricated.jar",
+      "RepositoryPath": "mods/FarmersDelight-1.20.1-2.5.7\u002Brefabricated.jar",
+      "Size": 6117761,
+      "Sha256": "7f5c6cf0e05f66c11925c6e1e66c513fa4f9660a742e38762c929b3ca37de2d9",
       "FabricId": "farmersdelight"
     },
     {
@@ -1730,6 +1730,14 @@
     },
     {
       "Category": "mods",
+      "Path": "create-gears-and-tavern-1.1.9\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/create-gears-and-tavern-1.1.9\u002Bfabric.wip.1.jar",
+      "Size": 907543,
+      "Sha256": "8b59852dff3082fba42de1afc015545bd4c345497150f8370e1edd8f4551d456",
+      "FabricId": "creategearsandtavern"
+    },
+    {
+      "Category": "mods",
       "Path": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
       "RepositoryPath": "mods/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
       "Size": 227202,
@@ -1943,6 +1951,14 @@
       "Size": 490690,
       "Sha256": "1c4ce2c00d8cc6d2269de3cadaba551607c62692a8e5ad1d7c618462ed7ed05b",
       "FabricId": "enhancedblockentities"
+    },
+    {
+      "Category": "mods",
+      "Path": "entity-2.3.13\u002B1.20.1.jar",
+      "RepositoryPath": "mods/entity-2.3.13\u002B1.20.1.jar",
+      "Size": 553730,
+      "Sha256": "1e8973d4b3bdc3bd4ea980e549ef69ae032d0ae0f5ea57810d76d3a80c59966a",
+      "FabricId": "porting_lib_entity"
     },
     {
       "Category": "mods",
@@ -2503,6 +2519,94 @@
       "Size": 90255,
       "Sha256": "7c566bdc6d18af12ba9160a7469526ac815be2c3f5e75accb673261b79fcbc65",
       "FabricId": "justhammers"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-bloodwine-1.1.0\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-bloodwine-1.1.0\u002Bfabric.wip.1.jar",
+      "Size": 193712,
+      "Sha256": "9a17fc9058a5731eaf7ae85570fa4aba7772c69461c2f1ff8355e100f0f9c572",
+      "FabricId": "kaleidoscope_bloodwine"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-compat-2.6.5\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-compat-2.6.5\u002Bfabric.wip.1.jar",
+      "Size": 861158,
+      "Sha256": "befc463eac33cccba0538b22398650b1cad2da012881dc8413b330ef2445dbb8",
+      "FabricId": "kaleidoscope_compat"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-contraption-1.0.4\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-contraption-1.0.4\u002Bfabric.wip.1.jar",
+      "Size": 466348,
+      "Sha256": "81f7d2dc209aaae4079da61475ac5d4cd8911248eb745c5fe235cc65634cdd91",
+      "FabricId": "kaleidoscope_contraption"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-cookery-automation-1.0.1\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-cookery-automation-1.0.1\u002Bfabric.wip.1.jar",
+      "Size": 115964,
+      "Sha256": "f43e23f4b2be9af0be292939506c26ec42a451d62deca111084d240c3a47c6b6",
+      "FabricId": "kaleidoscopecookery_automation"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-dimensions-wine-1.1.9\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-dimensions-wine-1.1.9\u002Bfabric.wip.1.jar",
+      "Size": 1068384,
+      "Sha256": "0fc7a7a9cf0e46ff0bb2e2258e3a35122bd1e7a12638297c6984cc949a397cd6",
+      "FabricId": "kaleidoscope_dim_wine"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-grilling-1.1.1\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-grilling-1.1.1\u002Bfabric.wip.1.jar",
+      "Size": 3323253,
+      "Sha256": "bea63939652c1ae28ccab4daf61014a3ebbeb5b028382539983fb5cf2f5faa72",
+      "FabricId": "kaleidoscope_grilling"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-texture-expansion-2.12.0\u002Bfabric.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-texture-expansion-2.12.0\u002Bfabric.1.jar",
+      "Size": 524375,
+      "Sha256": "35206ad3566039bd1d159663180bf520bdb0e76e903231c87cf3aaf79b081681",
+      "FabricId": "soup_pot_texture_expansion"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope-world-liquor-1.1.14\u002Bfabric.wip.1.jar",
+      "RepositoryPath": "mods/kaleidoscope-world-liquor-1.1.14\u002Bfabric.wip.1.jar",
+      "Size": 6844092,
+      "Sha256": "808ddfb32fdab86638a6fcb7233e105f48543eff069de0625106d3a0163e9d8a",
+      "FabricId": "kaleidoscope_world_liquor"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope_chinesefood-1.1.16.1-fabric\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/kaleidoscope_chinesefood-1.1.16.1-fabric\u002Bmc1.20.1.jar",
+      "Size": 8855184,
+      "Sha256": "b56e1bb95467257100a5c20c08568a3ff5c5b88bdd82f29cf46e235a0d419ad5",
+      "FabricId": "kaleidoscope_chinesefood"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope_cookery-1.6.0.7-fabric\u002Bmc1.20.1\u002Bbcg-selftagfix.1.jar",
+      "RepositoryPath": "mods/kaleidoscope_cookery-1.6.0.7-fabric\u002Bmc1.20.1\u002Bbcg-selftagfix.1.jar",
+      "Size": 8449406,
+      "Sha256": "8e1ca9d8b3a95bf486558271089552856554d23f6f3f8569bf4558e5a04affa2",
+      "FabricId": "kaleidoscope_cookery"
+    },
+    {
+      "Category": "mods",
+      "Path": "kaleidoscope_tavern-1.2.0.13-fabric\u002Bmc1.20.1.jar",
+      "RepositoryPath": "mods/kaleidoscope_tavern-1.2.0.13-fabric\u002Bmc1.20.1.jar",
+      "Size": 4448393,
+      "Sha256": "9b90c9bf004faf87e94abe0d24e87fbbb9103774f27066a3c7d9bd5e4e32d19b",
+      "FabricId": "kaleidoscope_tavern"
     },
     {
       "Category": "mods",
@@ -3095,6 +3199,22 @@
       "Size": 17730,
       "Sha256": "f148ea119b918a91564c0c315bd10396b11132a9fcf4cc1b0e4a10b3b5d4c1d1",
       "FabricId": "polymorphic_tom"
+    },
+    {
+      "Category": "mods",
+      "Path": "porting_lib_core-2.3.15\u002B1.20.1.jar",
+      "RepositoryPath": "mods/porting_lib_core-2.3.15\u002B1.20.1.jar",
+      "Size": 55666,
+      "Sha256": "c01f003939f2611b25f154f3989a7083da2c46333e00660bf5a9ab772dcd861f",
+      "FabricId": "porting_lib_core"
+    },
+    {
+      "Category": "mods",
+      "Path": "porting_lib_fluids-2.3.13\u002B1.20.1.jar",
+      "RepositoryPath": "mods/porting_lib_fluids-2.3.13\u002B1.20.1.jar",
+      "Size": 93691,
+      "Sha256": "92132064a2201bc9284d22e38884a92bc24eae6052d8d21304b86aad9b90da6f",
+      "FabricId": "porting_lib_fluids"
     },
     {
       "Category": "mods",
