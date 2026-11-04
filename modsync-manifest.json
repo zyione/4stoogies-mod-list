@@ -1,6 +1,6 @@
 {
   "Schema": 1,
-  "Version": "1.26",
+  "Version": "1.27",
   "Minecraft": "1.20.1",
   "Fabric": "0.19.5",
   "Repositories": [
@@ -20,7 +20,7 @@
       "Category": "mods",
       "Url": "https://github.com/zyione/4stoogies-mod-list.git",
       "Branch": "main",
-      "Commit": "8db51f84f21d0f17f34f8d9db35ecfc044acba69"
+      "Commit": "81f92fca80f270c2dfd7c5b38f088841903d1bfc"
     }
   ],
   "Files": [
@@ -2588,8 +2588,8 @@
       "Category": "mods",
       "Path": "kaleidoscope_ImmersiveEating-fabric1.20.1-1.5.5.jar",
       "RepositoryPath": "mods/kaleidoscope_ImmersiveEating-fabric1.20.1-1.5.5.jar",
-      "Size": 2850974,
-      "Sha256": "7b1474873487d1a8512c5ea7a7c57cdde8b214678ec49036a1a5f403f26ecf84",
+      "Size": 2993517,
+      "Sha256": "0def5fef5b763ba668f3853deb7e6389bcf8530a44fc7f6b0b6b9253593d8591",
       "FabricId": "food"
     },
     {
@@ -2604,8 +2604,8 @@
       "Category": "mods",
       "Path": "kaleidoscope_cookery-1.6.0.7-fabric\u002Bmc1.20.1\u002Bbcg-selftagfix.1.jar",
       "RepositoryPath": "mods/kaleidoscope_cookery-1.6.0.7-fabric\u002Bmc1.20.1\u002Bbcg-selftagfix.1.jar",
-      "Size": 8449406,
-      "Sha256": "8e1ca9d8b3a95bf486558271089552856554d23f6f3f8569bf4558e5a04affa2",
+      "Size": 8449395,
+      "Sha256": "ee6c48830fa9042a5a6060df98d7306cdb376084c1158f8b09f5ff72a5c161f2",
       "FabricId": "kaleidoscope_cookery"
     },
     {
